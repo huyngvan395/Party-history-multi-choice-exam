@@ -6,15 +6,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "nhan-biet",
-    "question": "Hội nghị hiệp thương chính trị của hai đoàn đại biểu Bắc – Nam (Việt Nam Dân chủ Cộng hòa và Cộng hòa miền Nam Việt Nam) bàn về thống nhất đất nước về mặt nhà nước diễn ra vào thời gian nào và tại đâu?",
+    "question": "Hội nghị hiệp thương chính trị thống nhất Tổ quốc của hai đoàn đại biểu Bắc – Nam diễn ra vào thời gian nào và tại đâu?",
     "options": [
-      "Từ ngày 24/6 đến ngày 3/7/1976 tại Huế",
+      "Từ ngày 24/6 đến 3/7/1976 tại Hà Nội",
       "Ngày 25/4/1976 tại Thủ đô Hà Nội",
-      "Từ ngày 15 đến ngày 21/11/1975 tại Sài Gòn",
-      "Từ ngày 14 đến ngày 20/12/1976 tại Sài Gòn"
+      "Từ ngày 15 đến 21/11/1975 tại Sài Gòn",
+      "Từ ngày 14 đến 20/12/1976 tại Sài Gòn"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 2 nêu rõ mốc đầu tiên của quá trình hoàn thành thống nhất đất nước về mặt nhà nước: Từ ngày 15 đến ngày 21/11/1975, Hội nghị hiệp thương chính trị của hai đoàn đại biểu Bắc, Nam họp tại Sài Gòn."
+    "explanation": "Slide 2 ghi rõ tiến trình thống nhất nhà nước: Hội nghị hiệp thương chính trị Bắc – Nam họp tại Sài Gòn (15–21/11/1975) → Tổng tuyển cử (25/4/1976) → Kỳ họp I Quốc hội khóa VI (24/6–3/7/1976)."
   },
   {
     "id": "c3_3.1_02",
@@ -23,15 +23,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "nhan-biet",
-    "question": "Cuộc Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất (Quốc hội khóa VI) được tiến hành trên cả nước vào ngày tháng năm nào?",
+    "question": "Cuộc Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tổ chức vào ngày tháng năm nào?",
     "options": [
-      "Ngày 30/4/1975",
+      "Ngày 6/1/1976",
       "Ngày 25/4/1976",
       "Ngày 2/7/1976",
-      "Ngày 6/1/1976"
+      "Ngày 30/4/1976"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 2 ghi chính xác: Ngày 25/4/1976, cuộc Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất được tiến hành thành công trên phạm vi cả nước."
+    "explanation": "Slide 2 nêu rõ ngày 25/4/1976 cuộc Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất diễn ra trên phạm vi cả nước (phân biệt với Tổng tuyển cử khóa I ngày 6/1/1946)."
   },
   {
     "id": "c3_3.1_03",
@@ -40,15 +40,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "nhan-biet",
-    "question": "Kỳ họp thứ nhất Quốc hội Việt Nam thống nhất (24/6 – 3/7/1976) đã thông qua những quyết định trọng đại nào về tên nước, Thủ đô và Thành phố Sài Gòn?",
+    "question": "Đâu KHÔNG PHẢI là quyết định của Kỳ họp thứ nhất Quốc hội Việt Nam thống nhất (24/6 – 3/7/1976)?",
     "options": [
-      "Đặt tên nước là Cộng hòa xã hội chủ nghĩa Việt Nam, Thủ đô là Hà Nội và đổi tên Thành phố Sài Gòn thành Thành phố Hồ Chí Minh",
-      "Giữ tên nước là Việt Nam Dân chủ Cộng hòa, Thủ đô là Hà Nội và giữ nguyên tên Thành phố Sài Gòn",
-      "Đặt tên nước là Liên bang Đông Dương, chọn Huế làm Thủ đô và đổi tên Sài Gòn thành Gia Định",
-      "Đặt tên nước là Cộng hòa miền Nam Việt Nam, Thủ đô là Sài Gòn và thông qua Hiến pháp 1992"
+      "Đổi tên Đảng Lao động Việt Nam thành Đảng Cộng sản Việt Nam",
+      "Quy định Thủ đô là Hà Nội và đổi tên Thành phố Sài Gòn thành Thành phố Hồ Chí Minh",
+      "Quy định Quốc ca là bài Tiến quân ca, Quốc kỳ nền đỏ sao vàng 5 cánh",
+      "Đặt tên nước là Cộng hòa xã hội chủ nghĩa Việt Nam"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 2 nêu trọn vẹn các quyết định của Kỳ họp thứ nhất Quốc hội Việt Nam thống nhất (24/6–3/7/1976): tên nước là Cộng hòa xã hội chủ nghĩa Việt Nam, Quốc kỳ nền đỏ sao vàng 5 cánh, Quốc ca là Tiến quân ca, Quốc huy mang dòng chữ Cộng hòa xã hội chủ nghĩa Việt Nam, Thủ đô là Hà Nội và đổi tên Thành phố Sài Gòn là Thành phố Hồ Chí Minh."
+    "explanation": "Việc đổi tên Đảng thành Đảng Cộng sản Việt Nam là quyết định của Đại hội đại biểu toàn quốc lần thứ IV của Đảng (12/1976), không phải quyết định của Kỳ họp I Quốc hội (6–7/1976)."
   },
   {
     "id": "c3_3.1_04",
@@ -57,15 +57,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "nhan-biet",
-    "question": "Tại Đại hội đại biểu toàn quốc lần thứ IV (tháng 12/1976), Đảng ta đã quyết định đổi tên Đảng Lao động Việt Nam thành tên gọi nào và đề ra đường lối công nghiệp hóa ra sao?",
+    "question": "Đảng Lao động Việt Nam chính thức đổi tên trở lại thành Đảng Cộng sản Việt Nam tại Đại hội nào?",
     "options": [
-      "Đổi tên thành Đảng Cộng sản Việt Nam; xóa bỏ hoàn toàn công nghiệp nặng để tập trung làm nông nghiệp",
-      "Đổi tên thành Đảng Cộng sản Đông Dương; ưu tiên phát triển thương mại dịch vụ và du lịch",
-      "Giữ nguyên tên Đảng Lao động Việt Nam; lấy công nghiệp nhẹ xuất khẩu làm ngành duy nhất",
-      "Đổi tên thành Đảng Cộng sản Việt Nam; ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ"
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ III (9/1960)",
+      "Đại hội đại biểu toàn quốc lần thứ V (3/1982)",
+      "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 5 nêu rõ: Đại hội IV (12/1976) quyết định đổi tên Đảng thành Đảng Cộng sản Việt Nam và đề ra đường lối công nghiệp hóa là ưu tiên phát triển công nghiệp nặng trên cơ sở phát triển nông nghiệp và phát triển công nghiệp nhẹ."
+    "explanation": "Slide 5 ghi rõ: Đại hội IV (12/1976) quyết định đổi tên Đảng Lao động Việt Nam thành Đảng Cộng sản Việt Nam."
   },
   {
     "id": "c3_3.1_05",
@@ -74,15 +74,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "nhan-biet",
-    "question": "Đại hội đại biểu toàn quốc lần thứ V của Đảng (tháng 3/1982) đã điều chỉnh bước đi của công nghiệp hóa bằng chủ trương nổi bật nào?",
+    "question": "Đường lối công nghiệp hóa được Đại hội IV (12/1976) đề ra có trọng tâm là gì?",
     "options": [
-      "Lấy nông nghiệp làm mặt trận hàng đầu; phát triển công nghiệp sản xuất hàng tiêu dùng và phát triển công nghiệp nặng có mức độ, vừa sức phục vụ nông nghiệp và công nghiệp nhẹ",
-      "Ưu tiên tuyệt đối công nghiệp nặng quy mô lớn bằng nguồn vốn vay thương mại từ phương Tây",
-      "Chuyển ngay sang mô hình kinh tế thị trường định hướng xã hội chủ nghĩa có vốn đầu tư nước ngoài",
-      "Tạm dừng phát triển nông nghiệp trong 5 năm để tập trung xây dựng các khu công nghệ cao"
+      "Ưu tiên phát triển công nghiệp nặng trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ",
+      "Lấy nông nghiệp làm mặt trận hàng đầu, phát triển công nghiệp nặng có mức độ vừa sức",
+      "Thực hiện ba chương trình mục tiêu về lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu",
+      "Đẩy mạnh công nghiệp hóa, hiện đại hóa gắn với thành tựu Cách mạng công nghiệp lần thứ tư"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 6 trình bày đường lối CNH của Đại hội V (3/1982): Lấy nông nghiệp làm mặt trận hàng đầu; phát triển công nghiệp sản xuất hàng tiêu dùng, phát triển công nghiệp nặng có mức độ, vừa sức nhằm phục vụ cho nông nghiệp và công nghiệp nhẹ."
+    "explanation": "Phân biệt rõ: ĐH IV (12/1976) ưu tiên phát triển CN nặng trên cơ sở phát triển nông nghiệp và CN nhẹ; ĐH V (3/1982) điều chỉnh lấy nông nghiệp làm mặt trận hàng đầu; ĐH VI (12/1986) tập trung 3 chương trình mục tiêu."
   },
   {
     "id": "c3_3.1_06",
@@ -91,15 +91,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "nhan-biet",
-    "question": "Chế độ kinh tế bao cấp thời kỳ trước đổi mới được thực hiện dưới ba hình thức chủ yếu nào?",
+    "question": "Chủ trương “Lấy nông nghiệp làm mặt trận hàng đầu” và phát triển công nghiệp nặng có mức độ, vừa sức được đề ra lần đầu tiên tại Đại hội nào?",
     "options": [
-      "Bao cấp qua hợp đồng lao động tự do, bao cấp qua bảo hiểm tư nhân và bao cấp qua quỹ đầu tư FDI",
-      "Bao cấp qua cổ phiếu, bao cấp qua lãi suất ngân hàng thương mại và bao cấp qua xuất khẩu",
-      "Bao cấp qua đấu thầu công khai, bao cấp qua thuế thu nhập cá nhân và bao cấp qua tỷ giá thả nổi",
-      "Bao cấp qua giá, bao cấp qua chế độ tem phiếu và bao cấp theo chế độ cấp phát vốn"
+      "Đại hội đại biểu toàn quốc lần thứ III (9/1960)",
+      "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)",
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 16 liệt kê chính xác 3 hình thức chủ yếu của chế độ bao cấp trước đổi mới: (1) Bao cấp qua giá; (2) Bao cấp qua chế độ tem phiếu; (3) Bao cấp theo chế độ cấp phát vốn."
+    "explanation": "Slide 6 nêu rõ: Đại hội V (3/1982) đánh dấu bước điều chỉnh đúng đắn về bước đi CNH khi xác định lấy nông nghiệp làm mặt trận hàng đầu, phát triển CN sản xuất hàng tiêu dùng và CN nặng vừa sức."
   },
   {
     "id": "c3_3.1_07",
@@ -108,15 +108,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "thong-hieu",
-    "question": "Các đặc trưng chủ yếu của mô hình công nghiệp hóa ở nước ta thời kỳ trước đổi mới là gì?",
+    "question": "Đâu KHÔNG PHẢI là một trong ba hình thức chủ yếu của chế độ bao cấp thời kỳ trước đổi mới?",
     "options": [
-      "Công nghiệp hóa vận hành hoàn toàn theo quy luật cung cầu thị trường và cạnh tranh quốc tế",
-      "Công nghiệp hóa theo mô hình kinh tế mở, hướng mạnh vào xuất khẩu và dựa vào tiến bộ khoa học công nghệ 4.0",
-      "Công nghiệp hóa dựa chủ yếu vào kinh tế tư nhân làm động lực chính kết hợp thu hút vốn FDI",
-      "Công nghiệp hóa theo mô hình kinh tế khép kín, hướng nội, thiên về công nghiệp nặng; dựa vào lao động, tài nguyên và viện trợ XHCN; gắn với cơ chế kế hoạch hóa tập trung bao cấp, chủ lực là Nhà nước và doanh nghiệp nhà nước"
+      "Bao cấp qua giá",
+      "Bao cấp qua chế độ tem phiếu",
+      "Bao cấp theo chế độ cấp phát vốn",
+      "Bao cấp qua thị trường chứng khoán"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 7 tổng kết 5 đặc trưng của CNH thời kỳ trước đổi mới: theo mô hình kinh tế khép kín, hướng nội, thiên về công nghiệp nặng; chủ yếu dựa vào lao động, tài nguyên đất đai và viện trợ XHCN; gắn với cơ chế kế hoạch hóa tập trung quan liêu bao cấp không thừa nhận quy luật thị trường; chủ lực là Nhà nước và DNNN; ham làm nhanh, làm lớn, ít quan tâm hiệu quả KT-XH."
+    "explanation": "Slide 16 liệt kê 3 hình thức chủ yếu của chế độ bao cấp trước đổi mới: bao cấp qua giá, bao cấp qua chế độ tem phiếu và bao cấp theo chế độ cấp phát vốn."
   },
   {
     "id": "c3_3.1_08",
@@ -125,15 +125,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "thong-hieu",
-    "question": "Trong cơ chế kế hoạch hóa tập trung quan liêu, bao cấp trước đổi mới, phương thức quản lý của Nhà nước đối với các doanh nghiệp và lưu thông hàng hóa có đặc điểm gì?",
+    "question": "Chế độ “cấp phát – giao nộp” và coi nhẹ quan hệ hàng hóa – tiền tệ là biểu hiện đặc trưng của cơ chế quản lý kinh tế nào?",
     "options": [
-      "Giá cả hàng hóa được hình thành tự do theo quy luật cung cầu trên thị trường thống nhất toàn quốc",
-      "Nhà nước chỉ điều tiết vĩ mô bằng hệ thống pháp luật, chính sách tài khóa và tiền tệ, tôn trọng quyền tự chủ sản xuất kinh doanh của doanh nghiệp",
-      "Quản lý chủ yếu bằng mệnh lệnh hành chính với hệ thống chỉ tiêu pháp lệnh chi tiết; cơ quan hành chính can thiệp sâu nhưng không chịu trách nhiệm vật chất; coi nhẹ quan hệ hàng hóa - tiền tệ, quản lý theo chế độ “cấp phát – giao nộp”",
-      "Các doanh nghiệp tự hạch toán kinh doanh, tự chịu trách nhiệm lỗ lãi và cạnh tranh bình đẳng theo pháp luật"
+      "Cơ chế kinh tế thị trường định hướng xã hội chủ nghĩa thời kỳ Đại hội IX",
+      "Cơ chế kinh tế hàng hóa nhiều thành phần thời kỳ Đại hội VI",
+      "Cơ chế kế hoạch hóa tập trung quan liêu, bao cấp trước đổi mới",
+      "Cơ chế kinh tế mở hội nhập quốc tế sau khi gia nhập WTO"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 13–15 phân tích 4 đặc điểm của cơ chế kế hoạch hóa tập trung quan liêu bao cấp: quản lý bằng mệnh lệnh hành chính và chỉ tiêu pháp lệnh chi tiết; cơ quan hành chính can thiệp quá sâu nhưng không chịu trách nhiệm vật chất; coi nhẹ quan hệ hàng hóa - tiền tệ, thực hiện chế độ “cấp phát – giao nộp”; bộ máy quản lý cồng kềnh, nhiều cấp trung gian."
+    "explanation": "Slide 15 nêu rõ đặc điểm cơ chế bao cấp: coi nhẹ quan hệ hàng hóa – tiền tệ, quan hệ hiện vật là chủ yếu, Nhà nước quản lý thông qua chế độ “cấp phát – giao nộp”."
   },
   {
     "id": "c3_3.1_09",
@@ -142,15 +142,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "thong-hieu",
-    "question": "Hạn chế nghiêm trọng nhất trong nhận thức và tổ chức thực hiện công nghiệp hóa thời kỳ trước đổi mới (1960 – 1985) là gì?",
+    "question": "Đâu KHÔNG PHẢI là đặc trưng chủ yếu của mô hình công nghiệp hóa ở Việt Nam thời kỳ trước đổi mới (1960 – 1985)?",
     "options": [
-      "Đầu tư quá ít vốn vào công nghiệp nặng nên thiếu trầm trọng các công trình quy mô lớn",
-      "Quá coi trọng phát triển kinh tế tư nhân nên làm suy yếu hoàn toàn vai trò điều tiết của Nhà nước",
-      "Mở cửa hội nhập quá nhanh khiến doanh nghiệp trong nước bị cạnh tranh gay gắt từ năm 1976",
-      "Chủ quan, nóng vội, duy ý chí khi chưa đủ tiền đề; thiên về công nghiệp nặng và công trình quy mô lớn, không tập trung giải quyết lương thực, thực phẩm, hàng tiêu dùng; chưa thực sự coi nông nghiệp là mặt trận hàng đầu"
+      "Công nghiệp hóa theo mô hình nền kinh tế khép kín, hướng nội, thiên về công nghiệp nặng",
+      "Dựa chủ yếu vào lao động, tài nguyên đất đai và nguồn viện trợ của các nước XHCN",
+      "Chủ lực thực hiện công nghiệp hóa là Nhà nước và doanh nghiệp nhà nước",
+      "Gắn liền với kinh tế thị trường mở, lấy kinh tế tư nhân làm động lực quan trọng"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 8 chỉ rõ các hạn chế của CNH trước đổi mới: chủ quan, nóng vội, duy ý chí trong xác định mục tiêu và bước đi; đẩy mạnh CNH khi chưa đủ tiền đề; thiên về xây dựng CN nặng và công trình quy mô lớn mà không giải quyết căn bản lương thực, thực phẩm, hàng tiêu dùng, hàng xuất khẩu; chưa thực sự coi nông nghiệp là mặt trận hàng đầu."
+    "explanation": "Slide 7 chỉ rõ CNH trước đổi mới là mô hình khép kín, hướng nội, bao cấp, không thừa nhận quy luật thị trường và chủ lực là Nhà nước cùng DNNN."
   },
   {
     "id": "c3_3.1_10",
@@ -159,15 +159,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "thong-hieu",
-    "question": "Bên cạnh những hạn chế nghiêm trọng trong thời bình, cơ chế kế hoạch hóa tập trung trước đổi mới từng có ý nghĩa lịch sử tích cực nào?",
+    "question": "Mặt tích cực lịch sử từng có của cơ chế kế hoạch hóa tập trung thời kỳ trước đổi mới là gì?",
     "options": [
-      "Cho phép tập trung tối đa các nguồn lực kinh tế vào các mục tiêu chủ yếu trong từng giai đoạn, đặc biệt trong điều kiện chiến tranh và bước đầu xây dựng cơ sở công nghiệp",
-      "Tạo ra môi trường cạnh tranh năng động và thúc đẩy mạnh mẽ đổi mới sáng tạo công nghệ ở mọi doanh nghiệp",
-      "Giúp Việt Nam nhanh chóng xóa bỏ hoàn toàn tình trạng khan hiếm hàng hóa tiêu dùng ngay từ năm 1980",
-      "Thu hút nguồn vốn đầu tư trực tiếp nước ngoài (FDI) quy mô lớn từ các tập đoàn đa quốc gia"
+      "Cho phép tập trung tối đa nguồn lực kinh tế vào các mục tiêu chủ yếu trong từng giai đoạn",
+      "Kích thích mạnh mẽ tính năng động sáng tạo và cạnh tranh giữa các doanh nghiệp",
+      "Thúc đẩy nhanh quá trình hội nhập vào thị trường tài chính quốc tế",
+      "Xóa bỏ hoàn toàn tình trạng quan liêu và cồng kềnh trong bộ máy quản lý"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 17 đánh giá khách quan hai mặt của cơ chế kế hoạch hóa tập trung: về ý nghĩa lịch sử, cơ chế này cho phép tập trung tối đa các nguồn lực kinh tế vào các mục tiêu chủ yếu trong từng giai đoạn; tuy nhiên khi duy trì quá lâu trong thời bình đã khiến nền kinh tế rơi vào trì trệ, khủng hoảng."
+    "explanation": "Slide 17 đánh giá khách quan: cơ chế kế hoạch hóa tập trung từng cho phép tập trung tối đa nguồn lực vào các mục tiêu chủ yếu, nhưng khi kéo dài trong thời bình đã khiến kinh tế rơi vào trì trệ, khủng hoảng."
   },
   {
     "id": "c3_3.1_11",
@@ -176,15 +176,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "thong-hieu",
-    "question": "Nguyên nhân gốc rễ khiến cơ chế kế hoạch hóa tập trung quan liêu, bao cấp thủ tiêu cạnh tranh, kìm hãm tiến bộ khoa học công nghệ và triệt tiêu động lực của người lao động là gì?",
+    "question": "Nguyên nhân gốc rễ về mặt nhận thức khiến cơ chế kế hoạch hóa tập trung quan liêu, bao cấp kìm hãm sản xuất là gì?",
     "options": [
-      "Do các doanh nghiệp tư nhân và có vốn đầu tư nước ngoài lũng đoạn toàn bộ thị trường nội địa",
-      "Do Việt Nam hoàn toàn thiếu tài nguyên thiên nhiên và lực lượng lao động nông nghiệp",
-      "Sai lầm trong nhận thức: không thừa nhận sản xuất hàng hóa và cơ chế thị trường, không thừa nhận sự tồn tại nhiều thành phần kinh tế trong thời kỳ quá độ, muốn xóa nhanh sở hữu tư nhân và xây dựng kinh tế khép kín",
-      "Do Nhà nước buông lỏng hoàn toàn công tác lập kế hoạch và kiểm soát giá cả hàng hóa"
+      "Buông lỏng quản lý nhà nước, không ban hành chỉ tiêu kế hoạch nào",
+      "Đánh giá quá cao vai trò của quy luật cung cầu và kinh tế tư nhân",
+      "Không thừa nhận sản xuất hàng hóa, cơ chế thị trường và nền kinh tế nhiều thành phần trong thời kỳ quá độ",
+      "Mở cửa hội nhập quá sớm khi các doanh nghiệp trong nước chưa sẵn sàng"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 18 phân tích rõ hạn chế và nguyên nhân: cơ chế bao cấp thủ tiêu cạnh tranh, kìm hãm KHCN và triệt tiêu động lực người lao động xuất phát từ sai lầm nhận thức không thừa nhận sản xuất hàng hóa, cơ chế thị trường và kinh tế nhiều thành phần trong thời kỳ quá độ, muốn xóa nhanh sở hữu tư nhân và xây dựng nền kinh tế khép kín."
+    "explanation": "Slide 18 chỉ rõ nguyên nhân: sai lầm nhận thức không thừa nhận sản xuất hàng hóa, cơ chế thị trường và sự tồn tại nhiều thành phần kinh tế, muốn xóa nhanh sở hữu tư nhân và xây dựng nền kinh tế khép kín."
   },
   {
     "id": "c3_3.1_12",
@@ -193,15 +193,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "van-dung",
-    "question": "Đánh giá mối liên hệ giữa bước điều chỉnh đường lối công nghiệp hóa tại Đại hội V (3/1982) với thực tiễn triển khai giai đoạn 1982 – 1985, nhận định nào là CHÍNH XÁC nhất?",
+    "question": "Nhận định nào sau đây phản ánh ĐÚNG thực tiễn triển khai đường lối công nghiệp hóa của Đại hội V (3/1982) trong giai đoạn 1982 – 1985?",
     "options": [
-      "Đại hội V đã triển khai triệt để đường lối đổi mới toàn diện nên nền kinh tế thoát khỏi khủng hoảng ngay năm 1984",
-      "Đại hội V đã có sự điều chỉnh đúng đắn bước đi CNH (lấy nông nghiệp làm mặt trận hàng đầu), nhưng trên thực tế đã không thực hiện nghiêm chỉnh nghị quyết Đại hội V nên kinh tế vẫn tiếp tục khủng hoảng",
-      "Đại hội V từ bỏ hoàn toàn sự nghiệp công nghiệp hóa để chuyển sang nền kinh tế thuần nông",
-      "Đại hội V quay lại mô hình ưu tiên tuyệt đối công nghiệp nặng còn cực đoan hơn Đại hội IV"
+      "Đại hội V điều chỉnh sai lầm hoàn toàn do coi nhẹ vai trò của sản xuất nông nghiệp",
+      "Đại hội V đã điều chỉnh đúng đắn bước đi CNH nhưng trên thực tế đã không thực hiện nghiêm chỉnh nghị quyết Đại hội V",
+      "Nghị quyết Đại hội V đã được thực hiện triệt để giúp đất nước chấm dứt khủng hoảng từ năm 1984",
+      "Đại hội V đã xóa bỏ hoàn toàn chế độ tem phiếu và bao cấp qua giá ngay trong năm 1982"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 6 và Slide 10 chỉ ra bài học thực tiễn quan trọng: Đường lối CNH tại Đại hội V (3/1982) coi nông nghiệp là mặt trận hàng đầu là một sự điều chỉnh đúng đắn, phù hợp với thực tiễn Việt Nam; nhưng trên thực tế đã không thực hiện nghiêm chỉnh nghị quyết Đại hội V, vẫn chậm đổi mới cơ chế quản lý nên chưa thoát khỏi khủng hoảng."
+    "explanation": "Slide 6 và Slide 10 nhấn mạnh: Đại hội V có sự điều chỉnh đúng đắn (nông nghiệp là mặt trận hàng đầu), nhưng trong thực tế đã không thực hiện nghiêm chỉnh nghị quyết Đại hội V nên kinh tế vẫn tiếp tục khó khăn."
   },
   {
     "id": "c3_3.1_13",
@@ -210,15 +210,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "van-dung",
-    "question": "So sánh chủ trương công nghiệp hóa tại Đại hội III (9/1960), Đại hội IV (12/1976) với Đại hội V (3/1982), điểm chuyển biến tư duy rõ nét nhất của Đại hội V nằm ở đâu?",
+    "question": "So sánh đường lối công nghiệp hóa giữa Đại hội IV (12/1976) với Đại hội V (3/1982), điểm điều chỉnh cốt lõi nhất của Đại hội V là gì?",
     "options": [
-      "Chuyển từ nền kinh tế nhiều thành phần (Đại hội III, IV) sang cơ chế kế hoạch hóa tập trung bao cấp (Đại hội V)",
-      "Chuyển từ tư duy ưu tiên phát triển công nghiệp nặng (Đại hội III, IV) sang xác định lấy nông nghiệp làm mặt trận hàng đầu và phát triển công nghiệp nặng có mức độ, vừa sức phục vụ nông nghiệp và công nghiệp nhẹ",
-      "Chuyển từ công nghiệp hóa gắn với Cách mạng công nghiệp 4.0 (Đại hội IV) sang công nghiệp hóa khép kín (Đại hội V)",
-      "Chuyển từ kinh tế hướng ngoại (Đại hội III) sang kinh tế khép kín hoàn toàn không giao thương (Đại hội V)"
+      "Chuyển từ cơ chế bao cấp sang cơ chế kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "Chuyển từ ưu tiên phát triển công nghiệp nặng sang lấy nông nghiệp làm mặt trận hàng đầu, phát triển công nghiệp nặng vừa sức phục vụ nông nghiệp và công nghiệp nhẹ",
+      "Chuyển từ công nghiệp hóa khép kín sang hội nhập kinh tế quốc tế sâu rộng",
+      "Chuyển từ phát triển công nghiệp địa phương sang chỉ phát triển công nghiệp trung ương"
     ],
     "correctIndex": 1,
-    "explanation": "Đối chiếu Slide 3–6: Đại hội III (1960), HNTW 7 khóa III (1962) và Đại hội IV (1976) đều đặt trọng tâm ưu tiên phát triển công nghiệp nặng; đến Đại hội V (3/1982) bắt đầu có bước điều chỉnh tư duy rất quan trọng là lấy nông nghiệp làm mặt trận hàng đầu, phát triển hàng tiêu dùng và làm công nghiệp nặng vừa sức để phục vụ nông nghiệp và công nghiệp nhẹ."
+    "explanation": "Đại hội IV (1976) tiếp tục tư duy ưu tiên phát triển công nghiệp nặng; Đại hội V (1982) điều chỉnh quan trọng khi đặt nông nghiệp làm mặt trận hàng đầu và phát triển CN nặng có mức độ, vừa sức."
   },
   {
     "id": "c3_3.1_14",
@@ -227,15 +227,15 @@
     "sectionId": "3.1",
     "sectionTitle": "Xây dựng CNXH và bảo vệ Tổ quốc (1975 - 1986)",
     "difficulty": "van-dung",
-    "question": "Vì sao các chính sách đổi mới từng phần trong giai đoạn 1979 – 1985 vẫn chưa thể đưa đất nước thoát khỏi khủng hoảng kinh tế - xã hội, đặt ra yêu cầu bức thiết phải đổi mới toàn diện tại Đại hội VI (12/1986)?",
+    "question": "Vì sao các chủ trương đổi mới từng phần giai đoạn 1979 – 1985 vẫn chưa thể đưa đất nước thoát khỏi khủng hoảng kinh tế – xã hội?",
     "options": [
-      "Vì trong giai đoạn 1979 – 1985 Việt Nam đã chuyển hoàn toàn sang cơ chế thị trường tự do gây lạm phát",
-      "Vì các điều chỉnh 1979 – 1985 mới chỉ mang tính cục bộ, chưa xóa bỏ triệt để cơ chế kế hoạch hóa tập trung quan liêu, bao cấp và chưa thay đổi căn bản tư duy về cơ cấu kinh tế nhiều thành phần",
-      "Vì đất nước lúc này vẫn chưa hoàn thành thống nhất về mặt nhà nước giữa hai miền Nam – Bắc",
-      "Vì giai đoạn 1979 – 1985 nguồn viện trợ từ các nước xã hội chủ nghĩa tăng gấp nhiều lần làm dư thừa hàng hóa"
+      "Vì thời kỳ 1979 – 1985 Nhà nước đã thả nổi hoàn toàn thị trường gây mất kiểm soát vĩ mô",
+      "Vì chưa xóa bỏ triệt để cơ chế kế hoạch hóa tập trung quan liêu, bao cấp và chưa đổi mới đồng bộ cơ cấu kinh tế nhiều thành phần",
+      "Vì đến năm 1985 nước ta vẫn chưa hoàn thành thống nhất đất nước về mặt nhà nước",
+      "Vì Việt Nam đã sớm gia nhập các tổ chức kinh tế phương Tây gây cạnh tranh quá lớn"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 19 và Slide 20 lý giải rõ: Dù có các bước tìm tòi đổi mới từng phần từ 1979 đến 1985, nhưng cơ chế tập trung quan liêu, bao cấp về căn bản vẫn tồn tại, làm suy yếu kinh tế XHCN và gây rối loạn phân phối lưu thông — đòi hỏi phải đổi mới triệt để cơ chế quản lý gắn với bố trí lại cơ cấu kinh tế tại Đại hội VI (12/1986)."
+    "explanation": "Slide 19–20 chỉ rõ các bước đổi mới từng phần 1979–1985 mang tính chắp vá, chưa tháo gỡ tận gốc cơ chế quan liêu bao cấp — dẫn tới yêu cầu bức thiết phải đổi mới toàn diện tại Đại hội VI (12/1986)."
   },
   {
     "id": "c3_3.2_01",
@@ -244,15 +244,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "nhan-biet",
-    "question": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (tháng 12/1986) — “Đại hội của quyết tâm đổi mới và đoàn kết tiến lên” — đã tiến hành tự phê bình theo tinh thần nào?",
+    "question": "Tinh thần “nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật” gắn liền với kỳ Đại hội lịch sử nào của Đảng?",
     "options": [
-      "“Đoàn kết, đoàn kết, đại đoàn kết; thành công, thành công, đại thành công”",
-      "“Dân tộc trên hết, Tổ quốc trên hết”",
-      "“Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật”",
-      "“Thêm bạn bớt thù, hòa bình hữu nghị”"
+      "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)",
+      "Đại hội đại biểu toàn quốc lần thứ V (3/1982)",
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 9 và Slide 20 nêu rõ: Đại hội VI (12/1986) với tinh thần “nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật” đã thẳng thắn chỉ ra những sai lầm chủ quan, nóng vội trong nhận thức và chủ trương công nghiệp hóa thời kỳ 1960–1985."
+    "explanation": "Slide 9 và Slide 20 nêu rõ: Đại hội VI (12/1986) — “Đại hội của quyết tâm đổi mới và đoàn kết tiến lên” — với tinh thần “nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật” đã mở đầu sự nghiệp Đổi mới."
   },
   {
     "id": "c3_3.2_02",
@@ -261,15 +261,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "nhan-biet",
-    "question": "Đại hội VI (12/1986) xác định nội dung chính của công nghiệp hóa trong chặng đường đầu tiên là tập trung thực hiện cho được ba chương trình mục tiêu lớn nào?",
+    "question": "“Đại hội của quyết tâm đổi mới và đoàn kết tiến lên” là tên gọi gắn với sự kiện lịch sử nào?",
     "options": [
-      "Du lịch quốc tế, tài chính ngân hàng và công nghệ bán dẫn",
-      "Công nghiệp nặng, năng lượng hạt nhân và giao thông hàng không",
-      "Lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu",
-      "Thủy điện quy mô lớn, khai khoáng dầu khí và luyện kim đen"
+      "Đại hội đại biểu toàn quốc lần thứ IX của Đảng (4/2001)",
+      "Đại hội đại biểu toàn quốc lần thứ IV của Đảng (12/1976)",
+      "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ XIII của Đảng (2/2021)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 12 nêu rõ: Tại Đại hội VI, nội dung chính trong chặng đường đầu tiên của thời kỳ quá độ là thực hiện cho được ba chương trình mục tiêu về: lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu."
+    "explanation": "Slide 20 trích dẫn tiêu đề Đại hội đại biểu toàn quốc lần thứ VI của Đảng (12/1986): “Đại hội của quyết tâm đổi mới và đoàn kết tiến lên”."
   },
   {
     "id": "c3_3.2_03",
@@ -278,15 +278,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "nhan-biet",
-    "question": "Đại hội nào của Đảng đánh dấu bước chuyển đất nước sang “thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước”?",
+    "question": "Ba chương trình mục tiêu kinh tế lớn được Đại hội VI (12/1986) xác định là nội dung chính trong chặng đường đầu tiên của thời kỳ quá độ là:",
     "options": [
-      "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)",
-      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
-      "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)",
-      "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
+      "Chuyển đổi số, kinh tế xanh và kinh tế tuần hoàn",
+      "Công nghiệp nặng, năng lượng và giao thông vận tải",
+      "Lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu",
+      "Nông nghiệp, tài chính ngân hàng và du lịch dịch vụ"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 12 tóm tắt tiến trình tư duy CNH: Đại hội VI thực hiện 3 chương trình mục tiêu; Đại hội VII tiếp tục có nhận thức mới sâu sắc hơn; Đại hội VIII (6/1996) tuyên bố chuyển sang thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước."
+    "explanation": "Slide 12 nêu chính xác: Đại hội VI (12/1986) tập trung thực hiện bằng được 3 chương trình mục tiêu về lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu."
   },
   {
     "id": "c3_3.2_04",
@@ -295,15 +295,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "nhan-biet",
-    "question": "Đại hội XIII của Đảng (2021) xác định tiếp tục đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước dựa trên nền tảng cốt lõi nào?",
+    "question": "Đại hội nào của Đảng xác định đất nước bước sang “thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước”?",
     "options": [
-      "Chỉ tập trung phát triển nông nghiệp tự cung tự cấp nhằm tránh biến động kinh tế thế giới",
-      "Chủ yếu dựa vào khai thác tài nguyên thô, lao động thủ công giá rẻ và nguồn viện trợ bên ngoài",
-      "Quay trở lại cơ chế kế hoạch hóa tập trung ưu tiên xây dựng các công trình công nghiệp nặng khép kín",
-      "Khoa học, công nghệ, đổi mới sáng tạo và những thành tựu công nghệ của cuộc Cách mạng công nghiệp lần thứ tư"
+      "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)",
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)",
+      "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 12 nêu rõ định hướng mới nhất tại Đại hội XIII: Tiếp tục đẩy mạnh CNH, HĐH dựa trên nền tảng của khoa học, công nghệ, đổi mới sáng tạo và những thành tựu công nghệ của cuộc Cách mạng công nghiệp lần thứ tư."
+    "explanation": "Slide 12 ghi rõ: Sau 10 năm đổi mới thoát khỏi khủng hoảng KT-XH, Đại hội VIII (6/1996) tuyên bố chuyển sang thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước."
   },
   {
     "id": "c3_3.2_05",
@@ -312,15 +312,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "nhan-biet",
-    "question": "Theo khái niệm chuẩn trong giáo trình, bản chất của Công nghiệp hóa, Hiện đại hóa (CNH, HĐH) là quá trình chuyển đổi như thế nào?",
+    "question": "Đại hội XIII (2021) xác định tiếp tục đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước trên nền tảng nào?",
     "options": [
-      "Quá trình mở rộng diện tích nhà máy công nghiệp nặng mà không thay đổi phương thức quản lý kinh tế - xã hội",
-      "Chuyển đổi riêng ngành nông nghiệp thành ngành khai thác khoáng sản bằng lao động giản đơn",
-      "Chuyển đổi căn bản, toàn diện các hoạt động sản xuất kinh doanh, dịch vụ và quản lý kinh tế - xã hội từ sử dụng lao động thủ công là chính sang sử dụng phổ biến sức lao động cùng công nghệ, phương pháp, phương tiện hiện đại tạo ra năng suất lao động xã hội cao",
-      "Quá trình quốc hữu hóa toàn bộ tư liệu sản xuất và xóa bỏ dịch vụ thương mại trong nền kinh tế"
+      "Kế hoạch hóa tập trung gắn với ưu tiên các công trình công nghiệp nặng",
+      "Khai thác tối đa tài nguyên thiên nhiên và nguồn lao động thủ công giá rẻ",
+      "Khoa học, công nghệ, đổi mới sáng tạo và thành tựu của cuộc Cách mạng công nghiệp lần thứ tư",
+      "Chỉ dựa vào nguồn viện trợ kinh tế không hoàn lại từ bên ngoài"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 11 trình bày khái niệm CNH, HĐH thời kỳ đổi mới: là quá trình chuyển đổi căn bản, toàn diện các hoạt động sản xuất kinh doanh, dịch vụ và quản lý kinh tế - xã hội, từ sử dụng lao động thủ công là chính sang sử dụng phổ biến sức lao động cùng công nghệ, phương pháp, phương tiện hiện đại dựa trên tiến bộ khoa học – công nghệ, tạo năng suất lao động xã hội cao."
+    "explanation": "Slide 12 nêu rõ định hướng của Đại hội XIII: tiếp tục đẩy mạnh CNH, HĐH dựa trên nền tảng khoa học, công nghệ, đổi mới sáng tạo và thành tựu của cuộc Cách mạng công nghiệp lần thứ tư."
   },
   {
     "id": "c3_3.2_06",
@@ -329,15 +329,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "thong-hieu",
-    "question": "Tại Đại hội VI (12/1986), Đảng đã chỉ ra ba nhóm sai lầm chủ yếu nào trong nhận thức và chủ trương công nghiệp hóa thời kỳ 1960 – 1985?",
+    "question": "“Quá trình chuyển đổi căn bản, toàn diện các hoạt động sản xuất kinh doanh, dịch vụ và quản lý kinh tế – xã hội” từ lao động thủ công sang công nghệ hiện đại là khái niệm về:",
     "options": [
-      "Không xây dựng được bất kỳ nhà máy công nghiệp nào; quá phụ thuộc vào tổ chức WTO; thiếu bộ máy hành chính",
-      "Phát triển quá nhanh kinh tế tư nhân; mở cửa thị trường quá sớm; đầu tư quá mức cho nông nghiệp và hàng tiêu dùng",
-      "Chủ quan nóng vội muốn bỏ qua bước đi cần thiết và chậm đổi mới cơ chế quản lý; sai lầm trong bố trí cơ cấu kinh tế đầu tư nhiều nhưng hiệu quả thấp; không thực hiện nghiêm chỉnh nghị quyết Đại hội V",
-      "Đổi mới cơ chế quản lý quá vội vàng từ năm 1976; giảm quá mạnh tỷ trọng kinh tế nhà nước"
+      "Cơ chế kế hoạch hóa tập trung thời kỳ bao cấp",
+      "Cải tạo xã hội chủ nghĩa thời kỳ 1958 – 1960",
+      "Công nghiệp hóa, hiện đại hóa thời kỳ đổi mới",
+      "Hợp tác hóa nông nghiệp giai đoạn 1975 – 1985"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 9 và Slide 10 liệt kê chính xác những sai lầm thời kỳ 1960–1985 được Đại hội VI phê phán: (1) Chủ quan, nóng vội, muốn bỏ qua bước đi cần thiết, đẩy mạnh CNH khi chưa đủ tiền đề, chậm đổi mới cơ chế quản lý kinh tế; (2) Sai lầm trong bố trí cơ cấu kinh tế, đầu tư nhiều nhưng hiệu quả thấp; (3) Không thực hiện nghiêm chỉnh nghị quyết Đại hội V."
+    "explanation": "Slide 11 trích nguyên văn khái niệm CNH, HĐH thời kỳ đổi mới: chuyển đổi căn bản, toàn diện cả sản xuất, dịch vụ và quản lý KT-XH dựa trên tiến bộ khoa học – công nghệ tạo năng suất lao động xã hội cao."
   },
   {
     "id": "c3_3.2_07",
@@ -346,15 +346,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "thong-hieu",
-    "question": "Tư duy mới về con đường công nghiệp hóa ở Việt Nam được khẳng định tại Đại hội IX và Đại hội X có điểm nhấn chiến lược nào về thời gian và lợi thế?",
+    "question": "Đâu KHÔNG PHẢI là sai lầm trong nhận thức và chủ trương công nghiệp hóa thời kỳ 1960 – 1985 bị Đại hội VI (12/1986) phê phán?",
     "options": [
-      "Phải đi tuần tự qua mọi giai đoạn công nghiệp cơ khí cổ điển kéo dài hàng trăm năm như các nước Tây Âu",
-      "Con đường công nghiệp hóa ở nước ta cần và có thể rút ngắn thời gian so với các nước đi trước; phát triển nhanh và có hiệu quả các sản phẩm, ngành, lĩnh vực có lợi thế đáp ứng nhu cầu trong nước và xuất khẩu",
-      "Chỉ tập trung sản xuất phục vụ tiêu dùng nội địa khép kín, không phát triển ngành hàng xuất khẩu",
-      "Từ bỏ hoàn toàn công nghiệp hóa nông nghiệp nông thôn để tập trung xây dựng các siêu đô thị"
+      "Chủ quan, nóng vội, muốn bỏ qua bước đi cần thiết khi chưa đủ tiền đề",
+      "Đẩy nhanh hội nhập kinh tế quốc tế và phát triển kinh tế tư nhân quá sớm",
+      "Không thực hiện nghiêm chỉnh nghị quyết Đại hội lần thứ V",
+      "Sai lầm trong bố trí cơ cấu kinh tế, đầu tư nhiều nhưng hiệu quả thấp"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 12 trình bày 5 nội dung đổi mới tư duy CNH, HĐH tại Đại hội IX và X: (1) Cần và có thể rút ngắn thời gian so với các nước đi trước; (2) Phát triển nhanh, hiệu quả các sản phẩm, ngành có lợi thế đáp ứng trong nước và xuất khẩu; (3) Xây dựng nền kinh tế độc lập tự chủ đi đôi chủ động hội nhập KTQT; (4) Đẩy nhanh CNH, HĐH nông nghiệp nông thôn; (5) Tính đến yêu cầu phát triển bền vững."
+    "explanation": "Slide 9–10 nêu 3 sai lầm bị Đại hội VI phê phán: chủ quan nóng vội và chậm đổi mới cơ chế quản lý; sai lầm bố trí cơ cấu kinh tế hiệu quả thấp; không thực hiện nghiêm nghị quyết Đại hội V."
   },
   {
     "id": "c3_3.2_08",
@@ -363,15 +363,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "thong-hieu",
-    "question": "Trong định hướng công nghiệp hóa, hiện đại hóa từ Đại hội IX và X, Đảng đặc biệt gắn kết CNH, HĐH với hai yêu cầu chiến lược lâu dài nào về không gian phát triển và tương lai?",
+    "question": "Điểm mới nổi bật về tốc độ và phương thức công nghiệp hóa được khẳng định tại Đại hội IX và Đại hội X là gì?",
     "options": [
-      "Duy trì sản xuất tiểu thủ công nghiệp ở nông thôn và đóng cửa biên giới thương mại",
-      "Chỉ tập trung vào các thành phố lớn và khai thác cạn kiệt tài nguyên thiên nhiên để tăng GDP ngắn hạn",
-      "Đẩy nhanh công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn và tính toán đến yêu cầu phát triển bền vững trong tương lai",
-      "Ưu tiên tuyệt đối các ngành công nghiệp gây ô nhiễm nhưng đòi hỏi ít công nghệ hiện đại"
+      "Chỉ tập trung vào công nghiệp nặng thay thế nhập khẩu, đóng cửa với thị trường thế giới",
+      "Bắt buộc phải đi tuần tự đủ mọi giai đoạn cơ khí cổ điển như các nước tư bản thế kỷ XIX",
+      "Con đường công nghiệp hóa ở nước ta cần và có thể rút ngắn thời gian so với các nước đi trước, phát triển nhanh các ngành, sản phẩm có lợi thế",
+      "Tạm gác hoàn toàn công nghiệp hóa nông nghiệp nông thôn đến sau năm 2030"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 12 nêu rõ hai yêu cầu rất hiện đại trong tư duy CNH, HĐH của Đại hội IX và X: đẩy nhanh công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn và tính toán đến yêu cầu phát triển bền vững trong tương lai, đồng thời bảo đảm kinh tế độc lập tự chủ gắn với hội nhập quốc tế."
+    "explanation": "Slide 12 trình bày tư duy CNH rút ngắn tại ĐH IX–X: có thể rút ngắn thời gian nhờ tiến bộ KHCN và hội nhập, phát triển các ngành/sản phẩm có lợi thế phục vụ trong nước và xuất khẩu."
   },
   {
     "id": "c3_3.2_09",
@@ -380,15 +380,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "thong-hieu",
-    "question": "Theo nhận định của Đại hội VI (12/1986), việc bố trí lại cơ cấu kinh tế phải gắn chặt với yêu cầu nào để chấm dứt tình trạng kìm hãm sản xuất và rối loạn phân phối lưu thông?",
+    "question": "Đâu KHÔNG PHẢI là định hướng công nghiệp hóa, hiện đại hóa được nêu trong văn kiện Đại hội IX và Đại hội X?",
     "options": [
-      "Phải tăng cường thêm nhiều chỉ tiêu pháp lệnh hành chính từ trên xuống dưới",
-      "Phải đi đôi với đổi mới cơ chế quản lý kinh tế, xóa bỏ cơ chế tập trung quan liêu, bao cấp",
-      "Phải thu hẹp tối đa quy mô sản xuất nông nghiệp và xóa bỏ kinh tế hộ gia đình",
-      "Phải ngưng hoàn toàn giao lưu thương mại với bên ngoài trong 10 năm đầu đổi mới"
+      "Đảm bảo xây dựng nền kinh tế độc lập tự chủ, chủ động hội nhập kinh tế quốc tế",
+      "Duy trì nền kinh tế khép kín hướng nội để tránh phụ thuộc thị trường xuất khẩu",
+      "Tính toán đến yêu cầu phát triển bền vững trong tương lai",
+      "Đẩy nhanh công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 20 trích dẫn khẳng định của Đại hội VI: “Việc bố trí lại cơ cấu kinh tế phải đi đôi với đổi mới cơ chế quản lý kinh tế. Cơ chế tập trung quan liêu, bao cấp từ nhiều năm nay không tạo được động lực phát triển, làm suy yếu kinh tế XHCN, kìm hãm sản xuất, gây rối loạn trong phân phối lưu thông...”."
+    "explanation": "Slide 12 khẳng định ĐH IX và X chủ trương kinh tế độc lập tự chủ gắn với chủ động hội nhập KTQT, CNH-HĐH nông nghiệp nông thôn và phát triển bền vững — hoàn toàn đối lập với mô hình khép kín hướng nội."
   },
   {
     "id": "c3_3.2_10",
@@ -397,15 +397,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "thong-hieu",
-    "question": "Khác với quan niệm cũ chỉ coi công nghiệp hóa là xây dựng công nghiệp nặng, quan niệm CNH gắn với HĐH thời kỳ đổi mới đặt động lực tăng năng suất lao động xã hội vào yếu tố nào?",
+    "question": "Theo nhận định của Đại hội VI (12/1986), để chấm dứt tình trạng kìm hãm sản xuất và rối loạn phân phối lưu thông, việc bố trí lại cơ cấu kinh tế phải đi đôi với nhiệm vụ nào?",
     "options": [
-      "Phát triển công nghiệp dựa trên tiến bộ khoa học – công nghệ, áp dụng công nghệ, phương pháp và phương tiện hiện đại vào sản xuất, dịch vụ và quản lý",
-      "Tăng cường số giờ lao động thủ công giản đơn và mở rộng diện tích canh tác tự nhiên",
-      "Dựa chủ yếu vào chế độ cấp phát vốn hành chính và nguồn viện trợ không hoàn lại",
-      "Duy trì sản xuất khép kín trong từng địa phương không cần chuyên môn hóa"
+      "Đổi mới cơ chế quản lý kinh tế, xóa bỏ cơ chế tập trung quan liêu, bao cấp",
+      "Tăng cường số lượng chỉ tiêu pháp lệnh hành chính đối với doanh nghiệp",
+      "Thu hẹp vai trò của sản xuất nông nghiệp và hàng tiêu dùng",
+      "Quốc hữu hóa toàn bộ kinh tế hộ gia đình ở nông thôn"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 11 chỉ rõ: CNH, HĐH thời kỳ đổi mới không chỉ là xây nhà máy công nghiệp mà là chuyển đổi căn bản, toàn diện cả sản xuất, dịch vụ và quản lý kinh tế - xã hội dựa trên tiến bộ khoa học – công nghệ để tạo năng suất lao động xã hội cao."
+    "explanation": "Slide 20 trích khẳng định của Đại hội VI: “Việc bố trí lại cơ cấu kinh tế phải đi đôi với đổi mới cơ chế quản lý kinh tế” nhằm xóa bỏ cơ chế bao cấp đã kìm hãm sản xuất."
   },
   {
     "id": "c3_3.2_11",
@@ -414,15 +414,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "van-dung",
-    "question": "Sự khác biệt căn bản giữa mô hình công nghiệp hóa thời kỳ trước đổi mới với công nghiệp hóa, hiện đại hóa thời kỳ đổi mới (từ Đại hội VI đến Đại hội XIII) thể hiện tập trung ở cặp đối lập nào?",
+    "question": "Trình tự phát triển tư duy của Đảng về công nghiệp hóa từ Đại hội IV đến Đại hội XIII thể hiện đúng qua chuỗi mốc nào sau đây?",
     "options": [
-      "Từ kinh tế mở hướng xuất khẩu dựa vào công nghệ số → sang kinh tế khép kín dựa vào tài nguyên và lao động thủ công",
-      "Từ khép kín, hướng nội, thiên về công nghiệp nặng trong cơ chế bao cấp do Nhà nước làm chủ lực duy nhất → sang gắn với hiện đại hóa, mở cửa hội nhập, phát huy lợi thế cạnh tranh, phát triển bền vững trên nền tảng KHCN, đổi mới sáng tạo và CMCN 4.0",
-      "Từ coi nông nghiệp là mặt trận hàng đầu năm 1960 → sang ưu tiên tuyệt đối công nghiệp nặng năm 2021",
-      "Từ coi trọng phát triển bền vững trước 1986 → sang tăng trưởng bằng mọi giá không quan tâm hiệu quả sau 1986"
+      "3 chương trình mục tiêu (ĐH IV) → Ưu tiên CN nặng (ĐH V) → Nông nghiệp là mặt trận hàng đầu (ĐH VI) → Đẩy mạnh CNH, HĐH (ĐH XIII)",
+      "Ưu tiên CN nặng (ĐH IV) → Nông nghiệp làm mặt trận hàng đầu (ĐH V) → 3 chương trình mục tiêu (ĐH VI) → Đẩy mạnh CNH, HĐH (ĐH VIII) → CNH, HĐH dựa trên KHCN, đổi mới sáng tạo và CMCN 4.0 (ĐH XIII)",
+      "Đẩy mạnh CNH, HĐH (ĐH VI) → 3 chương trình mục tiêu (ĐH VIII) → Nông nghiệp là mặt trận hàng đầu (ĐH IX) → Ưu tiên CN nặng (ĐH XIII)",
+      "Ưu tiên CN nặng (ĐH V) → Nông nghiệp là mặt trận hàng đầu (ĐH IV) → CNH rút ngắn (ĐH VI) → 3 chương trình mục tiêu (ĐH VIII)"
     ],
     "correctIndex": 1,
-    "explanation": "Đối chiếu Slide 7–8 (CNH trước đổi mới) với Slide 11–12 (CNH, HĐH thời kỳ đổi mới từ Đại hội VI đến XIII): Đây là bước chuyển biến toàn diện về tư duy từ khép kín, duy ý chí, bao cấp, thiên về công nghiệp nặng sang CNH gắn với HĐH, rút ngắn thời gian, kinh tế mở hội nhập, phát triển bền vững và tận dụng thành tựu Cách mạng công nghiệp lần thứ tư."
+    "explanation": "Tổng hợp Slide 5, 6 và 12: ĐH IV (1976) ưu tiên CN nặng; ĐH V (1982) nông nghiệp làm mặt trận hàng đầu; ĐH VI (1986) 3 chương trình mục tiêu; ĐH VIII (1996) chuyển sang đẩy mạnh CNH, HĐH; ĐH XIII (2021) gắn với KHCN, đổi mới sáng tạo và CMCN 4.0."
   },
   {
     "id": "c3_3.2_12",
@@ -431,15 +431,15 @@
     "sectionId": "3.2",
     "sectionTitle": "Quá trình đổi mới tư duy về Công nghiệp hóa, Hiện đại hóa",
     "difficulty": "van-dung",
-    "question": "Vì sao trong chặng đường đầu tiên của đổi mới (Đại hội VI, 1986), Đảng lại chọn 3 chương trình mục tiêu (lương thực - thực phẩm, hàng tiêu dùng, hàng xuất khẩu) thay vì tiếp tục ưu tiên công nghiệp nặng quy mô lớn?",
+    "question": "Vì sao trong thời kỳ đổi mới, Đảng ta luôn gắn chặt hai khái niệm “Công nghiệp hóa” với “Hiện đại hóa” thay vì chỉ nói công nghiệp hóa đơn thuần như trước năm 1986?",
     "options": [
-      "Vì lúc đó đất nước đang khủng hoảng KT-XH, khan hiếm hàng thiết yếu và chưa đủ tiền đề cho công nghiệp nặng; tập trung vào 3 chương trình này giải quyết ngay đời sống nhân dân, ổn định kinh tế vĩ mô và tạo tích lũy vốn cho bước phát triển tiếp theo",
-      "Vì công nghiệp nặng không còn bất kỳ vai trò nào đối với nền kinh tế hiện đại",
-      "Vì Việt Nam đã hoàn thành xong hoàn toàn việc xây dựng công nghiệp nặng từ trước năm 1985",
-      "Vì 3 chương trình mục tiêu này không cần đến sự tham gia của khu vực nông nghiệp và nông thôn"
+      "Để tận dụng tiến bộ khoa học – công nghệ hiện đại rút ngắn khoảng cách phát triển, chuyển đổi toàn diện cả sản xuất, dịch vụ lẫn quản lý kinh tế – xã hội",
+      "Vì Việt Nam đã hoàn thành xong hoàn toàn công nghiệp hóa cơ khí từ trước năm 1986",
+      "Vì hiện đại hóa chỉ áp dụng trong lĩnh vực quản lý hành chính, không liên quan đến sản xuất",
+      "Để loại bỏ vai trò của ngành nông nghiệp khỏi cơ cấu nền kinh tế quốc dân"
     ],
     "correctIndex": 0,
-    "explanation": "Kết hợp Slide 8, 10 và 12: Sau sai lầm nóng vội làm lớn, đầu tư dàn trải kém hiệu quả thời kỳ 1960–1985, lựa chọn 3 chương trình mục tiêu của Đại hội VI là bước đi hết sức thực tế: vừa trực tiếp giải quyết nhu cầu cấp bách về ăn, mặc, tiêu dùng của nhân dân, vừa tạo nguồn hàng xuất khẩu thu ngoại tệ để từng bước tích lũy tiền đề cho thời kỳ đẩy mạnh CNH, HĐH từ Đại hội VIII (1996)."
+    "explanation": "Kết hợp Slide 11–12: Trong bối cảnh cách mạng KHCN phát triển như vũ bão, gắn CNH với HĐH giúp nước đi sau rút ngắn thời gian, nâng cao năng suất lao động xã hội trên toàn bộ sản xuất, dịch vụ và quản lý."
   },
   {
     "id": "c3_3.3_01",
@@ -448,15 +448,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "nhan-biet",
-    "question": "Tại Đại hội đại biểu toàn quốc nào, Đảng ta lần đầu tiên khẳng định “Kinh tế thị trường định hướng xã hội chủ nghĩa” là mô hình kinh tế tổng quát của nước ta trong thời kỳ quá độ lên CNXH?",
+    "question": "Văn kiện của kỳ Đại hội nào lần đầu tiên khẳng định “Kinh tế thị trường định hướng xã hội chủ nghĩa” là mô hình kinh tế tổng quát của nước ta trong thời kỳ quá độ lên CNXH?",
     "options": [
-      "Đại hội đại biểu toàn quốc lần thứ VII (tháng 6/1991)",
-      "Đại hội đại biểu toàn quốc lần thứ VI (tháng 12/1986)",
-      "Đại hội đại biểu toàn quốc lần thứ IX (tháng 4/2001)",
-      "Đại hội đại biểu toàn quốc lần thứ VIII (tháng 6/1996)"
+      "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)",
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)",
+      "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 23 và Slide 25 nêu rõ: Đại hội IX (4/2001) lần đầu tiên khẳng định xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa là mô hình kinh tế tổng quát của nước ta trong thời kỳ quá độ lên CNXH (và tiếp tục được khẳng định ở các Đại hội X, XI, XII, XIII)."
+    "explanation": "Slide 23 và Slide 25 nêu rõ: Đại hội IX (4/2001) lần đầu tiên khẳng định KTTT định hướng XHCN là mô hình kinh tế tổng quát trong thời kỳ quá độ lên CNXH ở nước ta."
   },
   {
     "id": "c3_3.3_02",
@@ -465,15 +465,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "nhan-biet",
-    "question": "Đại hội X (4/2006) đã làm rõ tính định hướng xã hội chủ nghĩa trong nền kinh tế thị trường ở nước ta trên mấy tiêu chí cơ bản?",
+    "question": "Đại hội nào đã làm rõ tính định hướng xã hội chủ nghĩa trong nền kinh tế thị trường nước ta thông qua 4 tiêu chí cụ thể (mục đích, phương hướng, định hướng xã hội - phân phối, quản lý)?",
     "options": [
-      "2 tiêu chí: tốc độ tăng trưởng GDP và quy mô xuất khẩu hàng hóa",
-      "4 tiêu chí: mục đích phát triển, phương hướng phát triển (các thành phần kinh tế), định hướng xã hội và phân phối, và quản lý",
-      "6 tiêu chí gắn với các chỉ tiêu pháp lệnh hành chính của Nhà nước",
-      "3 tiêu chí: bao cấp qua giá, bao cấp tem phiếu và cấp phát vốn"
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ X (4/2006)",
+      "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)",
+      "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 26 và Slide 27 trình bày rõ 4 tiêu chí của Đại hội X làm rõ định hướng XHCN trong nền KTTT: (1) Về mục đích phát triển; (2) Về phương hướng phát triển; (3) Về định hướng xã hội và phân phối; (4) Về quản lý."
+    "explanation": "Slide 26–27 trình bày rõ Đại hội X (4/2006) đã cụ thể hóa tính định hướng XHCN trong nền KTTT ở Việt Nam trên 4 tiêu chí toàn diện."
   },
   {
     "id": "c3_3.3_03",
@@ -482,15 +482,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "nhan-biet",
-    "question": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, vai trò của Kinh tế nhà nước và Kinh tế tư nhân được xác định như thế nào?",
+    "question": "Trong nền kinh tế thị trường định hướng XHCN ở Việt Nam hiện nay, hai thành phần kinh tế nào ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân?",
     "options": [
-      "Kinh tế có vốn đầu tư nước ngoài giữ vai trò chủ đạo còn kinh tế tập thể giữ vai trò thứ yếu",
-      "Kinh tế tư nhân giữ vai trò chủ đạo; kinh tế nhà nước chỉ hoạt động trong lĩnh vực từ thiện",
-      "Chỉ duy nhất kinh tế nhà nước được pháp luật bảo hộ; kinh tế tư nhân bị hạn chế xóa bỏ",
-      "Kinh tế nhà nước giữ vai trò chủ đạo; kinh tế tư nhân là một động lực quan trọng của nền kinh tế"
+      "Chỉ duy nhất kinh tế có vốn đầu tư nước ngoài",
+      "Kinh tế tư nhân cùng với kinh tế có vốn đầu tư nước ngoài",
+      "Kinh tế cá thể cùng với kinh tế tiểu chủ",
+      "Kinh tế nhà nước cùng với kinh tế tập thể"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 29 khẳng định rõ 4 thành phần kinh tế (Kinh tế nhà nước, Kinh tế tập thể, Kinh tế tư nhân, Kinh tế có vốn đầu tư nước ngoài): trong đó kinh tế nhà nước giữ vai trò chủ đạo, kinh tế tập thể không ngừng củng cố phát triển, kinh tế tư nhân là động lực quan trọng, kinh tế có vốn đầu tư nước ngoài ngày càng được khuyến khích phát triển; các chủ thể bình đẳng, hợp tác, cạnh tranh theo pháp luật."
+    "explanation": "Slide 26 nêu rõ: trong các thành phần kinh tế, kinh tế nhà nước giữ vai trò chủ đạo, kinh tế nhà nước cùng với kinh tế tập thể ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân."
   },
   {
     "id": "c3_3.3_04",
@@ -499,15 +499,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "nhan-biet",
-    "question": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, nền kinh tế thực hiện nhiều hình thức phân phối, trong đó hình thức phân phối nào giữ vai trò chủ đạo?",
+    "question": "Vai trò của Kinh tế tư nhân trong nền kinh tế thị trường định hướng XHCN ở nước ta được xác định là:",
     "options": [
-      "Phân phối theo chế độ tem phiếu hành chính",
-      "Phân phối bình quân cào bằng theo đầu người",
-      "Phân phối hoàn toàn theo vốn góp cổ phần",
-      "Phân phối theo lao động"
+      "Thành phần kinh tế phụ trợ không được bình đẳng trước pháp luật",
+      "Thành phần kinh tế giữ vai trò chủ đạo",
+      "Thành phần kinh tế cần nhanh chóng xóa bỏ trong thời kỳ quá độ",
+      "Một động lực quan trọng của nền kinh tế"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 30 nêu rõ: Thực hiện nhiều hình thức phân phối (theo lao động, theo tài sản hay vốn cổ phần, theo các quỹ phúc lợi tập thể hay xã hội), trong đó phân phối theo lao động giữ vai trò chủ đạo."
+    "explanation": "Slide 29 khẳng định: kinh tế nhà nước giữ vai trò chủ đạo, kinh tế tập thể không ngừng củng cố phát triển, kinh tế tư nhân là động lực quan trọng, kinh tế có vốn đầu tư nước ngoài ngày càng được khuyến khích phát triển."
   },
   {
     "id": "c3_3.3_05",
@@ -516,15 +516,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "nhan-biet",
-    "question": "Nhà nước điều tiết nền kinh tế thị trường định hướng XHCN chủ yếu thông qua nhóm công cụ vĩ mô nào?",
+    "question": "Trong nhiều hình thức phân phối của nền KTTT định hướng XHCN ở Việt Nam, hình thức phân phối nào giữ vai trò chủ đạo?",
     "options": [
-      "Hệ thống pháp luật, kế hoạch hóa (chiến lược, quy hoạch), chính sách tài khóa và chính sách tài chính – tiền tệ",
-      "Hệ thống mệnh lệnh hành chính trực tiếp, tem phiếu và chế độ cấp phát – giao nộp",
-      "Ấn định cứng toàn bộ giá cả của mọi loại hàng hóa trên thị trường bằng sắc lệnh",
-      "Cấm cạnh tranh giữa các doanh nghiệp thuộc những thành phần kinh tế khác nhau"
+      "Phân phối theo lao động",
+      "Phân phối bình quân theo đầu người",
+      "Phân phối hoàn toàn theo vốn cổ phần",
+      "Phân phối theo chế độ tem phiếu bao cấp"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 32 chỉ rõ các công cụ điều tiết vĩ mô của Nhà nước trong nền KTTT định hướng XHCN: hệ thống pháp luật, kế hoạch hóa, chính sách tài khóa và chính sách tài chính – tiền tệ."
+    "explanation": "Slide 30 nêu rõ: Thực hiện nhiều hình thức phân phối (theo lao động, theo tài sản/vốn cổ phần, theo quỹ phúc lợi xã hội), trong đó phân phối theo lao động giữ vai trò chủ đạo."
   },
   {
     "id": "c3_3.3_06",
@@ -533,15 +533,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "thong-hieu",
-    "question": "Đột phá lý luận quan trọng nhất của Đảng về bản chất của kinh tế thị trường trong giai đoạn từ Đại hội VI đến Đại hội VIII là gì?",
+    "question": "Nhận thức đột phá của Đảng từ Đại hội VI đến Đại hội VIII về nguồn gốc và bản chất của kinh tế thị trường là gì?",
     "options": [
-      "Kinh tế thị trường là sản phẩm độc quyền của chủ nghĩa tư bản nên chỉ được phép dùng tạm thời trong 5 năm",
-      "Kinh tế thị trường là trình độ cao của sản xuất hàng hóa, không phải sản phẩm riêng của chủ nghĩa tư bản mà là thành tựu phát triển chung của nhân loại; nó chỉ đối lập với kinh tế tự nhiên tự cung tự cấp, không đối lập với CNXH",
-      "Kinh tế thị trường đồng nghĩa với việc tự do hóa tuyệt đối không cần sự quản lý của Nhà nước",
-      "Kinh tế thị trường sẽ tự động giải quyết hoàn hảo mọi vấn đề công bằng xã hội mà không có khuyết tật"
+      "Kinh tế thị trường là sản phẩm riêng có của chủ nghĩa tư bản nên đối lập tuyệt đối với chủ nghĩa xã hội",
+      "Kinh tế thị trường là thành tựu phát triển chung của nhân loại, chỉ đối lập với kinh tế tự nhiên tự cung tự cấp chứ không đối lập với chủ nghĩa xã hội",
+      "Kinh tế thị trường chỉ tồn tại trong giai đoạn tư bản tự do cạnh tranh thế kỷ XIX",
+      "Kinh tế thị trường chỉ xuất hiện khi xóa bỏ hoàn toàn vai trò quản lý của Nhà nước"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 21 và Slide 22 trình bày nhận thức đột phá từ ĐH VI đến ĐH VIII: KTTT là thành tựu phát triển chung của nhân loại, chỉ đối lập với kinh tế tự nhiên tự cung tự cấp chứ không đối lập với CNXH, tồn tại khách quan trong thời kỳ quá độ và cả trong CNXH; có thể và cần thiết xây dựng KTTT để xây dựng CNXH ở nước ta."
+    "explanation": "Slide 21–22 khẳng định bước đột phá tư duy: KTTT là trình độ cao của sản xuất hàng hóa, là thành tựu chung của nhân loại, không đối lập với CNXH mà tồn tại khách quan trong thời kỳ quá độ lên CNXH."
   },
   {
     "id": "c3_3.3_07",
@@ -550,15 +550,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "thong-hieu",
-    "question": "Những đặc điểm chung của một nền kinh tế thị trường hiện đại được bài học chỉ ra bao gồm những yếu tố cơ bản nào?",
+    "question": "Mục tiêu tổng quát của nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam là phát triển lực lượng sản xuất, nâng cao đời sống nhân dân, thực hiện khẩu hiệu:",
     "options": [
-      "Các chủ thể kinh tế độc lập tự chủ; giá cả cơ bản do cung cầu điều tiết; hệ thống thị trường đồng bộ thống nhất kết nối thế giới; nền kinh tế có tính mở cao; hệ thống pháp quy kiện toàn và có sự quản lý vĩ mô của Nhà nước",
-      "Chỉ có một chủ thể duy nhất là Nhà nước; giá cả do cơ quan hành chính áp đặt; nền kinh tế đóng cửa khép kín",
-      "Không cần hệ thống pháp luật; không có sự quản lý vĩ mô của Nhà nước; trao đổi hiện vật là chủ yếu",
-      "Chủ thể kinh tế phụ thuộc hoàn toàn vào chỉ tiêu pháp lệnh; không có thị trường vốn và thị trường lao động"
+      "“Dân giàu, nước mạnh, dân chủ, công bằng, văn minh”",
+      "“Dân tộc trên hết, Tổ quốc trên hết”",
+      "“Toàn dân, toàn diện, lâu dài, dựa vào sức mình là chính”",
+      "“Phản đối xâm lược, hoàn toàn độc lập, chính quyền nhân dân”"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 24 liệt kê 6 đặc điểm chung của kinh tế thị trường: chủ thể độc lập tự chủ sản xuất kinh doanh; giá cả cơ bản do cung cầu điều tiết; hệ thống thị trường phát triển đồng bộ và kết nối thế giới; tính mở cao vận hành theo quy luật vốn có; hệ thống pháp quy kiện toàn; có sự quản lý vĩ mô của Nhà nước."
+    "explanation": "Slide 26 và Slide 28 nêu rõ mục đích phát triển của KTTT định hướng XHCN ở Việt Nam là “Dân giàu, nước mạnh, dân chủ, công bằng, văn minh”, bảo đảm mọi người đều được hưởng thành quả của phát triển."
   },
   {
     "id": "c3_3.3_08",
@@ -567,15 +567,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "thong-hieu",
-    "question": "Theo tiêu chí thứ nhất và thứ hai của Đại hội X (2006), mục đích phát triển và nền tảng của các thành phần kinh tế trong nền KTTT định hướng XHCN được xác định như thế nào?",
+    "question": "Đâu KHÔNG PHẢI là đặc điểm chung của một nền kinh tế thị trường hiện đại?",
     "options": [
-      "Mục đích là thu hẹp vai trò của kinh tế nhà nước và giải thể hoàn toàn kinh tế tập thể",
-      "Mục đích là tối đa hóa lợi nhuận của một nhóm doanh nghiệp độc quyền; kinh tế cá thể là nền tảng duy nhất",
-      "Mục đích là xóa bỏ làm giàu chính đáng để bảo đảm thu nhập hoàn toàn bằng nhau giữa mọi người",
-      "Mục đích là “Dân giàu, nước mạnh, xã hội dân chủ, công bằng, văn minh”, giải phóng LLSX, xóa đói giảm nghèo, khuyến khích làm giàu chính đáng; kinh tế nhà nước cùng với kinh tế tập thể ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân"
+      "Các chủ thể kinh tế có tính độc lập, quyền tự chủ sản xuất kinh doanh",
+      "Giá cả cơ bản do quy luật cung cầu điều tiết",
+      "Hệ thống thị trường đồng bộ, mở cửa và có quản lý vĩ mô của Nhà nước",
+      "Nhà nước điều hành toàn bộ sản xuất bằng mệnh lệnh hành chính và chỉ tiêu pháp lệnh"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 26 trích dẫn rõ 2 tiêu chí đầu của Đại hội X: Về mục đích phát triển (dân giàu, nước mạnh, dân chủ, công bằng, văn minh; đẩy mạnh xóa đói giảm nghèo, khuyến khích vươn lên làm giàu chính đáng); Về phương hướng phát triển (kinh tế nhà nước giữ vai trò chủ đạo, kinh tế nhà nước cùng với kinh tế tập thể ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân)."
+    "explanation": "Slide 24 nêu 6 đặc điểm chung của KTTT; việc quản lý bằng mệnh lệnh hành chính và chỉ tiêu pháp lệnh là đặc trưng của cơ chế kế hoạch hóa tập trung bao cấp trước đổi mới."
   },
   {
     "id": "c3_3.3_09",
@@ -584,15 +584,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "thong-hieu",
-    "question": "Tiêu chí “về định hướng xã hội và phân phối” tại Đại hội X thể hiện nguyên tắc nhân văn đặc thù nào của nền kinh tế thị trường định hướng XHCN ở Việt Nam?",
+    "question": "Theo tiêu chí về định hướng xã hội và phân phối (Đại hội X), mối quan hệ giữa tăng trưởng kinh tế và công bằng xã hội ở nước ta được giải quyết như thế nào?",
     "options": [
-      "Thực hiện tiến bộ và công bằng xã hội ngay trong từng bước đi và từng chính sách phát triển; tăng trưởng kinh tế gắn kết chặt chẽ với phát triển xã hội, văn hóa, giáo dục vì mục tiêu phát triển con người",
-      "Tập trung tăng trưởng kinh tế thật cao trước, chỉ sau khi trở thành nước phát triển mới giải quyết công bằng xã hội",
-      "Dùng toàn bộ ngân sách để chia đều bình quân bất kể năng suất và hiệu quả lao động",
-      "Tách rời hoàn toàn chính sách kinh tế khỏi các chính sách văn hóa, giáo dục và an sinh xã hội"
+      "Thực hiện tiến bộ và công bằng xã hội ngay trong từng bước đi và từng chính sách phát triển",
+      "Đợi tăng trưởng kinh tế đạt mức phát triển cao rồi mới giải quyết công bằng xã hội",
+      "Hi sinh tốc độ tăng trưởng kinh tế để duy trì phân phối bình quân cào bằng",
+      "Giao hoàn toàn việc bảo đảm công bằng xã hội cho cơ chế thị trường tự điều tiết"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 27 và Slide 33 nhấn mạnh đặc trưng nổi bật: thực hiện tiến bộ và công bằng xã hội ngay trong từng bước đi và từng chính sách phát triển; thúc đẩy tăng trưởng kinh tế đồng thời với bảo đảm công bằng xã hội, vì mục tiêu phát triển con người."
+    "explanation": "Slide 27 và Slide 33 nhấn mạnh nguyên tắc đặc trưng: thực hiện tiến bộ và công bằng xã hội ngay trong từng bước đi và từng chính sách phát triển, gắn kết kinh tế với phát triển con người."
   },
   {
     "id": "c3_3.3_10",
@@ -601,15 +601,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "thong-hieu",
-    "question": "Tại sao trong cơ chế vận hành nền KTTT định hướng XHCN ở nước ta cần có sự quản lý, điều tiết của Nhà nước pháp quyền XHCN?",
+    "question": "Chức năng quan trọng của Nhà nước pháp quyền XHCN trong quản lý nền kinh tế thị trường định hướng XHCN là gì?",
     "options": [
-      "Để hạn chế các doanh nghiệp mở rộng thị trường ra nước ngoài và kiểm soát chặt tiêu dùng bằng tem phiếu",
-      "Để thay thế hoàn toàn quy luật cung cầu và quay lại giao chỉ tiêu sản xuất chi tiết cho từng hộ dân",
-      "Để định hướng phát triển, ổn định kinh tế vĩ mô (chống thất nghiệp, khủng hoảng, lạm phát), xây dựng pháp luật, sửa chữa những thất bại và khuyết tật của thị trường, phân phối lại thu nhập quốc dân và bảo đảm đúng định hướng XHCN",
-      "Để loại bỏ sự cạnh tranh giữa các chủ thể thuộc các thành phần kinh tế khác nhau"
+      "Xóa bỏ sự cạnh tranh giữa các doanh nghiệp thuộc các thành phần kinh tế",
+      "Trực tiếp ấn định giá bán lẻ của tất cả mặt hàng tiêu dùng thiết yếu",
+      "Định hướng phát triển, ổn định kinh tế vĩ mô, sửa chữa những thất bại, khuyết tật của thị trường và phân phối lại thu nhập quốc dân",
+      "Thay thế hoàn toàn vai trò của thị trường trong phân bổ nguồn lực"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 31 và Slide 32 trình bày 6 chức năng điều tiết của Nhà nước pháp quyền XHCN nhằm sửa chữa thất bại, khuyết tật của cơ chế thị trường và thực hiện mục tiêu xã hội: định hướng chiến lược quy hoạch, ổn định kinh tế vĩ mô, xây dựng hệ thống pháp luật, sửa chữa khuyết tật thị trường, phân phối và phân phối lại thu nhập quốc dân, quản lý tài sản quốc gia."
+    "explanation": "Slide 31–32 chỉ rõ Nhà nước dùng pháp luật, kế hoạch hóa, chính sách tài khóa và tiền tệ để ổn định vĩ mô (chống lạm phát, thất nghiệp, khủng hoảng), sửa chữa thất bại thị trường và bảo đảm định hướng XHCN."
   },
   {
     "id": "c3_3.3_11",
@@ -618,15 +618,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "thong-hieu",
-    "question": "Mối quan hệ pháp lý và kinh tế giữa các chủ thể thuộc 4 thành phần kinh tế (nhà nước, tập thể, tư nhân, có vốn đầu tư nước ngoài) ở nước ta hiện nay được xác định như thế nào?",
+    "question": "Đâu KHÔNG PHẢI là công cụ điều tiết vĩ mô chủ yếu mà Nhà nước sử dụng trong nền kinh tế thị trường định hướng XHCN?",
     "options": [
-      "Ưu tiên doanh nghiệp có vốn đầu tư nước ngoài hơn các thành phần kinh tế trong nước",
-      "Kinh tế nhà nước đứng trên pháp luật còn kinh tế tư nhân chỉ hoạt động bổ sung tạm thời",
-      "Hoàn toàn tách biệt, không được phép liên doanh hay hợp tác với nhau",
-      "Bình đẳng, hợp tác và cạnh tranh theo pháp luật"
+      "Hệ thống pháp luật",
+      "Chính sách tài khóa và chính sách tài chính – tiền tệ",
+      "Kế hoạch hóa thông qua chiến lược, quy hoạch phát triển",
+      "Chế độ tem phiếu và cấp phát – giao nộp hiện vật"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 29 khẳng định nguyên tắc thị trường hiện đại: Trong nền kinh tế nhiều hình thức sở hữu, nhiều thành phần kinh tế ở Việt Nam, các chủ thể thuộc các thành phần kinh tế đều bình đẳng, hợp tác, cạnh tranh theo pháp luật."
+    "explanation": "Slide 32 liệt kê 4 công cụ vĩ mô: hệ thống pháp luật, kế hoạch hóa, chính sách tài khóa, chính sách tài chính – tiền tệ. Chế độ tem phiếu thuộc cơ chế bao cấp cũ."
   },
   {
     "id": "c3_3.3_12",
@@ -635,15 +635,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "van-dung",
-    "question": "Trình tự phát triển nhận thức lý luận của Đảng về mô hình kinh tế từ Đại hội VI (1986) đến Đại hội IX (2001) diễn ra theo nấc thang chính xác nào sau đây?",
+    "question": "Bước phát triển tư duy về mô hình kinh tế từ Đại hội VI (1986) qua Đại hội VIII (1996) đến Đại hội IX (2001) diễn ra theo đúng thứ tự nào?",
     "options": [
-      "Kinh tế chỉ huy hành chính (ĐH VI, VII) → Kinh tế bao cấp qua giá (ĐH VIII) → Kinh tế hàng hóa giản đơn (ĐH IX)",
+      "Kinh tế thị trường có quản lý của Nhà nước (ĐH VI) → Kinh tế nhiều thành phần (ĐH VII) → Kinh tế bao cấp qua giá (ĐH IX)",
       "Kinh tế thị trường định hướng XHCN (ĐH VI) → Kinh tế hàng hóa nhiều thành phần (ĐH VIII) → Kinh tế kế hoạch hóa tập trung (ĐH IX)",
-      "Kinh tế tập thể là duy nhất (ĐH VI) → Kinh tế thị trường tự do hoàn toàn (ĐH VII) → Kinh tế đóng cửa hướng nội (ĐH IX)",
-      "Kinh tế hàng hóa nhiều thành phần (ĐH VI, VII) → Kinh tế hàng hóa nhiều thành phần vận hành theo cơ chế thị trường có sự quản lý của Nhà nước theo định hướng XHCN (ĐH VIII) → Kinh tế thị trường định hướng XHCN là mô hình kinh tế tổng quát (ĐH IX – XIII)"
+      "Kinh tế kế hoạch hóa tập trung (ĐH VI) → Kinh tế hàng hóa nhiều thành phần (ĐH IX) → Kinh tế thị trường tự do (ĐH VIII)",
+      "Kinh tế hàng hóa nhiều thành phần (ĐH VI–VII) → vận hành theo cơ chế thị trường có sự quản lý của Nhà nước theo định hướng XHCN (ĐH VIII) → Kinh tế thị trường định hướng XHCN là mô hình kinh tế tổng quát (ĐH IX)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 23 hệ thống hóa chính xác 3 nấc thang phát triển tư duy kinh tế: ĐH VI (12/1986) và ĐH VII (6/1991) chủ trương kinh tế hàng hóa nhiều thành phần; ĐH VIII (6/1996) bổ sung vận hành theo cơ chế thị trường có sự quản lý của Nhà nước theo định hướng XHCN; từ ĐH IX (4/2001) đến XIII (2/2021) khẳng định KTTT định hướng XHCN là mô hình kinh tế tổng quát trong TKQĐ lên CNXH."
+    "explanation": "Slide 23 hệ thống hóa 3 nấc thang rõ rệt: ĐH VI–VII (kinh tế hàng hóa nhiều thành phần) → ĐH VIII (bổ sung vận hành theo cơ chế thị trường có quản lý của Nhà nước theo định hướng XHCN) → ĐH IX–XIII (mô hình kinh tế tổng quát KTTT định hướng XHCN)."
   },
   {
     "id": "c3_3.3_13",
@@ -652,15 +652,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "van-dung",
-    "question": "Điểm khác biệt bản chất phân biệt “Kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam” với kinh tế thị trường tư bản chủ nghĩa nói chung nằm ở tổ hợp đặc trưng nào?",
+    "question": "Điểm khác biệt căn bản phân biệt “Kinh tế thị trường định hướng XHCN ở Việt Nam” với kinh tế thị trường tư bản chủ nghĩa nói chung là gì?",
     "options": [
-      "Không tuân theo quy luật cung cầu, không có cạnh tranh và không mở cửa hội nhập kinh tế quốc tế",
-      "Mục tiêu “Dân giàu, nước mạnh, dân chủ, công bằng, văn minh” cho mọi người hưởng thành quả; kinh tế nhà nước giữ vai trò chủ đạo; phân phối theo lao động là chủ đạo gắn với công bằng xã hội ngay trong từng bước phát triển; dưới sự quản lý của Nhà nước pháp quyền XHCN do Đảng lãnh đạo",
-      "Xóa bỏ hoàn toàn sở hữu tư nhân và không cho phép doanh nghiệp có vốn đầu tư nước ngoài hoạt động",
-      "Giá cả hàng hóa hoàn toàn do Nhà nước ấn định cố định và phân phối bằng tem phiếu"
+      "Không vận hành theo quy luật giá trị, quy luật cung cầu và không mở cửa hội nhập quốc tế",
+      "Kinh tế nhà nước giữ vai trò chủ đạo, phân phối theo lao động là chủ đạo, gắn tăng trưởng kinh tế với công bằng xã hội ngay từng bước đi dưới sự quản lý của Nhà nước pháp quyền XHCN do Đảng lãnh đạo",
+      "Cấm sự tồn tại của kinh tế tư nhân và kinh tế có vốn đầu tư nước ngoài",
+      "Xóa bỏ hoàn toàn cơ chế cạnh tranh bình đẳng theo pháp luật giữa các chủ thể kinh tế"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 26–34 tổng hợp trọn vẹn những đặc trưng riêng làm nên tính định hướng XHCN của KTTT Việt Nam (trong khi vẫn tuân thủ đầy đủ các quy luật chung và tính mở hội nhập của KTTT hiện đại)."
+    "explanation": "Slide 28–34 phân tích rõ: KTTT Việt Nam vừa mang đầy đủ đặc điểm chung của KTTT hiện đại (tính mở, cung cầu, bình đẳng cạnh tranh) vừa mang những đặc trưng riêng bảo đảm định hướng XHCN."
   },
   {
     "id": "c3_3.3_14",
@@ -669,15 +669,15 @@
     "sectionId": "3.3",
     "sectionTitle": "Quá trình đổi mới nhận thức về Kinh tế thị trường định hướng XHCN",
     "difficulty": "van-dung",
-    "question": "Khi phân tích nhận định “Kinh tế thị trường nước ta là nền kinh tế mở hội nhập”, ý nghĩa thực tiễn của đặc trưng này đối với các doanh nghiệp Việt Nam là gì?",
+    "question": "Quan điểm khuyến khích mọi người “vươn lên làm giàu chính đáng, giúp đỡ người khác thoát nghèo” tại Đại hội X phản ánh sự hài hòa giữa hai yếu tố nào trong nền KTTT định hướng XHCN?",
     "options": [
-      "Thị trường nội địa được tách biệt hoàn toàn khỏi biến động giá cả và chuỗi cung ứng toàn cầu",
-      "Doanh nghiệp trong nước được miễn hoàn toàn nghĩa vụ tuân thủ pháp luật quốc tế khi xuất khẩu",
-      "Nhà nước sẽ bao cấp bù lỗ toàn bộ cho doanh nghiệp khi tham gia cạnh tranh trên thị trường quốc tế",
-      "Kết nối thị trường trong nước với thị trường thế giới, thu hút vốn đầu tư và công nghệ, đồng thời đòi hỏi doanh nghiệp nâng cao năng lực cạnh tranh theo chuẩn mực và luật lệ quốc tế"
+      "Thu hẹp kinh tế tư nhân để mở rộng chế độ cấp phát – giao nộp",
+      "Duy trì phân phối bình quân cào bằng đi đôi với bao cấp qua giá",
+      "Đề cao lợi nhuận tối đa bất chấp tác động tiêu cực tới xã hội và môi trường",
+      "Khơi dậy động lực sáng tạo, hiệu quả kinh tế của cá nhân đi đôi với mục tiêu an sinh, xóa đói giảm nghèo và công bằng xã hội"
     ],
     "correctIndex": 3,
-    "explanation": "Kết hợp Slide 24, 34 và 93: Tính mở hội nhập giúp kết nối thị trường trong nước với thị trường thế giới, mở rộng thị trường xuất khẩu, thu hút đầu tư và công nghệ, đồng thời đưa doanh nghiệp và cả nền kinh tế vào môi trường cạnh tranh năng động hơn."
+    "explanation": "Slide 26 cho thấy định hướng XHCN không cào bằng thu nhập mà khuyến khích làm giàu hợp pháp đi đôi với đẩy mạnh xóa đói giảm nghèo và bảo đảm tiến bộ, công bằng xã hội."
   },
   {
     "id": "c3_3.4_01",
@@ -686,15 +686,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "nhan-biet",
-    "question": "Đảng ta chính thức sử dụng khái niệm “Hệ thống chính trị” thay thế cho khái niệm “Hệ thống chuyên chính vô sản” từ sự kiện và mốc thời gian nào?",
+    "question": "Khái niệm “Hệ thống chính trị” chính thức được Đảng ta sử dụng thay thế cho khái niệm “Hệ thống chuyên chính vô sản” từ hội nghị nào?",
     "options": [
+      "Đại hội đại biểu toàn quốc lần thứ VII (tháng 6/1991)",
       "Đại hội đại biểu toàn quốc lần thứ VI (tháng 12/1986)",
-      "Đại hội đại biểu toàn quốc lần thứ IV (tháng 12/1976)",
       "Hội nghị Trung ương 6 khóa VI (tháng 3/1989)",
-      "Đại hội đại biểu toàn quốc lần thứ XI (tháng 1/2011)"
+      "Đại hội đại biểu toàn quốc lần thứ IV (tháng 12/1976)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 36 và Slide 50 nêu rõ: Trước 3/1989 (HNTW 6 khóa VI) gọi là Hệ thống Chuyên chính vô sản; từ sau tháng 3/1989 chính thức sử dụng khái niệm Hệ thống chính trị."
+    "explanation": "Slide 36 và Slide 50 nêu rõ mốc chuyển đổi tư duy quan trọng: trước tháng 3/1989 dùng khái niệm Hệ thống chuyên chính vô sản; từ Hội nghị Trung ương 6 khóa VI (3/1989) chính thức dùng khái niệm Hệ thống chính trị."
   },
   {
     "id": "c3_3.4_02",
@@ -703,15 +703,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "nhan-biet",
-    "question": "Cấu trúc của Hệ thống chính trị ở Việt Nam hiện nay bao gồm những bộ phận nào?",
+    "question": "Đâu KHÔNG PHẢI là một trong năm đoàn thể chính trị – xã hội trong Hệ thống chính trị ở Việt Nam hiện nay?",
     "options": [
-      "Chỉ gồm Đảng Cộng sản Việt Nam và các doanh nghiệp nhà nước trọng yếu",
-      "Chỉ gồm Quốc hội, Chính phủ và Tòa án nhân dân tối cao",
-      "Đảng Cộng sản Việt Nam, Nhà nước XHCN, Mặt trận Tổ quốc Việt Nam và 5 đoàn thể chính trị - xã hội (Tổng LĐLĐ, Đoàn TNCS HCM, Hội LHPN, Hội Cựu chiến binh, Hội Nông dân)",
-      "Hệ thống đa đảng đối lập cùng các tổ chức kinh tế tư nhân độc lập"
+      "Tổng Liên đoàn Lao động Việt Nam và Hội Nông dân Việt Nam",
+      "Đoàn TNCS Hồ Chí Minh và Hội Liên hiệp Phụ nữ Việt Nam",
+      "Phòng Thương mại và các hiệp hội doanh nghiệp tư nhân",
+      "Hội Cựu chiến binh Việt Nam"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 36 và Slide 37 trình bày đầy đủ cấu trúc Hệ thống chính trị ở Việt Nam hiện nay: Đảng Cộng sản (hạt nhân lãnh đạo), Nhà nước XHCN (trụ cột quản lý), Mặt trận Tổ quốc và 5 đoàn thể chính trị - xã hội (Tổng Liên đoàn Lao động VN, Đoàn TNCS Hồ Chí Minh, Hội Liên hiệp Phụ nữ VN, Hội Cựu chiến binh VN, Hội Nông dân VN)."
+    "explanation": "Slide 36 liệt kê đầy đủ Hệ thống chính trị VN gồm: Đảng, Nhà nước, Mặt trận Tổ quốc và 5 đoàn thể CT-XH (Tổng LĐLĐ, Đoàn TNCS HCM, Hội LHPN, Hội Cựu chiến binh, Hội Nông dân)."
   },
   {
     "id": "c3_3.4_03",
@@ -720,15 +720,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "nhan-biet",
-    "question": "Cơ chế vận hành tổng quát của Hệ thống chính trị xã hội chủ nghĩa ở nước ta được xác định theo công thức chuẩn mực nào?",
+    "question": "Cơ chế vận hành tổng quát của Hệ thống chính trị xã hội chủ nghĩa ở Việt Nam là:",
     "options": [
-      "Nhà nước lãnh đạo, Đảng quản lý, Mặt trận điều hành",
+      "Nhà nước lãnh đạo, Đảng quản lý, Mặt trận làm chủ",
       "Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ",
-      "Nhân dân quản lý trực tiếp, Nhà nước chỉ làm nhiệm vụ đối ngoại",
-      "Tam quyền phân lập đối trọng giữa các đảng phái chính trị khác nhau"
+      "Tam quyền phân lập đối trọng giữa lập pháp, hành pháp, tư pháp",
+      "Đa nguyên chính trị, đa đảng đối lập cầm quyền luân phiên"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 38 và Slide 53 khẳng định cơ chế vận hành tổng quát của Hệ thống chính trị ở Việt Nam: Đảng Cộng sản lãnh đạo — Nhà nước XHCN quản lý — Nhân dân lao động làm chủ."
+    "explanation": "Slide 38 và Slide 53 khẳng định cơ chế vận hành tổng quát: Đảng Cộng sản lãnh đạo — Nhà nước XHCN quản lý — Nhân dân lao động làm chủ."
   },
   {
     "id": "c3_3.4_04",
@@ -737,15 +737,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "nhan-biet",
-    "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH năm 1991 và Cương lĩnh bổ sung, phát triển năm 2011 lần lượt xác định mô hình chủ nghĩa xã hội ở Việt Nam có mấy đặc trưng?",
+    "question": "Câu nói: “Điều kiện quyết định trước tiên là phải thiết lập và không ngừng tăng cường chuyên chính vô sản, thực hiện và không ngừng phát huy quyền làm chủ tập thể của nhân dân lao động” được trích từ văn kiện nào?",
     "options": [
-      "Cương lĩnh năm 1991 gồm 6 đặc trưng; Cương lĩnh bổ sung, phát triển năm 2011 gồm 8 đặc trưng",
-      "Cương lĩnh năm 1991 gồm 4 đặc trưng; Cương lĩnh bổ sung, phát triển năm 2011 gồm 6 đặc trưng",
-      "Cả hai bản Cương lĩnh năm 1991 và năm 2011 đều giữ nguyên đúng 6 đặc trưng",
-      "Cương lĩnh năm 1991 gồm 8 đặc trưng; Cương lĩnh năm 2011 rút gọn còn 5 đặc trưng"
+      "Văn kiện Đại hội đại biểu toàn quốc lần thứ IV (12/1976)",
+      "Cương lĩnh xây dựng đất nước năm 1991",
+      "Văn kiện Đại hội đại biểu toàn quốc lần thứ X (2006)",
+      "Cương lĩnh bổ sung, phát triển năm 2011"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 49 đặt song song hai bản Cương lĩnh: Cương lĩnh năm 1991 xác định 6 đặc trưng của CNXH mà nhân dân ta xây dựng; đến Cương lĩnh bổ sung, phát triển năm 2011 mở rộng và hoàn thiện thành 8 đặc trưng."
+    "explanation": "Slide 42 trích nguyên văn luận điểm của Đại hội IV (12/1976) trong giai đoạn xây dựng Hệ thống chuyên chính vô sản (1955–1975 và 1975–1989)."
   },
   {
     "id": "c3_3.4_05",
@@ -754,15 +754,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "nhan-biet",
-    "question": "Tại Đại hội X (2006), bản chất giai cấp và tính dân tộc rộng rãi của Đảng Cộng sản Việt Nam được khẳng định chuẩn xác như thế nào?",
+    "question": "Luận điểm: “Đảng Cộng sản Việt Nam là đội tiên phong của giai cấp công nhân, đồng thời là đội tiên phong của nhân dân lao động và của dân tộc Việt Nam...” được khẳng định tại Đại hội nào?",
     "options": [
-      "Đảng Cộng sản Việt Nam là đội tiên phong của giai cấp công nhân, đồng thời là đội tiên phong của nhân dân lao động và của dân tộc Việt Nam, đại biểu trung thành lợi ích của giai cấp công nhân, nhân dân lao động và của dân tộc",
-      "Đảng Cộng sản Việt Nam chỉ là đại biểu riêng của công nhân công nghiệp nặng tại các đô thị lớn",
-      "Đảng Cộng sản Việt Nam là một tổ chức hành chính nhà nước trực thuộc Quốc hội",
-      "Đảng Cộng sản Việt Nam là tổ chức chính trị liên hiệp giữa nhiều chính đảng khác nhau"
+      "Đại hội đại biểu toàn quốc lần thứ X (2006)",
+      "Đại hội đại biểu toàn quốc lần thứ IV (1976)",
+      "Đại hội đại biểu toàn quốc lần thứ VI (1986)",
+      "Đại hội đại biểu toàn quốc lần thứ V (1982)"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 57 trích nguyên văn khẳng định của Đại hội X: “Đảng Cộng sản Việt Nam là đội tiên phong của giai cấp công nhân, đồng thời là đội tiên phong của nhân dân lao động và của dân tộc Việt Nam, đại biểu trung thành lợi ích của giai cấp công nhân, nhân dân lao động và của dân tộc”."
+    "explanation": "Slide 57 trích nguyên văn khẳng định về bản chất và vai trò của Đảng trong hệ thống chính trị tại Đại hội X (2006)."
   },
   {
     "id": "c3_3.4_06",
@@ -771,15 +771,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "thong-hieu",
-    "question": "Hệ thống chính trị dân chủ nhân dân giai đoạn 1945 – 1954 có đặc điểm cơ sở tư tưởng và nền tảng xã hội nổi bật nào?",
+    "question": "Hệ thống chính trị dân chủ nhân dân (1945 – 1954) lấy khẩu hiệu tư tưởng nền tảng nào để quy tụ rộng rãi mọi tầng lớp không phân biệt nòi giống, giai cấp, tôn giáo?",
     "options": [
-      "Hoạt động trên nền tảng kinh tế kế hoạch hóa tập trung bao cấp và chuyên chính vô sản tuyệt đối",
-      "Lấy khẩu hiệu “Dân tộc trên hết, Tổ quốc trên hết” làm cơ sở tư tưởng, dựa trên khối đại đoàn kết dân tộc rộng rãi không phân biệt nòi giống, giai cấp, tôn giáo; xây dựng chính quyền là công bộc của dân",
-      "Chỉ tập hợp riêng hai giai cấp công nhân và nông dân, chưa có sự giám sát của xã hội đối với Nhà nước",
-      "Đặt trên nền tảng kinh tế công nghiệp hóa hiện đại và hội nhập sâu vào Tổ chức Thương mại Thế giới"
+      "“Nắm vững chuyên chính vô sản”",
+      "“Dân tộc trên hết, Tổ quốc trên hết”",
+      "“Sẵn sàng là bạn, là đối tác tin cậy”",
+      "“Phát triển kinh tế thị trường định hướng XHCN”"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 40 và Slide 41 trình bày đặc trưng Hệ thống chính trị dân chủ nhân dân (1945–1954): cơ sở tư tưởng là “Dân tộc trên hết, Tổ quốc trên hết”, dựa trên khối đại đoàn kết dân tộc rộng rãi, có chính quyền là công bộc của dân, Đảng lãnh đạo, trên cơ sở kinh tế sản xuất nhỏ phân tán và đã có sự giám sát của xã hội."
+    "explanation": "Slide 40–41 trình bày Hệ thống chính trị DCND (1945–1954) lấy khẩu hiệu “Dân tộc trên hết, Tổ quốc trên hết” làm cơ sở tư tưởng, dựa trên khối đại đoàn kết dân tộc rộng rãi với chính quyền là công bộc của dân."
   },
   {
     "id": "c3_3.4_07",
@@ -788,15 +788,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "thong-hieu",
-    "question": "Những hạn chế chủ yếu và nguyên nhân của Hệ thống chuyên chính vô sản giai đoạn 1955 – 1989 được chỉ ra trong giáo trình là gì?",
+    "question": "Trong Hệ thống chính trị ở Việt Nam hiện nay, vị trí và vai trò đặc thù của Đảng Cộng sản và Nhà nước XHCN lần lượt là:",
     "options": [
-      "Bộ máy nhà nước quá tinh gọn nên không đủ cơ quan thực thi quản lý kinh tế",
-      "Mối quan hệ Đảng – Nhà nước – nhân dân chưa xác định rõ, bộ máy nhà nước cồng kềnh kém hiệu quả, pháp chế XHCN còn thiếu sót; nguyên nhân do duy trì quá lâu cơ chế bao cấp, bảo thủ trì trệ và bệnh chủ quan duy ý chí",
-      "Đảng buông lỏng hoàn toàn vai trò lãnh đạo và để các đoàn thể thay thế cơ quan lập pháp",
-      "Do đổi mới quá sớm từ năm 1975 khiến hệ thống chính trị không kịp thích ứng"
+      "Nhà nước là hạt nhân lãnh đạo toàn bộ xã hội; Đảng chỉ đảm nhận chức năng quản lý hành chính",
+      "Đảng là hạt nhân lãnh đạo hệ thống chính trị và xã hội; Nhà nước là bộ phận trụ cột thực hiện chức năng quản lý xã hội bằng Hiến pháp và pháp luật",
+      "Đảng trực tiếp làm thay toàn bộ công việc lập pháp, hành pháp, tư pháp của Nhà nước",
+      "Đảng đứng ngoài khuôn khổ Hiến pháp và pháp luật để giám sát các cơ quan nhà nước"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 46 và Slide 47 phân tích rõ hạn chế của hệ thống chuyên chính vô sản (quan hệ Đảng - Nhà nước - nhân dân chưa rõ, chế độ trách nhiệm chưa nghiêm, pháp chế còn thiếu sót, bộ máy cồng kềnh kém hiệu quả) và nguyên nhân (duy trì quá lâu cơ chế tập trung quan liêu bao cấp, biểu hiện bảo thủ trì trệ chậm đổi mới, bệnh chủ quan duy ý chí)."
+    "explanation": "Slide 37, 53, 58–59 nêu rõ: Đảng là hạt nhân lãnh đạo (không làm thay Nhà nước, hoạt động trong khuôn khổ Hiến pháp và pháp luật); Nhà nước XHCN là bộ phận trụ cột giữ chức năng quản lý."
   },
   {
     "id": "c3_3.4_08",
@@ -805,15 +805,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "thong-hieu",
-    "question": "Quan điểm chỉ đạo của Đảng về mối quan hệ giữa đổi mới kinh tế và đổi mới hệ thống chính trị trong thời kỳ đổi mới là gì?",
+    "question": "Quan điểm đúng đắn nhất của Đảng về mối quan hệ giữa đổi mới kinh tế và đổi mới hệ thống chính trị là:",
     "options": [
-      "Đổi mới hệ thống chính trị trước rồi mới tiến hành cải cách kinh tế sau",
-      "Kết hợp chặt chẽ ngay từ đầu đổi mới kinh tế với đổi mới chính trị, lấy đổi mới kinh tế làm trọng tâm, đồng thời từng bước đổi mới hệ thống chính trị phù hợp",
-      "Chỉ đổi mới kinh tế tuyệt đối không đổi mới tổ chức và phương thức hoạt động của hệ thống chính trị",
-      "Xóa bỏ toàn bộ hệ thống chính trị cũ để xây dựng lại từ đầu theo mô hình đa nguyên đa đảng"
+      "Đổi mới hệ thống chính trị triệt để trước rồi mới bắt đầu đổi mới kinh tế",
+      "Kết hợp chặt chẽ ngay từ đầu đổi mới kinh tế với đổi mới chính trị, lấy đổi mới kinh tế làm trọng tâm, từng bước đổi mới chính trị",
+      "Chỉ đổi mới kinh tế, tuyệt đối giữ nguyên mô hình hệ thống chuyên chính vô sản cũ",
+      "Thực hiện đa nguyên chính trị, đa đảng đối lập làm điều kiện tiên quyết để phát triển kinh tế"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 50 và Slide 56 khẳng định quan điểm đúng đắn, thận trọng của Đảng: kết hợp chặt chẽ ngay từ đầu đổi mới kinh tế với đổi mới chính trị, lấy đổi mới kinh tế làm trọng tâm, từng bước đổi mới hệ thống chính trị toàn diện, đồng bộ, có kế thừa và bước đi phù hợp."
+    "explanation": "Slide 50 và Slide 56 nhấn mạnh: lấy đổi mới kinh tế làm trọng tâm, đồng thời từng bước đổi mới hệ thống chính trị một cách toàn diện, đồng bộ, có kế thừa và bước đi phù hợp."
   },
   {
     "id": "c3_3.4_09",
@@ -822,15 +822,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "thong-hieu",
-    "question": "Theo Cương lĩnh 1991 và Báo cáo chính trị Đại hội VII (1991), mục tiêu và thực chất của việc đổi mới, kiện toàn hệ thống chính trị ở nước ta là gì?",
+    "question": "Theo Cương lĩnh 1991 và Đại hội VII (1991), thực chất và mục tiêu bao trùm của việc đổi mới, kiện toàn hệ thống chính trị là gì?",
     "options": [
-      "Chỉ nhằm mục tiêu tinh giản biên chế hành chính để cắt giảm chi tiêu ngân sách",
-      "Tập trung toàn bộ quyền lực hành chính vào các cơ quan trung ương, hạn chế sự giám sát của nhân dân",
-      "Chuyển toàn bộ chức năng quản lý nhà nước sang cho Mặt trận Tổ quốc đảm nhiệm",
-      "Xây dựng và từng bước hoàn thiện nền dân chủ xã hội chủ nghĩa, bảo đảm quyền lực thuộc về nhân dân; dân chủ vừa là mục tiêu vừa là động lực của công cuộc đổi mới"
+      "Thu hẹp quyền giám sát của nhân dân đối với bộ máy nhà nước",
+      "Tăng thêm nhiều cơ quan trung gian để kiểm soát chặt chẽ hoạt động của doanh nghiệp",
+      "Chuyển toàn bộ quyền lực hành pháp từ Chính phủ sang Mặt trận Tổ quốc",
+      "Xây dựng và từng bước hoàn thiện nền dân chủ xã hội chủ nghĩa, bảo đảm quyền lực thuộc về nhân dân"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 51 và Slide 55 khẳng định: Toàn bộ tổ chức và hoạt động của hệ thống chính trị nhằm xây dựng và hoàn thiện nền dân chủ XHCN, bảo đảm quyền lực thuộc về nhân dân; thực hiện nền dân chủ XHCN là thực chất của đổi mới hệ thống chính trị, dân chủ vừa là mục tiêu vừa là động lực của công cuộc đổi mới."
+    "explanation": "Slide 51 và Slide 55 khẳng định: Thực hiện nền dân chủ XHCN, bảo đảm quyền lực thuộc về nhân dân là mục tiêu và thực chất của đổi mới hệ thống chính trị; dân chủ vừa là mục tiêu vừa là động lực của đổi mới."
   },
   {
     "id": "c3_3.4_10",
@@ -839,15 +839,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "thong-hieu",
-    "question": "Theo Cương lĩnh 1991, phương thức lãnh đạo của Đảng đối với Nhà nước và xã hội trong hệ thống chính trị đổi mới được xác định như thế nào?",
+    "question": "Theo Cương lĩnh 1991, phương thức lãnh đạo của Đảng đối với xã hội và hệ thống chính trị là:",
     "options": [
-      "Đảng trực tiếp ban hành mọi quyết định hành chính, xét xử và quản lý kinh doanh thay cho các cơ quan nhà nước",
-      "Đảng lãnh đạo xã hội bằng cương lĩnh, chiến lược, các định hướng về chính sách và chủ trương công tác, không làm thay công việc của Nhà nước và các tổ chức khác; hoạt động trong khuôn khổ Hiến pháp và pháp luật",
-      "Đảng đứng ngoài hệ thống chính trị và đứng trên khuôn khổ Hiến pháp, pháp luật",
-      "Đảng chỉ làm công tác tuyên truyền văn hóa, không đề ra chiến lược và định hướng chính sách"
+      "Lãnh đạo bằng mệnh lệnh hành chính trực tiếp thay cho các văn bản quy phạm pháp luật",
+      "Lãnh đạo bằng cương lĩnh, chiến lược, các định hướng về chính sách và chủ trương công tác, không làm thay công việc của các tổ chức khác",
+      "Đứng ngoài hệ thống chính trị và chỉ tham gia khi có khủng hoảng kinh tế",
+      "Giao quyền lãnh đạo chính trị cho các tổ chức xã hội nghề nghiệp tự điều phối"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 54, 58 và 59 nêu rõ: Đảng là một bộ phận của hệ thống chính trị và lãnh đạo hệ thống chính trị bằng cương lĩnh, chiến lược, định hướng chính sách và chủ trương công tác (không làm thay Nhà nước), liên hệ mật thiết với nhân dân và hoạt động trong khuôn khổ Hiến pháp và pháp luật."
+    "explanation": "Slide 54 và Slide 58 nêu rõ phương thức lãnh đạo đổi mới: Đảng lãnh đạo bằng cương lĩnh, chiến lược, định hướng chính sách và chủ trương công tác, không làm thay Nhà nước và các tổ chức khác."
   },
   {
     "id": "c3_3.4_11",
@@ -856,15 +856,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "thong-hieu",
-    "question": "Các đặc trưng cốt lõi của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam mà Đảng ta chủ trương xây dựng là gì?",
+    "question": "Đâu KHÔNG PHẢI là đặc trưng của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam mà Đảng chủ trương xây dựng?",
     "options": [
-      "Nhà nước của dân, do dân, vì dân; quyền lực nhà nước thống nhất, có sự phân công rành mạch và phối hợp chặt chẽ giữa các cơ quan; tổ chức hoạt động trên cơ sở Hiến pháp và pháp luật; tôn trọng bảo đảm quyền con người, quyền công dân; do một Đảng duy nhất lãnh đạo",
-      "Nhà nước tổ chức theo nguyên tắc tam quyền phân lập đối kháng và đa đảng cầm quyền luân phiên",
-      "Nhà nước quản lý xã hội chủ yếu bằng tập quán và mệnh lệnh hành chính nội bộ, không dựa trên Hiến pháp",
-      "Nhà nước trao toàn bộ quyền lập pháp và tư pháp cho các doanh nghiệp lớn tự điều chỉnh"
+      "Tổ chức theo cơ chế tam quyền phân lập đối kháng và đa đảng cầm quyền",
+      "Quyền lực nhà nước thống nhất, có sự phân công rành mạch và phối hợp chặt chẽ giữa các cơ quan",
+      "Tổ chức và hoạt động trên cơ sở Hiến pháp, pháp luật; tôn trọng bảo đảm quyền con người, quyền công dân",
+      "Nhà nước của dân, do dân và vì dân"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 60 và Slide 61 trình bày 5 đặc trưng cơ bản của Nhà nước pháp quyền XHCN Việt Nam cùng 5 biện pháp xây dựng: hoàn thiện hệ thống pháp luật, đổi mới Quốc hội, đẩy mạnh cải cách hành chính, xây dựng cơ quan tư pháp trong sạch nghiêm minh và nâng cao chất lượng HĐND, UBND."
+    "explanation": "Slide 60 nêu 5 đặc trưng Nhà nước pháp quyền XHCN Việt Nam: của dân do dân vì dân; quyền lực thống nhất có phân công phối hợp; hoạt động theo Hiến pháp pháp luật; bảo đảm quyền con người quyền công dân; do một Đảng duy nhất lãnh đạo."
   },
   {
     "id": "c3_3.4_12",
@@ -873,15 +873,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "van-dung",
-    "question": "So sánh 8 đặc trưng CNXH trong Cương lĩnh bổ sung, phát triển năm 2011 với 6 đặc trưng trong Cương lĩnh năm 1991, hai đặc trưng MỚI hoàn toàn được bổ sung thêm năm 2011 là gì?",
+    "question": "So với 6 đặc trưng trong Cương lĩnh năm 1991, hai đặc trưng MỚI hoàn toàn được bổ sung trong 8 đặc trưng của Cương lĩnh bổ sung, phát triển năm 2011 là:",
     "options": [
-      "Đặc trưng “Chế độ công hữu tuyệt đối về mọi tư liệu sản xuất” và đặc trưng “Phân phối theo tem phiếu”",
-      "Đặc trưng “Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc” và đặc trưng “Do nhân dân lao động làm chủ”",
-      "Đặc trưng “Các dân tộc bình đẳng, đoàn kết” và đặc trưng “Có quan hệ hữu nghị hợp tác với các nước”",
-      "Đặc trưng bao quát “Dân giàu, nước mạnh, dân chủ, công bằng, văn minh” và đặc trưng “Có Nhà nước pháp quyền XHCN của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo”"
+      "“Chế độ công hữu tuyệt đối về tư liệu sản xuất” và “Nắm vững chuyên chính vô sản”",
+      "“Do nhân dân lao động làm chủ” và “Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc”",
+      "“Các dân tộc bình đẳng, đoàn kết” và “Có quan hệ hữu nghị, hợp tác với các nước trên thế giới”",
+      "“Dân giàu, nước mạnh, dân chủ, công bằng, văn minh” và “Có Nhà nước pháp quyền XHCN của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo”"
     ],
     "correctIndex": 3,
-    "explanation": "Đối chiếu trực tiếp hai cột ở Slide 49: So với 6 đặc trưng năm 1991, Cương lĩnh 2011 bổ sung thêm 2 đặc trưng mới rất quan trọng là: (1) “Dân giàu, nước mạnh, dân chủ, công bằng, văn minh” và (2) “Có Nhà nước pháp quyền XHCN của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo” (đồng thời điều chỉnh đặc trưng kinh tế từ “chế độ công hữu về các TLSX chủ yếu” thành “quan hệ sản xuất tiến bộ phù hợp”)."
+    "explanation": "Đối chiếu 2 cột ở Slide 49: Cương lĩnh 2011 nâng từ 6 lên 8 đặc trưng bằng cách bổ sung đặc trưng bao quát “Dân giàu, nước mạnh, dân chủ, công bằng, văn minh” và đặc trưng “Có Nhà nước pháp quyền XHCN...”."
   },
   {
     "id": "c3_3.4_13",
@@ -890,15 +890,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "van-dung",
-    "question": "Ngoài việc bổ sung 2 đặc trưng mới, sự điều chỉnh tinh tế về mặt kinh tế từ Cương lĩnh 1991 sang Cương lĩnh bổ sung năm 2011 phản ánh sự phát triển tư duy nào của Đảng?",
+    "question": "Sự khác biệt tinh tế về đặc trưng kinh tế giữa Cương lĩnh năm 1991 với Cương lĩnh bổ sung, phát triển năm 2011 thể hiện ở cụm từ nào?",
     "options": [
-      "Bỏ hoàn toàn yêu cầu về “lực lượng sản xuất hiện đại” để giảm tốc độ công nghiệp hóa",
-      "Chuyển từ kinh tế nhiều thành phần (1991) quay lại kinh tế chỉ có sở hữu toàn dân (2011)",
-      "Chuyển từ “chế độ công hữu về các tư liệu sản xuất chủ yếu” (1991) thành “quan hệ sản xuất tiến bộ phù hợp” (2011) — tương thích đầy đủ với nền kinh tế thị trường định hướng XHCN nhiều hình thức sở hữu",
-      "Bỏ nguyên tắc “do nhân dân lao động làm chủ” để chuyển sang quản trị doanh nghiệp thuần túy"
+      "Cương lĩnh 1991 bỏ qua yếu tố “lực lượng sản xuất hiện đại”; Cương lĩnh 2011 mới bổ sung vào",
+      "Cương lĩnh 1991 viết “kinh tế thị trường định hướng XHCN”; Cương lĩnh 2011 đổi thành “kinh tế kế hoạch hóa tập trung”",
+      "Cương lĩnh 1991 viết “chế độ công hữu về các tư liệu sản xuất chủ yếu”; Cương lĩnh 2011 phát triển thành “quan hệ sản xuất tiến bộ phù hợp”",
+      "Cả hai bản Cương lĩnh đều giữ nguyên hoàn toàn câu chữ về đặc trưng kinh tế"
     ],
     "correctIndex": 2,
-    "explanation": "Đối chiếu Slide 49: Cương lĩnh 1991 viết “Có một nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về các tư liệu sản xuất chủ yếu”; đến Cương lĩnh 2011 phát triển thành “Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ phù hợp” — phù hợp thực tiễn kinh tế nhiều thành phần."
+    "explanation": "Slide 49 cho thấy sự phát triển lý luận quan trọng: từ “chế độ công hữu về các tư liệu sản xuất chủ yếu” (1991) sang “quan hệ sản xuất tiến bộ phù hợp” (2011), phản ánh chính xác thực tiễn nền KTTT nhiều hình thức sở hữu."
   },
   {
     "id": "c3_3.4_14",
@@ -907,15 +907,15 @@
     "sectionId": "3.4",
     "sectionTitle": "Đường lối xây dựng Hệ thống chính trị",
     "difficulty": "van-dung",
-    "question": "Tại Đại hội IX (2001), nhận thức mới của Đảng về nội dung đấu tranh giai cấp và động lực chủ yếu phát triển đất nước trong giai đoạn mới có ý nghĩa thực tiễn gì?",
+    "question": "Tại Đại hội IX (2001), Đảng xác định động lực chủ yếu để phát triển đất nước trong giai đoạn mới là gì?",
     "options": [
-      "Quay lại quan niệm đấu tranh giai cấp cực đoan “ai thắng ai” bằng biện pháp trấn áp hành chính",
-      "Chuyển trọng tâm đấu tranh giai cấp sang thực hiện thắng lợi CNH-HĐH, khắc phục nước nghèo kém phát triển, thực hiện công bằng xã hội, chống tiêu cực và âm mưu thù địch; xác định động lực phát triển là đại đoàn kết toàn dân trên nền tảng liên minh công – nông – trí thức",
-      "Phủ nhận hoàn toàn sự tồn tại của đấu tranh giai cấp và các thế lực chống phá trong thời kỳ đổi mới",
-      "Thu hẹp khối động lực phát triển chỉ còn riêng hai giai cấp công nhân và nông dân, bỏ tầng lớp trí thức"
+      "Đấu tranh giai cấp quyết liệt nhằm xóa bỏ hoàn toàn kinh tế tư nhân",
+      "Đại đoàn kết toàn dân trên cơ sở liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức",
+      "Mở rộng tối đa bộ máy hành chính nhà nước ở mọi cấp trung gian",
+      "Dựa chủ yếu vào nguồn viện trợ quân sự và tài chính từ bên ngoài"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 52 nêu rõ bước phát triển tư duy quan trọng tại Đại hội IX: xác định nội dung đấu tranh giai cấp gắn liền với nhiệm vụ xây dựng đất nước (thắng lợi CNH-HĐH, công bằng xã hội, chống tiêu cực, làm thất bại âm mưu thù địch) và động lực chủ yếu phát triển đất nước là Đại đoàn kết toàn dân trên cơ sở liên minh công – nông – trí thức."
+    "explanation": "Slide 52 khẳng định nhận thức mới tại Đại hội IX: động lực chủ yếu phát triển đất nước là Đại đoàn kết toàn dân trên cơ sở liên minh công – nông – trí thức (đồng thời đổi mới nội dung đấu tranh giai cấp gắn với CNH-HĐH và công bằng xã hội)."
   },
   {
     "id": "c3_3.5_01",
@@ -924,15 +924,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "nhan-biet",
-    "question": "Văn kiện nào do đồng chí Trường Chinh soạn thảo năm 1943 được xem là bản Tuyên ngôn, Cương lĩnh đầu tiên của Đảng về văn hóa với ba nguyên tắc “Dân tộc hóa, khoa học hóa và đại chúng hóa”?",
+    "question": "Văn kiện nào năm 1943 do đồng chí Trường Chinh soạn thảo được xem là bản Tuyên ngôn, Cương lĩnh đầu tiên của Đảng về văn hóa?",
     "options": [
-      "Luận cương chính trị (10/1930)",
+      "Chánh cương vắn tắt (1930)",
       "Tác phẩm “Kháng chiến nhất định thắng lợi” (1947)",
       "Bản “Đề cương văn hóa Việt Nam” (1943)",
-      "Cương lĩnh xây dựng đất nước (1991)"
+      "Nghị quyết Đại hội III về văn hóa (1960)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 65 nêu rõ: Bản “Đề cương văn hóa Việt Nam” (1943) do đồng chí Trường Chinh soạn thảo được xem là bản Tuyên ngôn, là Cương lĩnh của Đảng về văn hóa, xác định văn hóa là một trong ba mặt trận (kinh tế - chính trị - văn hóa) với 3 nguyên tắc: Dân tộc hóa, khoa học hóa và đại chúng hóa."
+    "explanation": "Slide 65 khẳng định bản “Đề cương văn hóa Việt Nam” (1943) của đồng chí Trường Chinh là Tuyên ngôn, Cương lĩnh về văn hóa với 3 nguyên tắc: Dân tộc hóa, khoa học hóa và đại chúng hóa."
   },
   {
     "id": "c3_3.5_02",
@@ -941,15 +941,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "nhan-biet",
-    "question": "Trong phiên họp đầu tiên của Hội đồng Chính phủ ngày 3/9/1945 (nêu lên 6 nhiệm vụ cấp bách), hai nhiệm vụ cấp bách đầu tiên về văn hóa là gì?",
+    "question": "Đoạn trích: “Phàm cái gì chống lại tinh thần độc lập dân tộc và thống nhất, phải thẳng cánh đập tan. Phàm cái gì trái khoa học, phản tiến bộ, phải kiên quyết bài trừ...” là lời giải thích của ai về ba nguyên tắc văn hóa năm 1943?",
     "options": [
-      "Chống nạn mù chữ và giáo dục lại tinh thần nhân dân",
-      "Xây dựng hệ thống đại học quốc tế và số hóa toàn bộ thư viện",
-      "Xóa bỏ hoàn toàn chữ Quốc ngữ và khôi phục chế độ khoa cử Nho học",
-      "Phát triển công nghiệp điện ảnh thương mại và du lịch lễ hội"
+      "Đồng chí Trường Chinh",
+      "Đồng chí Lê Duẩn",
+      "Đồng chí Trần Phú",
+      "Đồng chí Lê Hồng Phong"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 68 ghi rõ: Ngày 3/9/1945, trong phiên họp đầu tiên của Hội đồng Chính phủ đã nêu 6 nhiệm vụ cấp bách của Nhà nước VNDCCH, trong đó hai nhiệm vụ cấp bách về văn hóa là: Chống nạn mù chữ và giáo dục lại tinh thần nhân dân, với khẩu hiệu “Dân tộc, dân chủ”."
+    "explanation": "Slide 67 trích nguyên văn phát biểu của đồng chí Trường Chinh làm rõ nội hàm 3 nguyên tắc Dân tộc hóa, Khoa học hóa và Đại chúng hóa của Đề cương văn hóa Việt Nam (1943)."
   },
   {
     "id": "c3_3.5_03",
@@ -958,15 +958,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "nhan-biet",
-    "question": "Tại Đại hội III (9/1960), Đảng chủ trương tiến hành đồng thời ba cuộc cách mạng nào để xây dựng chủ nghĩa xã hội?",
+    "question": "Trong phiên họp đầu tiên của Hội đồng Chính phủ ngày 3/9/1945 (6 nhiệm vụ cấp bách), hai nhiệm vụ cấp bách đầu tiên về văn hóa là:",
     "options": [
-      "Cách mạng công nghiệp 4.0, cách mạng tài chính ngân hàng và cách mạng thương mại điện tử",
-      "Cách mạng về quan hệ sản xuất, cách mạng về khoa học kỹ thuật và cách mạng về tư tưởng văn hóa",
-      "Cách mạng ruộng đất, cách mạng nghị trường và cách mạng ngoại giao",
-      "Cách mạng quân sự, cách mạng du kích và cách mạng cải cách hành chính"
+      "Cải cách giáo dục đại học và mở rộng hợp tác văn hóa quốc tế",
+      "Chống nạn mù chữ và giáo dục lại tinh thần nhân dân",
+      "Xóa bỏ hoàn toàn chữ Quốc ngữ và khôi phục văn hóa truyền thống",
+      "Xây dựng các khu công nghiệp văn hóa và bảo tàng hiện đại"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 69 và Slide 70 nêu rõ chủ trương tại Đại hội III (9/1960): Tiến hành đồng thời 3 cuộc cách mạng — Cách mạng về quan hệ sản xuất (QHSX), Cách mạng về khoa học kỹ thuật (KHKT) và Cách mạng về tư tưởng văn hóa."
+    "explanation": "Slide 68 ghi rõ: ngày 3/9/1945 Hội đồng Chính phủ nêu 2 nhiệm vụ cấp bách về văn hóa là chống nạn mù chữ và giáo dục lại tinh thần nhân dân theo khẩu hiệu “Dân tộc, dân chủ”."
   },
   {
     "id": "c3_3.5_04",
@@ -975,15 +975,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "nhan-biet",
-    "question": "Quan điểm chỉ đạo xuyên suốt thời kỳ đổi mới (Đại hội VIII đến XIII) xác định vị trí và vai trò của văn hóa trong sự phát triển đất nước là gì?",
+    "question": "Tại Đại hội III (9/1960), Đảng chủ trương tiến hành đồng thời ba cuộc cách mạng nào?",
     "options": [
-      "Văn hóa hoàn toàn tách biệt khỏi mục tiêu phát triển kinh tế - xã hội của đất nước",
-      "Văn hóa là lĩnh vực phụ trợ đứng sau kinh tế, chỉ đầu tư sau khi đạt mức thu nhập cao",
-      "Văn hóa là công cụ tuyên truyền tạm thời trong giai đoạn chiến tranh giải phóng dân tộc",
-      "Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu, vừa là động lực thúc đẩy sự phát triển kinh tế - xã hội"
+      "Cách mạng quân sự, cách mạng ngoại giao và cách mạng cải cách hành chính",
+      "Cách mạng công nghiệp hóa, cách mạng thương mại và cách mạng tài chính",
+      "Cách mạng ruộng đất, cách mạng nghị trường và cách mạng báo chí",
+      "Cách mạng về quan hệ sản xuất, cách mạng về khoa học kỹ thuật và cách mạng về tư tưởng văn hóa"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 75 và Slide 76 nhấn mạnh tầm nhìn mới phù hợp với thế giới: Văn hóa là “nền tảng tinh thần của xã hội”, vừa là mục tiêu, vừa là động lực thúc đẩy sự phát triển kinh tế - xã hội."
+    "explanation": "Slide 69–70 nêu rõ chủ trương tiến hành đồng thời 3 cuộc cách mạng tại Đại hội III (9/1960): CM về QHSX, CM về KHKT và CM về tư tưởng văn hóa."
   },
   {
     "id": "c3_3.5_05",
@@ -992,12 +992,12 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "nhan-biet",
-    "question": "Trong hệ thống quan điểm chỉ đạo phát triển văn hóa thời kỳ đổi mới, hai lĩnh vực nào được Đảng ta coi là “quốc sách hàng đầu”?",
+    "question": "Trong đường lối văn hóa thời kỳ đổi mới, hai lĩnh vực nào được Đảng khẳng định là “quốc sách hàng đầu”?",
     "options": [
-      "Thương mại bán lẻ truyền thống và vận tải đường thủy",
-      "Khai thác tài nguyên khoáng sản và xuất khẩu nông sản thô",
-      "Phát triển bất động sản đô thị và dịch vụ giải trí",
-      "Giáo dục - đào tạo cùng với khoa học và công nghệ"
+      "Xây dựng đô thị mới cùng với dịch vụ tài chính",
+      "Công nghiệp khai khoáng cùng với thương mại xuất khẩu",
+      "Thể thao thành tích cao cùng với du lịch nghỉ dưỡng",
+      "Giáo dục – đào tạo cùng với khoa học và công nghệ"
     ],
     "correctIndex": 3,
     "explanation": "Slide 81 khẳng định rõ quan điểm chỉ đạo: Giáo dục và đào tạo cùng với khoa học và công nghệ được coi là quốc sách hàng đầu."
@@ -1009,15 +1009,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "thong-hieu",
-    "question": "Nội hàm của ba nguyên tắc “Dân tộc hóa, khoa học hóa, đại chúng hóa” trong Đề cương văn hóa Việt Nam (1943) được giải thích như thế nào?",
+    "question": "Tầm nhìn mới của Đảng từ Đại hội VIII đến Đại hội XIII xác định vị trí và vai trò của văn hóa đối với sự phát triển đất nước là:",
     "options": [
-      "Dân tộc hóa là đóng cửa không giao lưu văn hóa thế giới; Khoa học hóa là chỉ dạy toán lý; Đại chúng hóa là cấm văn học nghệ thuật chuyên nghiệp",
-      "Dân tộc hóa là chống ảnh hưởng nô dịch thuộc địa; Khoa học hóa là chống những gì phản tiến bộ, trái khoa học; Đại chúng hóa là chống mọi chủ trương, hành động phản lại hoặc xa rời quần chúng",
-      "Dân tộc hóa là giữ nguyên mọi hủ tục cũ; Khoa học hóa là sao chép nguyên văn hóa phương Tây; Đại chúng hóa là xóa bỏ giáo dục phổ thông",
-      "Ba nguyên tắc này chỉ áp dụng riêng trong lĩnh vực báo chí tuyên truyền ở đô thị"
+      "Văn hóa là lĩnh vực đứng ngoài tăng trưởng kinh tế, chỉ phục vụ đời sống giải trí",
+      "Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu, vừa là động lực thúc đẩy sự phát triển kinh tế – xã hội",
+      "Văn hóa bị quy định cứng nhắc bởi nhiệm vụ xóa bỏ tư hữu trong cách mạng quan hệ sản xuất",
+      "Văn hóa chỉ đóng vai trò động lực phụ trợ, không phải mục tiêu của phát triển"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 66 và Slide 67 trích rõ nội hàm 3 nguyên tắc của Đề cương văn hóa 1943 và câu nói nổi tiếng của Trường Chinh: chống ảnh hưởng nô dịch thuộc địa (Dân tộc hóa), kiên quyết bài trừ cái trái khoa học phản tiến bộ (Khoa học hóa) và phê phán cái phản đại chúng, xa đại chúng (Đại chúng hóa)."
+    "explanation": "Slide 75–76 nhấn mạnh bước đột phá tầm nhìn thời kỳ đổi mới: văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu, vừa là động lực thúc đẩy phát triển KT-XH."
   },
   {
     "id": "c3_3.5_07",
@@ -1026,15 +1026,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "thong-hieu",
-    "question": "Đường lối xây dựng nền văn hóa giai đoạn 1955 – 1986 đạt nhiều thành tựu xóa mù chữ và nâng cao dân trí, nhưng bộc lộ hạn chế và nguyên nhân chủ yếu nào?",
+    "question": "Hai câu thơ nổi tiếng của Chủ tịch Hồ Chí Minh: “Dân ta phải biết sử ta / Cho tường gốc tích nước nhà Việt Nam” minh họa trực tiếp cho quan điểm chỉ đạo nào về văn hóa?",
     "options": [
-      "Không đặt mục tiêu xóa nạn mù chữ và bỏ mặc sự phát triển của hệ thống giáo dục phổ thông",
-      "Bị chi phối bởi tư duy chính trị “nắm vững chuyên chính vô sản” (nhấn mạnh đấu tranh “ai thắng ai” giữa hai phe, hai ý thức hệ) và nội dung văn hóa bị quy định cứng nhắc bởi cuộc cách mạng QHSX xóa nhanh tư hữu",
-      "Bị thương mại hóa quá mức do mở cửa hoàn toàn thị trường văn hóa từ năm 1960",
-      "Không tiến hành cải cách giáo dục và không xây dựng phong trào văn hóa nghệ thuật quần chúng"
+      "Xóa bỏ hoàn toàn di sản lịch sử cổ đại để xây dựng văn hóa hiện đại từ đầu",
+      "Văn hóa là một mặt trận, xây dựng nền văn hóa tiên tiến đậm đà bản sắc dân tộc gắn với giữ gìn truyền thống lịch sử lâu dài",
+      "Chỉ ưu tiên đào tạo khoa học tự nhiên, không cần giảng dạy lịch sử dân tộc",
+      "Thu hẹp giao lưu văn hóa quốc tế để giữ kín bản sắc truyền thống"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 72 và Slide 73 đánh giá hai mặt giai đoạn 1955–1986: bên cạnh kết quả xóa bỏ văn hóa nô dịch và xóa mù chữ cho hàng triệu đồng bào, đường lối văn hóa bị chi phối bởi tư duy “nắm vững chuyên chính vô sản” (nhấn mạnh “ai thắng ai”) và bị quy định cứng nhắc bởi cách mạng QHSX."
+    "explanation": "Slide 80 trích câu thơ trong “Lịch sử nước ta” của Hồ Chí Minh để nhấn mạnh văn hóa là một mặt trận, là sự nghiệp cách mạng lâu dài gắn với cội nguồn lịch sử và bản sắc dân tộc."
   },
   {
     "id": "c3_3.5_08",
@@ -1043,15 +1043,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "thong-hieu",
-    "question": "Các quan điểm chỉ đạo cốt lõi về đặc trưng và chủ thể xây dựng nền văn hóa Việt Nam thời kỳ đổi mới bao gồm những nội dung nào?",
+    "question": "Đâu KHÔNG PHẢI là một trong các quan điểm chỉ đạo xây dựng nền văn hóa Việt Nam thời kỳ đổi mới?",
     "options": [
-      "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; thống nhất mà đa dạng trong cộng đồng các dân tộc; là sự nghiệp của toàn dân do Đảng lãnh đạo, trong đó đội ngũ trí thức giữ vai trò quan trọng; văn hóa là một mặt trận lâu dài đòi hỏi kiên trì thận trọng",
-      "Đồng nhất hóa hoàn toàn văn hóa các dân tộc thiểu số theo một khuôn mẫu duy nhất ở đô thị",
-      "Chỉ giao cho các cơ quan nhà nước thực hiện, người dân và đội ngũ trí thức không giữ vai trò trung tâm",
-      "Tiếp nhận toàn bộ văn hóa ngoại lai thay thế cho các giá trị truyền thống lịch sử dân tộc"
+      "Đặt văn hóa phụ thuộc cứng nhắc vào đấu tranh “ai thắng ai” của chuyên chính vô sản",
+      "Nền văn hóa thống nhất mà đa dạng trong cộng đồng các dân tộc Việt Nam",
+      "Sự nghiệp của toàn dân do Đảng lãnh đạo, trong đó đội ngũ trí thức giữ vai trò quan trọng",
+      "Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 77–80 nêu đầy đủ các quan điểm chỉ đạo về văn hóa thời kỳ đổi mới: nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; thống nhất mà đa dạng trong cộng đồng các dân tộc; sự nghiệp của toàn dân do Đảng lãnh đạo với đội ngũ trí thức giữ vai trò quan trọng; văn hóa là một mặt trận lâu dài đòi hỏi ý chí và sự kiên trì, thận trọng."
+    "explanation": "Slide 73 chỉ rõ tư duy “nắm vững chuyên chính vô sản”, đấu tranh “ai thắng ai” là hạn chế của đường lối văn hóa giai đoạn 1955–1986, đã được khắc phục trong thời kỳ đổi mới (Slide 76–81)."
   },
   {
     "id": "c3_3.5_09",
@@ -1060,15 +1060,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "thong-hieu",
-    "question": "Chế độ giải quyết các vấn đề xã hội bằng bao cấp tràn lan thời kỳ trước đổi mới (1955 – 1985) đã dẫn đến những hệ quả và hạn chế xã hội nào?",
+    "question": "Hạn chế xã hội sâu sắc nhất nảy sinh từ chế độ giải quyết các vấn đề xã hội bằng bao cấp tràn lan thời kỳ trước đổi mới (1955 – 1985) là gì?",
     "options": [
-      "Hình thành tâm lý thụ động, ỷ lại vào Nhà nước và tập thể; chế độ phân phối bình quân cào bằng; tạo ra một xã hội đóng, kém năng động, chậm phát triển về nhiều mặt",
-      "Làm gia tăng mạnh mẽ tinh thần khởi nghiệp tư nhân và tính cạnh tranh cao trong xã hội",
-      "Gây ra sự phân hóa giàu nghèo cực đoan do khuyến khích làm giàu hợp pháp không giới hạn",
-      "Xóa bỏ hoàn toàn các thành tựu về y tế, giáo dục cơ bản thời kỳ kháng chiến"
+      "Hình thành tâm lý thụ động ỷ lại vào Nhà nước, phân phối bình quân cào bằng và tạo ra một xã hội đóng kém năng động",
+      "Làm gia tăng thái quá tinh thần cạnh tranh thương mại và tư duy làm giàu hợp pháp",
+      "Khiến Nhà nước không quan tâm tới việc xóa nạn mù chữ cho nhân dân",
+      "Tạo ra sự mở cửa hội nhập quá nhanh vượt tầm kiểm soát của xã hội"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 82 và Slide 83 tổng kết hạn chế giải quyết vấn đề xã hội thời kỳ bao cấp trước đổi mới: hình thành tâm lý thụ động, ỷ vào Nhà nước và tập thể; chế độ phân phối mang tính bình quân – cào bằng; hình thành một xã hội đóng, kém năng động, chậm phát triển."
+    "explanation": "Slide 83 nêu rõ 3 hạn chế thời kỳ bao cấp trước đổi mới: tâm lý thụ động ỷ vào Nhà nước và tập thể; phân phối bình quân – cào bằng; xã hội đóng, kém năng động, chậm phát triển."
   },
   {
     "id": "c3_3.5_10",
@@ -1077,15 +1077,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "thong-hieu",
-    "question": "Bước đổi mới nhận thức về giải quyết các vấn đề xã hội từ Đại hội VI đến Đại hội VIII được thể hiện qua những nguyên tắc cốt lõi nào?",
+    "question": "Điểm mới nổi bật về giải quyết các vấn đề xã hội tại Đại hội VIII (1996) so với thời kỳ bao cấp trước 1986 là gì?",
     "options": [
-      "Ngăn cấm làm giàu hợp pháp để giữ mức thu nhập giống nhau trên toàn xã hội",
-      "Tách rời tăng trưởng kinh tế khỏi chính sách xã hội và duy trì phân phối bình quân cào bằng",
-      "Coi phát triển kinh tế là điều kiện vật chất để thực hiện chính sách xã hội (ĐH VI); gắn tăng trưởng kinh tế với tiến bộ, công bằng xã hội, thực hiện nhiều hình thức phân phối, khuyến khích làm giàu hợp pháp và giải quyết chính sách xã hội theo tinh thần xã hội hóa (ĐH VIII)",
-      "Chỉ dùng ngân sách nhà nước bao cấp toàn bộ, không thực hiện xã hội hóa các hoạt động xã hội"
+      "Chỉ dùng ngân sách nhà nước bao cấp toàn bộ y tế, giáo dục, cấm xã hội hóa",
+      "Khôi phục lại chế độ tem phiếu và phân phối bình quân cào bằng cho toàn dân",
+      "Gắn tăng trưởng kinh tế với tiến bộ và công bằng xã hội, thực hiện nhiều hình thức phân phối, khuyến khích làm giàu hợp pháp và giải quyết chính sách xã hội theo tinh thần xã hội hóa",
+      "Tách biệt hoàn toàn chính sách kinh tế khỏi các mục tiêu xã hội"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 84 hệ thống hóa quá trình đổi mới nhận thức về giải quyết vấn đề xã hội: Đại hội VI xác định phát triển kinh tế là điều kiện vật chất thực hiện chính sách xã hội; Đại hội VIII khẳng định tăng trưởng kinh tế gắn liền tiến bộ và công bằng xã hội, nhiều hình thức phân phối, khuyến khích làm giàu hợp pháp, giải quyết theo tinh thần xã hội hóa (XHH); Đại hội IX phát triển làm lành mạnh hóa xã hội; Đại hội X–XIII kết hợp chặt chẽ mục tiêu kinh tế với mục tiêu xã hội."
+    "explanation": "Slide 84 chỉ rõ bước tiến từ ĐH VI (phát triển KT là điều kiện vật chất thực hiện chính sách XH) sang ĐH VIII (tăng trưởng KT gắn công bằng XH, nhiều hình thức phân phối, khuyến khích làm giàu hợp pháp, giải quyết theo tinh thần XHH)."
   },
   {
     "id": "c3_3.5_11",
@@ -1094,15 +1094,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "van-dung",
-    "question": "Sơ đồ quá trình phát triển nhận thức về tính chất của nền văn hóa mới Việt Nam từ Đề cương 1943 / Đại hội II qua Đại hội III đến thời kỳ đổi mới diễn ra theo trình tự chính xác nào?",
+    "question": "Tiến trình phát triển nhận thức về tính chất của nền văn hóa mới Việt Nam từ Đại hội II qua Đại hội III đến thời kỳ Đổi mới diễn ra theo đúng trình tự nào?",
     "options": [
-      "Dân tộc, khoa học, đại chúng (1991) → Tính Đảng và tính giai cấp tuyệt đối (2011) → Văn hóa nô dịch (1945)",
-      "Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc (1943) → Dân tộc, khoa học, đại chúng (ĐH III) → Văn hóa phong kiến cải lương (thời kỳ đổi mới)",
-      "Có nội dung XHCN và tính Đảng (1943) → Dân tộc, hiện đại, nhân văn (ĐH II) → Văn hóa đóng cửa tự cung tự cấp (ĐH VIII)",
-      "Dân tộc, khoa học, đại chúng (ĐH II) → Có nội dung XHCN và tính chất dân tộc, có tính Đảng và tính nhân dân (ĐH III, IV, V) → Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc (thời kỳ đổi mới, hướng tới dân tộc, hiện đại, nhân văn)"
+      "Dân tộc, hiện đại, nhân văn (ĐH II) → Văn hóa bao cấp tập trung (ĐH III) → Dân tộc, khoa học, đại chúng (ĐH XIII)",
+      "Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc (ĐH II) → Dân tộc, khoa học, đại chúng (ĐH III) → Có tính Đảng và tính nhân dân (thời kỳ Đổi mới)",
+      "Có nội dung XHCN và tính Đảng (ĐH II) → Dân tộc, khoa học, đại chúng (ĐH III) → Dân tộc, hiện đại, nhân văn (1943)",
+      "Dân tộc, khoa học, đại chúng (ĐH II) → Có nội dung XHCN và tính dân tộc, có tính Đảng và tính nhân dân (ĐH III) → Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc (thời kỳ Đổi mới)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 71 và sơ đồ Slide 74 thể hiện rõ tiến trình phát triển nhận thức về tính chất nền văn hóa mới qua các thời kỳ lịch sử: từ “Dân tộc, khoa học, đại chúng” (Đề cương 1943, Đại hội II) → “Có nội dung XHCN và tính dân tộc, có tính Đảng và tính nhân dân” (Đại hội III, IV, V) → “Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc” gắn với các giá trị “dân tộc, hiện đại, nhân văn” trong thời kỳ đổi mới."
+    "explanation": "Sơ đồ Slide 74 thể hiện chính xác 3 giai đoạn phát triển tính chất nền văn hóa mới: Dân tộc, khoa học, đại chúng (Đề cương 1943, ĐH II) → Có nội dung XHCN, tính dân tộc, tính Đảng, tính nhân dân (ĐH III, IV, V) → Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc (thời kỳ Đổi mới)."
   },
   {
     "id": "c3_3.5_12",
@@ -1111,15 +1111,15 @@
     "sectionId": "3.5",
     "sectionTitle": "Đường lối xây dựng, phát triển Văn hóa và giải quyết các vấn đề xã hội",
     "difficulty": "van-dung",
-    "question": "Sự kết hợp giữa hai chủ trương “khuyến khích làm giàu hợp pháp” với “xóa đói giảm nghèo, thực hiện công bằng xã hội theo tinh thần xã hội hóa” thời kỳ đổi mới đã khắc phục căn bản điểm yếu nào của thời kỳ bao cấp?",
+    "question": "Nguyên nhân chủ yếu nhất làm hạn chế tính năng động của văn hóa và chính sách xã hội trong giai đoạn 1955 – 1986 là gì?",
     "options": [
-      "Khắc phục được chế độ phân phối bình quân cào bằng và tâm lý thụ động ỷ lại vào Nhà nước, đồng thời huy động sức mạnh toàn xã hội chăm lo người yếu thế để tăng trưởng đi đôi với công bằng",
-      "Chuyển toàn bộ gánh nặng an sinh xã hội sang khu vực doanh nghiệp nước ngoài",
-      "Xóa bỏ hoàn toàn vai trò điều tiết phân phối lại thu nhập của Nhà nước",
-      "Hạn chế năng lực sáng tạo của người lao động để mọi người có mức sống trung bình như nhau"
+      "Bị chi phối bởi tư duy chính trị “nắm vững chuyên chính vô sản”, cơ chế bao cấp bình quân cào bằng và chưa coi trọng đúng mức các vấn đề xã hội",
+      "Do không đạt được kết quả nào trong công tác xóa nạn mù chữ và phát triển y tế cơ sở",
+      "Do Việt Nam mở cửa giao lưu văn hóa phương Tây quá sớm từ sau năm 1955",
+      "Do không có đội ngũ trí thức tham gia vào công cuộc xây dựng nền văn hóa mới"
     ],
     "correctIndex": 0,
-    "explanation": "Đối chiếu Slide 83 và Slide 84: Trong khi cơ chế bao cấp bình quân cào bằng sinh ra tâm lý ỷ lại, xã hội đóng kém năng động, thì tư duy đổi mới kết hợp hài hòa giữa tạo động lực làm giàu chính đáng, hợp pháp với xã hội hóa chính sách xã hội và công bằng trong phân phối, tạo nên xã hội năng động, nhân văn và phát triển bền vững."
+    "explanation": "Slide 73 và Slide 83 chỉ rõ nguyên nhân sâu xa của hạn chế văn hóa – xã hội giai đoạn 1955–1986: chịu sự chi phối của tư duy chuyên chính vô sản cực đoan, cơ chế bao cấp cào bằng và chưa coi trọng đúng mức các vấn đề xã hội."
   },
   {
     "id": "c3_3.6_01",
@@ -1128,15 +1128,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "nhan-biet",
-    "question": "Việt Nam chính thức gia nhập Liên Hợp Quốc (LHQ), gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) và gia nhập Tổ chức Thương mại Thế giới (WTO) vào các ngày tháng năm nào?",
+    "question": "Phương châm đối ngoại: “Việt Nam muốn là bạn với tất cả các nước trong cộng đồng quốc tế, phấn đấu vì hòa bình, độc lập và phát triển” được đề ra tại Đại hội nào?",
     "options": [
-      "Liên Hợp Quốc: 20/9/1975; ASEAN: 28/7/1992; WTO: 1/1/2008",
-      "Liên Hợp Quốc: 15/9/1976; ASEAN: 3/2/1994; WTO: 13/7/2001",
-      "Liên Hợp Quốc: 29/6/1978; ASEAN: 23/10/1991; WTO: 11/1/2005",
-      "Liên Hợp Quốc: 20/9/1977; ASEAN: 28/7/1995; WTO: 11/1/2007"
+      "Đại hội đại biểu toàn quốc lần thứ X (4/2006)",
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)",
+      "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 89, 103, 105 và 112 ghi rõ ba cột mốc lịch sử đối ngoại trọng đại: Việt Nam gia nhập Liên Hợp Quốc ngày 20/9/1977; gia nhập ASEAN ngày 28/7/1995; và chính thức trở thành thành viên thứ 150 của WTO ngày 11/1/2007."
+    "explanation": "Slide 90 phân biệt rất rõ: ĐH VI (“Hợp tác bình đẳng và cùng có lợi...”); ĐH VII (“Việt Nam muốn là bạn với tất cả các nước...”); ĐH IX (“Việt Nam sẵn sàng là bạn, là đối tác tin cậy...”)."
   },
   {
     "id": "c3_3.6_02",
@@ -1145,15 +1145,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "nhan-biet",
-    "question": "Hoa Kỳ tuyên bố bãi bỏ lệnh cấm vận thương mại đối với Việt Nam vào ngày nào và hai nước Việt Nam – Hoa Kỳ ký Hiệp định Thương mại song phương (BTA) vào thời gian nào (theo tài liệu bài giảng)?",
+    "question": "Phương châm đối ngoại: “Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế, phấn đấu vì hòa bình, độc lập và phát triển” thuộc văn kiện Đại hội nào?",
     "options": [
-      "Bãi bỏ lệnh cấm vận ngày 11/1/2007; Hiệp định thương mại ký ngày 23/10/1991",
-      "Bãi bỏ lệnh cấm vận ngày 20/9/1977; Hiệp định thương mại ký ngày 28/7/1995",
-      "Bãi bỏ lệnh cấm vận ngày 3/2/1994; Hiệp định thương mại Việt – Mỹ gắn với mốc 13/7/2001 (kỷ niệm tiến trình bình thường hóa quan hệ hai nước)",
-      "Bãi bỏ lệnh cấm vận ngày 27/1/1973; Hiệp định thương mại ký ngày 29/6/1978"
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)",
+      "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)",
+      "Đại hội đại biểu toàn quốc lần thứ V (3/1982)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 94–96 trình bày tiến trình quan hệ Việt Nam – Hoa Kỳ: Văn kiện Đại hội VII chủ trương thúc đẩy bình thường hóa quan hệ với Hoa Kỳ; ngày 3/2/1994 Mỹ tuyên bố bãi bỏ lệnh cấm vận với Việt Nam (tiếp đó bình thường hóa quan hệ ngoại giao năm 1995); Slide 95 ghi mốc Hiệp định thương mại Việt – Mỹ 13/7/2001 và chuyến thăm Hoa Kỳ của Thủ tướng Phan Văn Khải năm 2005."
+    "explanation": "Slide 90 ghi rõ: Đại hội IX (4/2001) nâng phương châm đối ngoại từ “muốn là bạn” (ĐH VII) lên bước mới “sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế”."
   },
   {
     "id": "c3_3.6_03",
@@ -1162,15 +1162,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "nhan-biet",
-    "question": "Phương châm “16 chữ vàng” và tinh thần “Bốn tốt” định hướng quan hệ hữu nghị giữa Việt Nam và Trung Quốc có nội dung chính xác là gì?",
+    "question": "Việt Nam chính thức gia nhập Liên Hợp Quốc (LHQ), gia nhập ASEAN và gia nhập Tổ chức Thương mại Thế giới (WTO) lần lượt vào ba mốc ngày tháng năm nào?",
     "options": [
-      "16 chữ vàng: “Láng giềng thân thiện, hợp tác toàn diện, ổn định lâu dài, hướng tới tương lai”; Bốn tốt: “Đồng chí tốt, Bạn bè tốt, Láng giềng tốt, Đối tác tốt”",
-      "16 chữ vàng: “Hợp tác bình đẳng, cùng có lợi, không phân biệt chế độ, cùng tồn tại hòa bình”; Bốn tốt: “Kinh tế tốt, Quân sự tốt, Văn hóa tốt, Ngoại giao tốt”",
-      "16 chữ vàng: “Độc lập tự chủ, tự lực tự cường, đa phương hóa, đa dạng hóa”; Bốn tốt: “Bạn tốt, Thầy tốt, Láng giềng tốt, Anh em tốt”",
-      "16 chữ vàng: “Sẵn sàng là bạn, là đối tác tin cậy, vì hòa bình, độc lập phát triển”; Bốn tốt: “Chính trị tốt, Thương mại tốt, An ninh tốt, Hợp tác tốt”"
+      "LHQ: 20/9/1977; ASEAN: 28/7/1995; WTO: 11/1/2007",
+      "LHQ: 15/9/1976; ASEAN: 3/2/1994; WTO: 13/7/2001",
+      "LHQ: 29/6/1978; ASEAN: 23/10/1991; WTO: 11/1/2006",
+      "LHQ: 20/9/1977; ASEAN: 28/7/1992; WTO: 11/1/2008"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 101 và Slide 102 trích nguyên văn 16 chữ vàng (“Láng giềng thân thiện, hợp tác toàn diện, ổn định lâu dài, hướng tới tương lai”) và tinh thần 4 tốt (“Đồng chí tốt, Bạn bè tốt, Láng giềng tốt, Đối tác tốt”) trong quan hệ Việt – Trung."
+    "explanation": "Slide 89, 103, 105 và 112 ghi chính xác 3 cột mốc hội nhập lớn: Liên Hợp Quốc (20/9/1977), ASEAN (28/7/1995) và thành viên thứ 150 của WTO (11/1/2007)."
   },
   {
     "id": "c3_3.6_04",
@@ -1179,15 +1179,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "nhan-biet",
-    "question": "Việt Nam thiết lập quan hệ ngoại giao với Cộng đồng châu Âu (EU) và ký Hiệp định khung Việt Nam – EU lần lượt vào những mốc thời gian nào?",
+    "question": "Ngày 3/2/1994 đánh dấu bước ngoặt quan trọng nào trong tiến trình bình thường hóa quan hệ Việt Nam – Hoa Kỳ?",
     "options": [
-      "Thiết lập quan hệ ngoại giao tháng 12/1986; ký Hiệp định khung tháng 10/1991",
-      "Thiết lập quan hệ ngoại giao tháng 9/1977; ký Hiệp định khung tháng 6/1978",
-      "Thiết lập quan hệ ngoại giao tháng 2/1994; ký Hiệp định khung tháng 1/2007",
-      "Thiết lập quan hệ ngoại giao tháng 10/1990; ký Hiệp định khung tháng 7/1995"
+      "Hoa Kỳ ký kết Hiệp định Paris rút quân viễn chinh khỏi miền Nam",
+      "Việt Nam và Hoa Kỳ ký kết Hiệp định thương mại song phương",
+      "Thủ tướng Phan Văn Khải thực hiện chuyến thăm cấp cao tới Hoa Kỳ",
+      "Hoa Kỳ chính thức tuyên bố bãi bỏ lệnh cấm vận đối với Việt Nam"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 106 ghi chính xác hai mốc quan hệ Việt Nam – EU: tháng 10/1990 thiết lập quan hệ ngoại giao với Cộng đồng châu Âu (EU) và tháng 7/1995 Việt Nam – EU ký Hiệp định khung."
+    "explanation": "Slide 94–96 trình bày các mốc Việt – Mỹ: 3/2/1994 Mỹ bãi bỏ lệnh cấm vận; 1995 bình thường hóa quan hệ ngoại giao; 13/7/2001 mốc Hiệp định thương mại Việt – Mỹ; 2005 Thủ tướng Phan Văn Khải thăm Hoa Kỳ."
   },
   {
     "id": "c3_3.6_05",
@@ -1196,15 +1196,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "nhan-biet",
-    "question": "Hai sự kiện đa phương quốc tế lớn mà Việt Nam đăng cai tổ chức thành công tại Hà Nội vào năm 2004 và năm 2006 được nêu trong bài học là gì?",
+    "question": "Phương châm “16 chữ vàng” định hướng quan hệ hữu nghị giữa Việt Nam và Trung Quốc là:",
     "options": [
-      "Diễn đàn hợp tác Á – Âu (ASEM) lần thứ 5 tại Hà Nội năm 2004 và Hội nghị cấp cao APEC Việt Nam năm 2006",
-      "Hội nghị cấp cao ASEAN lần thứ 1 năm 2004 và Đại hội đồng Liên Hợp Quốc năm 2006",
-      "Hội nghị thượng đỉnh G7 năm 2004 và Hội nghị Bộ trưởng WTO năm 2006",
-      "Hội nghị Hiệp thương Đông Dương năm 2004 và Diễn đàn EU – ASEAN năm 2006"
+      "“Láng giềng thân thiện, hợp tác toàn diện, ổn định lâu dài, hướng tới tương lai”",
+      "“Đồng chí tốt, Bạn bè tốt, Láng giềng tốt, Đối tác tốt”",
+      "“Hợp tác bình đẳng, cùng có lợi, tôn trọng độc lập, cùng tồn tại hòa bình”",
+      "“Độc lập tự chủ, đa phương hóa, đa dạng hóa, hội nhập toàn diện”"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 108 và Slide 109 nêu bật hai sự kiện đối ngoại đa phương lớn do Việt Nam đăng cai: Diễn đàn hợp tác Á – Âu (ASEM) lần thứ 5 tổ chức tại Hà Nội năm 2004 và APEC Việt Nam năm 2006."
+    "explanation": "Slide 101–102 phân biệt rõ: 16 chữ vàng là “Láng giềng thân thiện, hợp tác toàn diện, ổn định lâu dài, hướng tới tương lai”; còn tinh thần Bốn tốt là “Đồng chí tốt, Bạn bè tốt, Láng giềng tốt, Đối tác tốt”."
   },
   {
     "id": "c3_3.6_06",
@@ -1213,15 +1213,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "nhan-biet",
-    "question": "Ba bước tiến nối tiếp của Việt Nam trong tiến trình hội nhập ASEAN (1992 – 1995 – 1998) được trình bày trong giáo trình gồm những sự kiện nào?",
+    "question": "Hai sự kiện đối ngoại đa phương tầm cỡ khu vực và liên lục địa mà Việt Nam đăng cai tổ chức thành công vào năm 2004 và năm 2006 là:",
     "options": [
-      "Năm 1992 bình thường hóa với Mỹ; năm 1995 gia nhập LHQ; năm 1998 đăng cai APEC",
-      "Năm 1992 gia nhập ASEAN; năm 1995 ký Hiệp định Paris; năm 1998 gia nhập WTO",
-      "Năm 1992 ký Hiệp ước Bali và làm quan sát viên; ngày 28/7/1995 chính thức gia nhập ASEAN; năm 1998 đăng cai tổ chức Hội nghị Thượng đỉnh ASEAN",
-      "Năm 1992 gia nhập Hội đồng SEV; năm 1995 ký Hiệp ước với Liên Xô; năm 1998 ký Hiệp ước Bali"
+      "Hội nghị Bộ trưởng WTO (2004) và Diễn đàn EU – Đông Nam Á (2006)",
+      "Hội nghị Thượng đỉnh ASEAN (2004) và Đại hội đồng Liên Hợp Quốc (2006)",
+      "Diễn đàn hợp tác Á – Âu (ASEM) lần thứ 5 tại Hà Nội (2004) và APEC Việt Nam (2006)",
+      "Hội nghị Hiệp thương Đông Dương (2004) và Hội nghị Paris mở rộng (2006)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 111 và Slide 112 tóm tắt rõ 3 mốc hội nhập ASEAN của Việt Nam: 1992 (ký Hiệp ước Bali, trở thành quan sát viên), 28/7/1995 (chính thức gia nhập ASEAN), và 1998 (đăng cai tổ chức Hội nghị Thượng đỉnh ASEAN tại Hà Nội)."
+    "explanation": "Slide 108 và Slide 109 nêu bật hai dấu ấn đăng cai của Việt Nam: ASEM lần thứ 5 tại Hà Nội năm 2004 và Hội nghị cấp cao APEC Việt Nam năm 2006."
   },
   {
     "id": "c3_3.6_07",
@@ -1230,15 +1230,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "thong-hieu",
-    "question": "Đường lối đối ngoại thời kỳ đầu sau Cách mạng Tháng Tám (1945) xác định mục tiêu, nguyên tắc và phương châm cơ bản là gì?",
+    "question": "Khẩu hiệu đối ngoại “Hợp tác bình đẳng và cùng có lợi với tất cả các nước, không phân biệt chế độ chính trị – xã hội khác nhau trên cơ sở các nguyên tắc cùng tồn tại hòa bình” thuộc Đại hội nào?",
     "options": [
-      "Mục tiêu đưa nước nhà đến độc lập hoàn toàn và vĩnh viễn; nguyên tắc lấy Hiến chương Đại Tây Dương làm nền tảng; phương châm độc lập, tự chủ, tự lực, tự cường",
-      "Mục tiêu gia nhập ngay các khối quân sự phương Tây; phương châm dựa hoàn toàn vào bảo hộ của nước ngoài",
-      "Mục tiêu hòa nhập kinh tế khu vực ASEAN; nguyên tắc theo luật lệ của Tổ chức Thương mại Thế giới",
-      "Mục tiêu chỉ thiết lập quan hệ với các nước châu Á; nguyên tắc đóng cửa biên giới quốc gia"
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ IV (12/1976)",
+      "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)",
+      "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 86 tóm tắt 3 trụ cột đường lối đối ngoại sau Cách mạng Tháng Tám của Đảng: Mục tiêu (đưa nước nhà đến sự độc lập hoàn toàn và vĩnh viễn), Nguyên tắc (lấy nguyên tắc của Hiến chương Đại Tây Dương làm nền tảng), Phương châm (quán triệt quan điểm độc lập, tự chủ, tự lực, tự cường)."
+    "explanation": "Slide 90 trích nguyên văn phương châm đối ngoại mở đầu thời kỳ đổi mới của Đại hội VI (12/1986), phá bỏ tư duy chỉ giới hạn hợp tác theo ý thức hệ."
   },
   {
     "id": "c3_3.6_08",
@@ -1247,15 +1247,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "thong-hieu",
-    "question": "Phương châm đối ngoại của Đảng tại Đại hội IV (1976) và Đại hội V (1982) tập trung vào trọng tâm nào trước bối cảnh đất nước vừa thống nhất và chịu sức ép bao vây cấm vận?",
+    "question": "Luận điểm: “Xây dựng nền kinh tế độc lập, tự chủ đi đôi với chủ động hội nhập kinh tế quốc tế” được làm rõ lần đầu tiên tại kỳ Đại hội nào?",
     "options": [
-      "ĐH IV chủ trương gia nhập WTO ngay lập tức; ĐH V chủ trương chấm dứt hợp tác với Liên Xô",
-      "Cả hai kỳ Đại hội đều chủ trương ngừng mọi hoạt động ngoại giao đa phương để chỉ lo nội trị",
-      "ĐH IV: tranh thủ điều kiện quốc tế thuận lợi để hàn gắn vết thương chiến tranh, xây dựng cơ sở vật chất CNXH; ĐH V: công tác đối ngoại trở thành mặt trận chủ động, tích cực đấu tranh làm thất bại chính sách chống phá của các thế lực hiếu chiến",
-      "Cả hai kỳ Đại hội đều đặt trọng tâm vào việc thành lập liên minh quân sự với các nước Tây Âu"
+      "Đại hội đại biểu toàn quốc lần thứ VII (6/1991)",
+      "Đại hội đại biểu toàn quốc lần thứ VI (12/1986)",
+      "Đại hội đại biểu toàn quốc lần thứ IX (4/2001)",
+      "Đại hội đại biểu toàn quốc lần thứ VIII (6/1996)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 87 và Slide 88 nêu rõ phương châm đối ngoại tại ĐH IV (“Ra sức tranh thủ những điều kiện quốc tế thuận lợi để nhanh chóng hàn gắn những vết thương chiến tranh, xây dựng vật chất của CNXH”) và ĐH V (trở thành mặt trận chủ động, tích cực làm thất bại chính sách chống phá của các thế lực hiếu chiến), cùng chủ trương đoàn kết hợp tác toàn diện với Liên Xô, coi trọng quan hệ đặc biệt Việt Nam – Lào – Campuchia và kêu gọi hòa bình ổn định ở Đông Nam Á."
+    "explanation": "Slide 91 khẳng định rõ: Đại hội IX (4/2001) lần đầu tiên làm rõ khái niệm “Xây dựng nền kinh tế độc lập, tự chủ đi đôi với chủ động hội nhập kinh tế quốc tế”."
   },
   {
     "id": "c3_3.6_09",
@@ -1264,15 +1264,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "thong-hieu",
-    "question": "Trong giai đoạn 1975 – 1978, hoạt động đối ngoại đa phương của Việt Nam đã sớm ghi dấu bằng việc tham gia những tổ chức tài chính – kinh tế quốc tế nào?",
+    "question": "Trong chính sách đối ngoại với Lào và Campuchia thời kỳ đổi mới, việc Việt Nam ký Hiệp định Paris ngày 23/10/1991 nhằm mục đích trực tiếp nào?",
     "options": [
-      "Quỹ Tiền tệ Quốc tế IMF (15/9/1976), Ngân hàng Thế giới WB (21/9/1976), Ngân hàng Phát triển châu Á ADB (23/9/1976), Liên Hợp Quốc (20/9/1977) và Hội đồng Tương trợ Kinh tế SEV (29/6/1978)",
-      "Hiệp hội ASEAN (1976), Diễn đàn APEC (1977) và Tổ chức Thương mại Thế giới WTO (1978)",
-      "Diễn đàn Á – Âu ASEM (1976), Khu vực mậu dịch tự do AFTA (1977) và Liên minh châu Âu EU (1978)",
-      "Không tham gia bất kỳ tổ chức quốc tế nào do chưa thống nhất xong đất nước"
+      "Giải quyết bằng giải pháp chính trị cho vấn đề Campuchia trên cơ sở tôn trọng chủ quyền Campuchia và Hiến chương Liên Hợp Quốc",
+      "Chấm dứt chiến tranh xâm lược của đế quốc Mỹ tại miền Nam Việt Nam",
+      "Thành lập khối liên minh kinh tế khép kín riêng giữa ba nước Đông Dương",
+      "Chuyển giao quyền quản lý biên giới Việt – Campuchia cho tổ chức ASEAN"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 89 liệt kê các dấu mốc đối ngoại 1975–1978: thiết lập thêm quan hệ ngoại giao với 23 nước (1975–1977), tham gia IMF (15/9/1976), WB (21/9/1976), ADB (23/9/1976), Liên Hợp Quốc (20/9/1977), gia nhập SEV (29/6/1978) và ký Hiệp ước hữu nghị hợp tác toàn diện với Liên Xô (11/1978)."
+    "explanation": "Slide 97–98 nêu rõ: bên cạnh củng cố đoàn kết đặc biệt 3 nước Đông Dương, Việt Nam chú trọng giải pháp chính trị cho vấn đề Campuchia với dấu mốc ký Hiệp định Paris ngày 23/10/1991 (mở đường tháo gỡ bao vây cấm vận)."
   },
   {
     "id": "c3_3.6_10",
@@ -1281,15 +1281,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "thong-hieu",
-    "question": "Chính sách đối ngoại thời kỳ đổi mới của Việt Nam đối với Lào và Campuchia được xác định như thế nào, gắn với sự kiện ngoại giao quan trọng nào năm 1991?",
+    "question": "Tiến trình hội nhập ASEAN của Việt Nam qua ba mốc 1992 – 1995 – 1998 diễn ra đúng theo trình tự nào?",
     "options": [
-      "Không tham gia giải pháp chính trị cho vấn đề Campuchia vì coi đó là vấn đề nội bộ của ASEAN",
-      "Cắt đứt quan hệ hữu nghị truyền thống với Lào để tập trung đàm phán thương mại với châu Âu",
-      "Ký Hiệp định Giơnevơ mới năm 1991 để sáp nhập kinh tế ba nước thành một liên bang chung",
-      "Không ngừng củng cố quan hệ đoàn kết hữu nghị đặc biệt 3 nước Đông Dương, đồng thời chú trọng tìm giải pháp chính trị cho vấn đề Campuchia trên cơ sở tôn trọng chủ quyền Campuchia và Hiến chương LHQ — đánh dấu bằng việc ký Hiệp định Paris về Campuchia ngày 23/10/1991"
+      "Bình thường hóa với Mỹ (1992) → Ký Hiệp định khung EU (1995) → Ký Hiệp ước Bali (1998)",
+      "Gia nhập ASEAN (1992) → Ký Hiệp ước Bali (1995) → Gia nhập AFTA và WTO (1998)",
+      "Làm quan sát viên APEC (1992) → Ký Hiệp ước Bali (1995) → Gia nhập ASEAN (1998)",
+      "Ký Hiệp ước Bali làm quan sát viên (1992) → Chính thức gia nhập ASEAN (28/7/1995) → Tổ chức Hội nghị Thượng đỉnh ASEAN tại Hà Nội (1998)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 97 và Slide 98 nêu rõ chủ trương với Lào – Campuchia: củng cố quan hệ đoàn kết hữu nghị đặc biệt giữa 3 nước Đông Dương, chú trọng giải pháp chính trị cho vấn đề Campuchia trên cơ sở tôn trọng chủ quyền của Campuchia và Hiến chương LHQ, với dấu mốc ký Hiệp định Paris ngày 23/10/1991."
+    "explanation": "Slide 111–112 trình bày 3 nấc thang hội nhập ASEAN của Việt Nam: 1992 ký Hiệp ước Bali làm quan sát viên; 28/7/1995 chính thức gia nhập ASEAN; 1998 đăng cai Hội nghị Thượng đỉnh ASEAN."
   },
   {
     "id": "c3_3.6_11",
@@ -1298,15 +1298,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "thong-hieu",
-    "question": "Những thành tựu và ý nghĩa nổi bật nhất của đường lối đối ngoại đa phương hóa, đa dạng hóa thời kỳ đổi mới đối với đất nước ta là gì?",
+    "question": "Việt Nam thiết lập quan hệ ngoại giao với Cộng đồng châu Âu (EU) và ký Hiệp định khung Việt Nam – EU vào hai mốc thời gian nào?",
     "options": [
-      "Giúp Việt Nam không còn cần phải xây dựng nền kinh tế độc lập tự chủ trong nước",
-      "Chỉ giúp tăng cường viện trợ không hoàn lại từ nước ngoài mà không mở rộng thị trường xuất khẩu",
-      "Phá thế bị bao vây cấm vận, tạo môi trường quốc tế thuận lợi; giải quyết hòa bình các vấn đề biên giới, lãnh thổ, biển đảo; mở rộng quan hệ đối ngoại, tham gia AFTA, APEC, WTO; thu hút FDI, mở rộng thị trường và tiếp thu KHCN, kỹ năng quản lý",
-      "Làm giảm sức ép cạnh tranh đối với toàn bộ doanh nghiệp trong nước bằng hàng rào bảo hộ khép kín"
+      "Tháng 2/1994 và tháng 1/2007",
+      "Tháng 9/1977 và tháng 6/1978",
+      "Tháng 10/1990 và tháng 7/1995",
+      "Tháng 12/1986 và tháng 10/1991"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 92 và Slide 93 tổng kết 6 thành tựu lớn của đường lối đối ngoại đổi mới: phá thế bao vây cấm vận, tạo môi trường quốc tế thuận lợi; giải quyết hòa bình vấn đề biên giới lãnh thổ; mở rộng đối ngoại đa phương hóa đa dạng hóa; tham gia AFTA, APEC, WTO; thu hút FDI, mở rộng thị trường, tiếp thu KHCN và kỹ năng quản lý; đưa doanh nghiệp và nền kinh tế vào môi trường cạnh tranh."
+    "explanation": "Slide 106 ghi rõ: tháng 10/1990 Việt Nam thiết lập quan hệ ngoại giao với Cộng đồng châu Âu (EU), và đến tháng 7/1995 hai bên ký Hiệp định khung hợp tác."
   },
   {
     "id": "c3_3.6_12",
@@ -1315,15 +1315,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "van-dung",
-    "question": "Tiến trình phát triển phương châm đối ngoại rộng mở của Đảng qua ba kỳ Đại hội VI (1986), VII (1991) và IX (2001) diễn ra theo đúng mạch logic nào?",
+    "question": "Sự phát triển liên tục trong tư duy đối ngoại của Đảng từ Đại hội VI (1986) qua Đại hội VII (1991), Đại hội IX (2001) đến Đại hội XIII (2021) thể hiện rõ nhất ở xu hướng nào?",
     "options": [
-      "ĐH VI: “Hợp tác bình đẳng và cùng có lợi với tất cả các nước, không phân biệt chế độ chính trị - xã hội” → ĐH VII: “Việt Nam muốn là bạn với tất cả các nước trong cộng đồng quốc tế” → ĐH IX: “Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế”",
-      "ĐH VI: “Sẵn sàng là bạn, là đối tác tin cậy” → ĐH VII: “Hợp tác riêng với hệ thống XHCN” → ĐH IX: “Muốn là bạn với tất cả các nước”",
-      "ĐH VI: “Đóng cửa tự lực tự cường” → ĐH VII: “Hội nhập sâu vào WTO” → ĐH IX: “Không phân biệt chế độ chính trị”",
-      "ĐH VI: “Độc lập tự chủ không giao thương” → ĐH VII: “16 chữ vàng” → ĐH IX: “Bốn tốt”"
+      "Từ phá thế cô lập, hợp tác bình đẳng (ĐH VI) → “muốn là bạn” (ĐH VII) → “sẵn sàng là bạn, là đối tác tin cậy” (ĐH IX) → hội nhập quốc tế toàn diện, mở rộng và đi vào chiều sâu, ổn định bền vững (ĐH XIII)",
+      "Từ hội nhập toàn cầu sâu rộng (ĐH VI) thu hẹp dần về chỉ hợp tác song phương khu vực (ĐH XIII)",
+      "Từ chủ trương đối đầu ý thức hệ (ĐH VII) chuyển sang đóng cửa tự cung tự cấp (ĐH XIII)",
+      "Giữ nguyên duy nhất quan hệ với các nước trong Hội đồng SEV xuyên suốt từ 1986 đến 2021"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 90 đặt rõ 3 bước phát triển liên tục trong phương châm đối ngoại thời kỳ đổi mới: Đại hội VI (hợp tác bình đẳng cùng có lợi, cùng tồn tại hòa bình không phân biệt chế độ chính trị - xã hội) → Đại hội VII (“Việt Nam muốn là bạn với tất cả các nước...”) → Đại hội IX (“Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế phấn đấu vì hòa bình, độc lập và phát triển”)."
+    "explanation": "Đối chiếu Slide 90 và Slide 91: tư duy đối ngoại của Đảng phát triển từng bước ngày càng chủ động, tự tin và sâu rộng từ ĐH VI → VII → IX → X → XIII."
   },
   {
     "id": "c3_3.6_13",
@@ -1332,15 +1332,15 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "van-dung",
-    "question": "So sánh bước phát triển tư duy hội nhập quốc tế từ Đại hội IX (2001) qua Đại hội X (2006) đến Đại hội XIII (2021), điểm nâng tầm chiến lược thể hiện rõ nhất ở đâu?",
+    "question": "So sánh phương châm hội nhập quốc tế giữa Đại hội IX (2001) và Đại hội X (2006), cụm từ bổ sung mới mang ý nghĩa nâng cao vị thế chủ động của Đại hội X là gì?",
     "options": [
-      "Cả ba kỳ Đại hội đều giữ nguyên khẩu hiệu cũ không bổ sung yếu tố “tích cực” và “đi vào chiều sâu”",
-      "Từ chủ động hội nhập toàn diện năm 2001 thu hẹp dần về chỉ hội nhập khu vực Đông Nam Á năm 2021",
-      "Từ coi hội nhập kinh tế là thứ yếu năm 2006 sang xóa bỏ mục tiêu độc lập tự chủ kinh tế năm 2021",
-      "Từ lần đầu làm rõ “kinh tế độc lập tự chủ đi đôi với chủ động hội nhập kinh tế quốc tế” (ĐH IX) → nâng lên “chủ động và tích cực hội nhập kinh tế quốc tế theo lộ trình phù hợp” (ĐH X) → đến “quan hệ đối ngoại và hội nhập quốc tế tiếp tục mở rộng và đi vào chiều sâu, tạo khung khổ quan hệ ổn định và bền vững với các đối tác” (ĐH XIII)"
+      "Chuyển từ “hội nhập quốc tế toàn diện” (ĐH IX) về “chỉ hội nhập văn hóa” (ĐH X)",
+      "Bỏ yếu tố “độc lập tự chủ” để chuyển sang hội nhập vô điều kiện (ĐH X)",
+      "Hạn chế phạm vi hội nhập chỉ trong khuôn khổ khu vực Đông Dương (ĐH X)",
+      "Bổ sung yếu tố “tích cực”: từ “chủ động hội nhập kinh tế quốc tế” (ĐH IX) nâng lên “chủ động và tích cực hội nhập kinh tế quốc tế theo lộ trình phù hợp” (ĐH X)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 91 đối chiếu trực tiếp 3 mốc nhận thức hội nhập: ĐH IX lần đầu làm rõ xây dựng nền kinh tế độc lập tự chủ đi đôi với chủ động hội nhập kinh tế quốc tế; ĐH X khẳng định “chủ động và tích cực hội nhập kinh tế quốc tế” theo lộ trình; ĐH XIII đánh dấu bước chuyển sang hội nhập quốc tế toàn diện, mở rộng và đi vào chiều sâu, tạo khung khổ quan hệ ổn định và bền vững với các đối tác."
+    "explanation": "Slide 91 đặt song song hai mốc: ĐH IX nêu “chủ động hội nhập kinh tế quốc tế”; đến ĐH X khẳng định “chủ động và tích cực hội nhập kinh tế quốc tế theo lộ trình phù hợp” (và ĐH XIII mở rộng đi vào chiều sâu)."
   },
   {
     "id": "c3_3.6_14",
@@ -1349,14 +1349,14 @@
     "sectionId": "3.6",
     "sectionTitle": "Đường lối Đối ngoại và Hội nhập quốc tế",
     "difficulty": "van-dung",
-    "question": "Chuỗi sự kiện năm 1995 (bình thường hóa quan hệ Việt Nam – Hoa Kỳ, ký Hiệp định khung Việt Nam – EU tháng 7/1995, gia nhập ASEAN ngày 28/7/1995) có ý nghĩa bước ngoặt như thế nào trong lịch sử đối ngoại Việt Nam hiện đại?",
+    "question": "Đâu KHÔNG PHẢI là thành tựu của đường lối đối ngoại đa phương hóa, đa dạng hóa thời kỳ đổi mới?",
     "options": [
-      "Đánh dấu việc Việt Nam chấm dứt quan hệ hữu nghị truyền thống với Lào, Campuchia và Trung Quốc",
-      "Đánh dấu việc Việt Nam hoàn toàn phá vỡ thế bị bao vây, cấm vận kéo dài nhiều thập kỷ, mở ra cục diện đối ngoại rộng mở đa phương hóa, đa dạng hóa và tạo bàn đạp quyết định để gia nhập APEC, WTO sau đó",
-      "Là mốc Việt Nam chính thức được kết nạp vào Liên Hợp Quốc và Tổ chức Thương mại Thế giới",
-      "Cho thấy Việt Nam chỉ ưu tiên hội nhập khu vực châu Âu và không cần gia nhập các diễn đàn châu Á – Thái Bình Dương"
+      "Phá thế bị bao vây, cấm vận, tạo môi trường quốc tế thuận lợi cho xây dựng và bảo vệ Tổ quốc",
+      "Đưa nền kinh tế Việt Nam quay lại mô hình khép kín, tách biệt khỏi cạnh tranh quốc tế",
+      "Thu hút đầu tư nước ngoài, mở rộng thị trường, gia nhập ASEAN, APEC, WTO",
+      "Giải quyết hòa bình các vấn đề biên giới, lãnh thổ, biển đảo với các nước liên quan"
     ],
     "correctIndex": 1,
-    "explanation": "Tổng hợp Slide 92–112: Năm 1995 là năm đột phá lịch sử của đối ngoại đổi mới Việt Nam — sau khi giải quyết vấn đề Campuchia (1991) và Mỹ bỏ cấm vận (2/1994), việc đồng thời gia nhập ASEAN (28/7/1995), ký Hiệp định khung với EU (7/1995) và bình thường hóa quan hệ với Hoa Kỳ đã hoàn toàn phá thế bị bao vây cấm vận, nâng cao vị thế quốc tế và mở đường cho gia nhập WTO (11/1/2007)."
+    "explanation": "Slide 92–93 tổng kết các thành tựu đối ngoại đổi mới đều hướng tới mở cửa, phá bao vây cấm vận, tham gia AFTA, APEC, WTO và đưa doanh nghiệp cùng nền kinh tế vào môi trường cạnh tranh quốc tế."
   }
 ]

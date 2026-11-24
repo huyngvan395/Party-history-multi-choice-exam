@@ -11,11 +11,11 @@
 
 **Lịch sử Đảng CSVN — Hệ thống luyện thi trắc nghiệm thông minh** là ứng dụng web chạy 100% phía client (Client-Side SPA), được xây dựng nhằm hỗ trợ sinh viên ôn luyện, ghi nhớ sâu mốc thời gian, văn kiện, hội nghị và đường lối của Đảng một cách khoa học và hiệu quả.
 
-Ngân hàng gồm **240 câu hỏi trắc nghiệm chuẩn hóa** bám sát 100% nội dung giáo trình qua **3 chương lớn** (mỗi chương 80 câu, phân bổ độ khó 40% Nhận biết – 40% Thông hiểu – 20% Vận dụng), kèm **giải thích lịch sử chi tiết** cho từng câu:
+Ngân hàng gồm **268 câu hỏi trắc nghiệm chuẩn hóa theo phong cách đề thi đại học** bám sát 100% nội dung giáo trình qua **3 chương lớn**, kèm **giải thích lịch sử súc tích** cho từng câu:
 
-- **Chương 1 (1930 – 1945):** Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền *(80 câu — 7 mục chuyên đề)*.
-- **Chương 2 (1945 – 1975):** Đảng lãnh đạo hai cuộc kháng chiến, hoàn thành giải phóng dân tộc, thống nhất đất nước *(80 câu — 7 mục chuyên đề)*.
-- **Chương 3 (1975 – Nay):** Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới *(80 câu — 6 mục chuyên đề)*.
+- **Chương 1 (1930 – 1945):** Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền *(108 câu độc lập chuẩn hóa từ bộ đề mẫu — 7 mục chuyên đề)*.
+- **Chương 2 (1945 – 1975):** Đảng lãnh đạo hai cuộc kháng chiến, hoàn thành giải phóng dân tộc, thống nhất đất nước *(80 câu — 7 mục chuyên đề, tỷ lệ độ khó 40/40/20)*.
+- **Chương 3 (1975 – Nay):** Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới *(80 câu — 6 mục chuyên đề, tỷ lệ độ khó 40/40/20)*.
 
 ---
 
@@ -58,13 +58,14 @@ Ngân hàng gồm **240 câu hỏi trắc nghiệm chuẩn hóa** bám sát 100%
 
 ```text
 LSD_multi-choice_exam/
-├── docs/                           # Tài liệu gốc (.pptx) và bản trích xuất chuẩn Unicode (.md)
+├── docs/                           # Tài liệu gốc (.pptx), bản trích xuất (.md) & bộ đề mẫu
 │   ├── extracted_c1.md             # Nội dung 116 slide Chương 1 đã giải mã TCVN3/VNI -> Unicode
 │   ├── extracted_c2.md             # Nội dung 78 slide Chương 2
-│   └── extracted_c3.md             # Nội dung 112 slide Chương 3
+│   ├── extracted_c3.md             # Nội dung 112 slide Chương 3
+│   └── ngan_hang_mau_c1.md         # Bộ câu hỏi mẫu chuẩn đề thi học phần Chương 1
 ├── scripts/
 │   ├── extract_pptx.py             # Script trích xuất .pptx & tự động giải mã font TCVN3/VNI
-│   └── validate_quiz.js            # Script kiểm định tự động 240 câu hỏi (JSON, trùng lặp, font)
+│   └── validate_quiz.js            # Script kiểm định tự động 268 câu hỏi (JSON, trùng lặp, font)
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx              # Thanh điều hướng, Dark/Light Mode & cảnh báo rời phòng thi
@@ -74,7 +75,7 @@ LSD_multi-choice_exam/
 │   │   ├── ExamView.jsx            # Cấu hình đề, phòng thi đếm ngược, Palette & phân tích kết quả
 │   │   └── ReviewView.jsx          # Quản lý Sổ tay câu sai (quy tắc đúng 2 lần) & Sổ tay ghi nhớ
 │   ├── data/
-│   │   ├── chuong1.json            # 80 câu hỏi Chương 1 (1930 - 1945)
+│   │   ├── chuong1.json            # 108 câu hỏi Chương 1 (1930 - 1945)
 │   │   ├── chuong2.json            # 80 câu hỏi Chương 2 (1945 - 1975)
 │   │   ├── chuong3.json            # 80 câu hỏi Chương 3 (1975 - nay)
 │   │   └── index.js                # Export tổng hợp & hàm dựng cây Chương/Mục tự động
@@ -108,7 +109,7 @@ npm install
 # 2. Chạy server phát triển (mặc định tại http://localhost:5173)
 npm run dev
 
-# 3. Kiểm định toàn vẹn 240 câu hỏi trong ngân hàng dữ liệu
+# 3. Kiểm định toàn vẹn 268 câu hỏi trong ngân hàng dữ liệu
 node scripts/validate_quiz.js
 
 # 4. Đóng gói bản Production

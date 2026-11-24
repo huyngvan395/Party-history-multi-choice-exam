@@ -6,15 +6,15 @@
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
     "difficulty": "nhan-biet",
-    "question": "Theo nội dung bài học về sự xuất hiện của chủ nghĩa đế quốc cuối thế kỷ XIX đầu thế kỷ XX, chủ nghĩa tư bản độc quyền (chủ nghĩa đế quốc) có mấy đặc điểm cơ bản?",
+    "question": "Bản hiệp ước nào được triều đình nhà Nguyễn ký kết với thực dân Pháp vào ngày 6/6/1884, mang ý nghĩa như một bản khai tử đối với chủ quyền đối ngoại của vua nước Nam?",
     "options": [
-      "3 đặc điểm cơ bản gắn với thương mại hàng hải",
-      "5 đặc điểm cơ bản về độc quyền, tư bản tài chính và phân chia thế giới",
-      "6 đặc điểm cơ bản về công nghiệp nặng và nông nghiệp",
-      "4 đặc điểm cơ bản về tự do cạnh tranh và phân công lao động"
+      "Hiệp ước Giáp Tuất (1874)",
+      "Hiệp ước Hác-măng (1883)",
+      "Hiệp ước Nhâm Tuất (1862)",
+      "Hiệp ước Patơnốt (1884)"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 4 nêu rõ chủ nghĩa đế quốc (CNTB độc quyền) có 5 đặc điểm: (1) Sự tập trung sản xuất và các tổ chức độc quyền; (2) Xuất hiện tư bản tài chính và đầu sỏ tài chính; (3) Xuất khẩu tư bản; (4) Sự phân chia thế giới về mặt kinh tế; (5) Sự phân chia thế giới về mặt lãnh thổ."
+    "correctIndex": 3,
+    "explanation": "Hiệp ước Patơnốt ký ngày 6/6/1884 gồm 19 điều khoản, quy định Pháp đại diện An Nam về mọi quan hệ đối ngoại, chính thức chấm dứt chủ quyền đối ngoại của triều đình Huế và biến Việt Nam thành thuộc địa nửa phong kiến."
   },
   {
     "id": "c1_1.1.1_02",
@@ -22,16 +22,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "nhan-biet",
-    "question": "Sự kiện lịch sử thế giới nào năm 1917 đã mở đầu một thời đại mới — “thời đại cách mạng chống đế quốc, thời đại giải phóng dân tộc”?",
+    "difficulty": "thong-hieu",
+    "question": "Chính sách chính trị mà thực dân Pháp áp dụng đối với Việt Nam là gì?",
     "options": [
-      "Công xã Pari thiết lập chính quyền vô sản đầu tiên",
-      "Hội nghị thành lập Quốc tế Cộng sản tại Mátxcơva",
-      "Chiến tranh thế giới thứ nhất chính thức kết thúc",
-      "Cách mạng Tháng Mười Nga thắng lợi năm 1917"
+      "Thực hiện chính sách văn hóa, giáo dục thực dân, dung túng, duy trì các hủ tục lạc hậu",
+      "Tước bỏ quyền đối nội, đối ngoại; chia Việt Nam thành ba xứ Bắc Kỳ, Trung Kỳ, Nam Kỳ với mỗi kỳ một chế độ cai trị riêng",
+      "Xóa bỏ hoàn toàn triều đình phong kiến và ban bố quyền tự do bầu cử phổ thông",
+      "Tiến hành cướp đoạt ruộng đất để lập đồn điền và đầu tư khai thác tài nguyên"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 5 nhấn mạnh: Cách mạng Tháng Mười Nga (1917) thắng lợi đã mở đầu một thời đại mới — “thời đại cách mạng chống đế quốc, thời đại giải phóng dân tộc”, tác động sâu sắc tới phong trào cách mạng Việt Nam."
+    "correctIndex": 1,
+    "explanation": "Về chính trị, thực dân Pháp áp đặt chế độ chuyên chế, tước bỏ quyền đối nội và đối ngoại, thực hiện chính sách “chia để trị” khi tách Việt Nam thành ba kỳ với ba chế độ cai trị khác nhau."
   },
   {
     "id": "c1_1.1.1_03",
@@ -40,15 +40,15 @@
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
     "difficulty": "nhan-biet",
-    "question": "Quốc tế Cộng sản (Quốc tế III) được thành lập vào thời gian nào và có vai trò quan trọng gì đối với cách mạng Việt Nam?",
+    "question": "Chính sách kinh tế mà thực dân Pháp áp dụng đối với Việt Nam là gì?",
     "options": [
-      "Tháng 11/1917; trực tiếp cử quân đội sang giải phóng Đông Dương",
-      "Tháng 5/1920; hỗ trợ tài chính để nhà Nguyễn cải cách quân sự",
-      "Tháng 3/1919; truyền bá chủ nghĩa Mác - Lênin và chỉ đạo vấn đề thành lập Đảng Cộng sản ở Việt Nam",
-      "Tháng 7/1924; lập ra chính quyền Xô viết đầu tiên tại các nước thuộc địa châu Á"
+      "Thực hiện chính sách giáo dục thực dân, dung túng và duy trì các hủ tục lạc hậu",
+      "Tước bỏ quyền đối nội, đối ngoại và chia Việt Nam thành ba kỳ với chế độ cai trị riêng",
+      "Tiến hành cướp đoạt ruộng đất để lập đồn điền; đầu tư khai thác tài nguyên phục vụ chính quốc",
+      "Xây dựng nền công nghiệp nặng hiện đại, độc lập cho nền kinh tế Đông Dương"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 5 trình bày: Quốc tế Cộng sản thành lập tháng 3/1919. Đối với Việt Nam, Quốc tế Cộng sản có vai trò quan trọng trong việc truyền bá chủ nghĩa Mác - Lênin và chỉ đạo về vấn đề thành lập Đảng Cộng sản ở Việt Nam."
+    "explanation": "Về kinh tế, thực dân Pháp cướp đoạt ruộng đất lập đồn điền trồng lúa, cao su và đầu tư các ngành công nghiệp nhẹ, khai khoáng chủ yếu phục vụ mục đích khai thác thuộc địa."
   },
   {
     "id": "c1_1.1.1_04",
@@ -57,15 +57,15 @@
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
     "difficulty": "nhan-biet",
-    "question": "Thực dân Pháp nổ súng mở đầu cuộc chiến tranh xâm lược Việt Nam vào ngày tháng năm nào và tại địa điểm nào?",
+    "question": "Dưới tác động của các cuộc khai thác thuộc địa của thực dân Pháp, xã hội Việt Nam xuất hiện những giai cấp mới nào?",
     "options": [
-      "Ngày 6/6/1884 tại kinh thành Huế",
-      "Ngày 23/9/1859 tại Gia Định",
-      "Ngày 1/9/1858 tại Đà Nẵng",
-      "Ngày 15/3/1874 tại cảng Hải Phòng"
+      "Giai cấp công nhân và giai cấp tư sản",
+      "Giai cấp công nhân và giai cấp nông dân",
+      "Giai cấp địa chủ và giai cấp tư sản",
+      "Giai cấp nông dân và giai cấp địa chủ"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 6 ghi rõ mốc khởi đầu cuộc xâm lược của thực dân Pháp: Pháp tấn công Đà Nẵng ngày 1/9/1858, mở đầu quá trình xâm lược Việt Nam."
+    "correctIndex": 0,
+    "explanation": "Dưới tác động của chính sách khai thác thuộc địa của thực dân Pháp, cơ cấu xã hội Việt Nam phân hóa sâu sắc, dẫn tới sự ra đời của hai giai cấp mới là giai cấp công nhân và giai cấp tư sản."
   },
   {
     "id": "c1_1.1.1_05",
@@ -73,16 +73,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "nhan-biet",
-    "question": "Hiệp ước nào ký ngày 6/6/1884 gồm 19 điều khoản, được ví như “một bản khai tử đối với chủ quyền đối ngoại của vua nước Nam”?",
+    "difficulty": "thong-hieu",
+    "question": "Đặc điểm ra đời của giai cấp công nhân Việt Nam là gì?",
     "options": [
-      "Hiệp ước Nhâm Tuất ký thời vua Tự Đức",
-      "Hiệp ước Giáp Tuất về thương mại sông Hồng",
-      "Hiệp ước Hác-măng ký vào mùa hè năm 1883",
-      "Hiệp ước Patơnốt giữa triều đình nhà Nguyễn và thực dân Pháp"
+      "Phần lớn xuất thân từ tầng lớp trí thức thành thị",
+      "Có quan hệ lợi ích gắn bó, hỗ trợ chặt chẽ với giai cấp tư sản mại bản",
+      "Ra đời sau giai cấp tư sản dân tộc Việt Nam từ cuộc khai thác thuộc địa lần thứ hai",
+      "Ra đời trước giai cấp tư sản Việt Nam, chịu sự áp bức của đế quốc, phong kiến và tư sản"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 8 và Slide 9 nêu rõ: Ngày 6/6/1884, nhà Nguyễn ký với Pháp Hiệp ước Patơnốt gồm 19 điều khoản, thừa nhận nền bảo hộ của nước Pháp và để Pháp thay mặt nước An Nam trong mọi quan hệ đối ngoại. Hiệp ước này mang ý nghĩa một bản khai tử đối với chủ quyền đối ngoại của vua nước Nam, biến Việt Nam thành thuộc địa của Pháp."
+    "explanation": "Giai cấp công nhân Việt Nam hình thành ngay từ cuộc khai thác thuộc địa lần thứ nhất của Pháp, ra đời trước giai cấp tư sản Việt Nam và chịu ba tầng áp bức bóc lột nặng nề."
   },
   {
     "id": "c1_1.1.1_06",
@@ -91,15 +91,15 @@
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
     "difficulty": "nhan-biet",
-    "question": "Ba cuộc khởi nghĩa tiêu biểu nhất trong phong trào Cần Vương (1885 – 1896) do vua Hàm Nghi khởi xướng là những cuộc khởi nghĩa nào?",
+    "question": "Hai mâu thuẫn cơ bản trong xã hội Việt Nam thời Pháp thuộc là gì?",
     "options": [
-      "Khởi nghĩa Ba Đình, khởi nghĩa Bãi Sậy và khởi nghĩa Hương Khê",
-      "Khởi nghĩa Yên Thế, khởi nghĩa Thái Nguyên và khởi nghĩa Ba Tơ",
-      "Khởi nghĩa Bắc Sơn, khởi nghĩa Nam Kỳ và khởi nghĩa Đô Lương",
-      "Khởi nghĩa Yên Bái, khởi nghĩa Hương Khê và khởi nghĩa Bãi Sậy"
+      "Toàn thể dân tộc Việt Nam với đế quốc xâm lược và tay sai; tư sản với vô sản",
+      "Đế quốc xâm lược với giai cấp công nhân; nông dân với giai cấp tư sản dân tộc",
+      "Toàn thể dân tộc Việt Nam với đế quốc xâm lược và tay sai; nông dân với địa chủ phong kiến",
+      "Tư sản với vô sản; nông dân với địa chủ phong kiến"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 17 liệt kê các cuộc khởi nghĩa tiêu biểu trong phong trào Cần Vương (1885 – 1896) do vua Hàm Nghi khởi xướng gồm: Ba Đình, Bãi Sậy và Hương Khê (với lãnh tụ tiêu biểu Phan Đình Phùng)."
+    "correctIndex": 2,
+    "explanation": "Trong xã hội thuộc địa nửa phong kiến Việt Nam tồn tại hai mâu thuẫn cơ bản: mâu thuẫn giữa toàn thể dân tộc Việt Nam với đế quốc Pháp xâm lược cùng tay sai, và mâu thuẫn giữa nông dân với địa chủ phong kiến."
   },
   {
     "id": "c1_1.1.1_07",
@@ -108,15 +108,15 @@
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
     "difficulty": "thong-hieu",
-    "question": "Chính sách cai trị của thực dân Pháp đối với Việt Nam trên ba lĩnh vực chính trị, kinh tế và văn hóa - xã hội có đặc trưng nổi bật nào?",
+    "question": "Mâu thuẫn cơ bản và chủ yếu nhất trong xã hội Việt Nam đầu thế kỷ XX là mâu thuẫn nào?",
     "options": [
-      "Mở rộng quyền tự trị chính trị, phát triển công nghiệp nặng hiện đại và phổ cập đại học",
-      "Bóp nghẹt tự do về chính trị; kinh tế lạc hậu, phụ thuộc; văn hóa - xã hội nô dịch, ngu dân",
-      "Xóa bỏ hoàn toàn triều đình phong kiến để thiết lập thể chế cộng hòa dân chủ trực tiếp",
-      "Chỉ tập trung khai thác thương mại đường biển, không can thiệp vào ruộng đất và giáo dục"
+      "Mâu thuẫn giữa giai cấp công nhân với giai cấp tư sản",
+      "Mâu thuẫn giữa dân tộc Việt Nam với đế quốc xâm lược và tay sai của chúng",
+      "Mâu thuẫn giữa công nhân, nông dân với tiểu tư sản thành thị",
+      "Mâu thuẫn giữa giai cấp nông dân với giai cấp địa chủ phong kiến"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 10–14 tổng kết chính sách cai trị của thực dân Pháp: Chính trị bóp nghẹt tự do (cai trị trực tiếp kết hợp duy trì triều đình phong kiến làm tay sai); Kinh tế lạc hậu, phụ thuộc (chiếm ruộng đất lập đồn điền lúa, cao su, chỉ phát triển công nghiệp phục vụ khai thác); Văn hóa - xã hội nô dịch, ngu dân (“nhà tù nhiều hơn trường học”)."
+    "explanation": "Mâu thuẫn bao trùm, chủ yếu nhất xuyên suốt xã hội Việt Nam thời thuộc địa là mâu thuẫn giữa toàn thể dân tộc Việt Nam với thực dân Pháp xâm lược và bè lũ tay sai."
   },
   {
     "id": "c1_1.1.1_08",
@@ -124,16 +124,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "thong-hieu",
-    "question": "Dưới ách thống trị của thực dân Pháp, xã hội Việt Nam tồn tại hai mâu thuẫn cơ bản nào?",
+    "difficulty": "van-dung",
+    "question": "Dưới chế độ thực dân phong kiến, giai cấp nông dân Việt Nam có yêu cầu bức thiết nhất là gì?",
     "options": [
-      "Mâu thuẫn giữa giai cấp tư sản với tiểu tư sản và giữa trí thức với công nhân",
-      "Mâu thuẫn giữa dân tộc Việt Nam với đế quốc xâm lược và giữa nhân dân (chủ yếu là nông dân) với địa chủ phong kiến",
-      "Mâu thuẫn giữa triều đình nhà Nguyễn với thực dân Anh và giữa địa chủ với phú nông",
-      "Mâu thuẫn giữa công nhân đồn điền với tư sản dân tộc và giữa miền Bắc với miền Nam"
+      "Độc lập dân tộc",
+      "Ruộng đất",
+      "Quyền bình đẳng nam nữ",
+      "Được giảm tô, giảm tức"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 16 chỉ rõ hai mâu thuẫn cơ bản trong xã hội Việt Nam thuộc địa thời Pháp thuộc: mâu thuẫn giữa dân tộc Việt Nam (DTVN) với đế quốc xâm lược (ĐQXL) và mâu thuẫn giữa nhân dân Việt Nam (NDVN, chủ yếu là nông dân) với địa chủ phong kiến (ĐCPK)."
+    "correctIndex": 0,
+    "explanation": "Dưới ách áp bức nặng nề của đế quốc và phong kiến, mâu thuẫn dân tộc bao trùm toàn xã hội; vì vậy độc lập dân tộc là nguyện vọng sống còn, bức thiết nhất của nông dân cũng như toàn thể dân tộc Việt Nam."
   },
   {
     "id": "c1_1.1.1_09",
@@ -141,16 +141,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "thong-hieu",
-    "question": "Nhận xét nào phản ánh đúng bản chất và hạn chế của cuộc khởi nghĩa nông dân Yên Thế do Hoàng Hoa Thám lãnh đạo?",
+    "difficulty": "nhan-biet",
+    "question": "Đặc điểm cơ bản của phong trào Cần Vương (1885 – 1896) do vua Hàm Nghi khởi xướng là gì?",
     "options": [
-      "Đi theo con đường cách mạng vô sản và xây dựng chính quyền Xô viết đầu tiên",
-      "Kiên cường chống Pháp nhưng còn “mang nặng cốt cách phong kiến”",
-      "Dựa vào viện trợ vũ khí của Nhật Bản để tiến hành bạo động vũ trang",
-      "Chỉ đấu tranh bằng phương pháp cải cách ôn hòa, vận động thực dân Pháp nới lỏng thuế"
+      "Là phong trào cải cách ôn hòa của tầng lớp tiểu tư sản",
+      "Là phong trào yêu nước theo khuynh hướng vô sản",
+      "Là phong trào yêu nước theo khuynh hướng phong kiến",
+      "Là phong trào yêu nước theo khuynh hướng dân chủ tư sản"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 18 giới thiệu phong trào Yên Thế do Hoàng Hoa Thám (Đề Thám) lãnh đạo với căn cứ và hào công sự kiên cố, song cuối cùng bị đàn áp và được đánh giá là “mang nặng cốt cách phong kiến”."
+    "correctIndex": 2,
+    "explanation": "Phong trào Cần Vương (1885–1896) do vua Hàm Nghi khởi xướng là phong trào yêu nước theo khuynh hướng phong kiến nhằm giúp vua cứu nước, khôi phục quốc gia phong kiến độc lập."
   },
   {
     "id": "c1_1.1.1_10",
@@ -158,16 +158,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "thong-hieu",
-    "question": "Chủ trương cứu nước của Phan Bội Châu (phong trào Đông Du) và Phan Châu Trinh (phong trào Duy Tân) đại diện cho hai xu hướng nào đầu thế kỷ XX?",
+    "difficulty": "nhan-biet",
+    "question": "Cuộc khởi nghĩa nông dân tiêu biểu nhất của Việt Nam cuối thế kỷ XIX đầu thế kỷ XX do Hoàng Hoa Thám lãnh đạo là cuộc khởi nghĩa nào?",
     "options": [
-      "Phan Bội Châu theo xu hướng bạo động; Phan Châu Trinh theo xu hướng cải cách",
-      "Cả hai đều theo xu hướng phong kiến Cần Vương nhằm khôi phục chế độ quân chủ chuyên chế",
-      "Phan Bội Châu theo xu hướng cải cách ôn hòa; Phan Châu Trinh theo xu hướng bạo động vũ trang",
-      "Cả hai đều theo khuynh hướng cách mạng vô sản chịu ảnh hưởng của Quốc tế Cộng sản"
+      "Khởi nghĩa Yên Thế",
+      "Khởi nghĩa Ba Đình",
+      "Khởi nghĩa Bãi Sậy",
+      "Khởi nghĩa Hương Khê"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 19 và Slide 20 phân biệt rõ hai xu hướng yêu nước đầu thế kỷ XX: Phan Bội Châu (1867–1940) với phong trào Đông Du theo xu hướng bạo động; Phan Châu Trinh (1872–1926) với phong trào Duy Tân theo xu hướng cải cách."
+    "explanation": "Khởi nghĩa Yên Thế (1884–1913) do Hoàng Hoa Thám lãnh đạo là cuộc khởi nghĩa vũ trang tự vệ bền bỉ, tiêu biểu nhất của giai cấp nông dân Việt Nam giai đoạn cuối thế kỷ XIX – đầu thế kỷ XX."
   },
   {
     "id": "c1_1.1.1_11",
@@ -175,16 +175,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "thong-hieu",
-    "question": "Các phong trào yêu nước theo khuynh hướng phong kiến và tư sản cuối thế kỷ XIX đầu thế kỷ XX tuy thất bại nhưng có ý nghĩa lịch sử quan trọng nào sau đây?",
+    "difficulty": "nhan-biet",
+    "question": "Phong trào yêu nước theo hệ tư tưởng dân chủ tư sản, xu hướng bạo động do nhà yêu nước Phan Bội Châu lãnh đạo là phong trào nào?",
     "options": [
-      "Tạo điều kiện thuận lợi tiếp nhận chủ nghĩa Mác - Lênin và trở thành một trong ba nhân tố dẫn đến sự ra đời của Đảng Cộng sản Việt Nam",
-      "Trực tiếp giành lại chủ quyền đối ngoại và hủy bỏ Hiệp ước Patơnốt năm 1884",
-      "Đã hoàn thành triệt để nhiệm vụ cách mạng ruộng đất cho giai cấp nông dân nghèo",
-      "Thiết lập được hệ thống tổ chức chính trị chặt chẽ thống nhất từ Bắc vào Nam"
+      "Phong trào Đông Du",
+      "Phong trào Duy Tân",
+      "Phong trào Cần Vương",
+      "Phong trào Đông Kinh Nghĩa Thục"
     ],
     "correctIndex": 0,
-    "explanation": "Slide 21 tổng kết 3 ý nghĩa lớn của các phong trào yêu nước trước khi có Đảng: tiếp nối truyền thống yêu nước kiên cường; tạo điều kiện thuận lợi cho việc tiếp nhận chủ nghĩa Mác - Lênin, quan điểm cách mạng Hồ Chí Minh; là một trong 3 nhân tố dẫn đến sự ra đời của Đảng Cộng sản Việt Nam."
+    "explanation": "Phong trào Đông Du (1905–1908) do cụ Phan Bội Châu khởi xướng theo xu hướng bạo động, đưa thanh niên sang Nhật học tập nhằm chuẩn bị lực lượng đánh Pháp."
   },
   {
     "id": "c1_1.1.1_12",
@@ -192,16 +192,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "van-dung",
-    "question": "Nguyễn Ái Quốc đã nhận xét xu hướng cứu nước của Phan Bội Châu và Phan Châu Trinh lần lượt bằng hai câu đánh giá sắc bén nào?",
+    "difficulty": "thong-hieu",
+    "question": "Khi nhận xét về chủ trương dựa vào Nhật để đánh Pháp của cụ Phan Bội Châu (phong trào Đông Du), Nguyễn Ái Quốc đã đưa ra đánh giá nổi tiếng nào?",
     "options": [
-      "Phan Bội Châu: “đến xin giặc rủ lòng thương”; Phan Châu Trinh: “đuổi hổ cửa trước, rước beo cửa sau”",
-      "Phan Bội Châu: “mang nặng cốt cách phong kiến”; Phan Châu Trinh: “quả trứng nở ra chim non cộng sản”",
-      "Phan Bội Châu: “tự phát đòi tăng lương”; Phan Châu Trinh: “bỏ qua thời kỳ tư bản chủ nghĩa”",
-      "Phan Bội Châu: “chẳng khác nào đuổi hổ cửa trước, rước beo cửa sau”; Phan Châu Trinh: “chẳng khác gì đến xin giặc rủ lòng thương”"
+      "“Chẳng khác nào đuổi hổ cửa trước, rước beo cửa sau”",
+      "“Chẳng khác gì đến xin giặc rủ lòng thương”",
+      "“Mang nặng cốt cách phong kiến”",
+      "“Vấn đề thổ địa là cái cốt của cách mạng”"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 19 ghi nhận xét về xu hướng dựa vào Nhật (Đông Du) của Phan Bội Châu: “Chẳng khác nào đuổi hổ cửa trước, rước beo cửa sau”. Slide 20 ghi nhận xét về xu hướng dựa vào Pháp để cải cách (Duy Tân) của Phan Châu Trinh: “Chẳng khác gì đến xin giặc rủ lòng thương”."
+    "correctIndex": 0,
+    "explanation": "Nguyễn Ái Quốc phê phán hạn chế của xu hướng cầu viện đế quốc Nhật trong phong trào Đông Du bằng nhận xét sắc bén: “Chẳng khác nào đuổi hổ cửa trước, rước beo cửa sau”."
   },
   {
     "id": "c1_1.1.1_13",
@@ -209,16 +209,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "van-dung",
-    "question": "Nguyên nhân sâu xa khiến các phong trào yêu nước cuối thế kỷ XIX đầu thế kỷ XX (từ Cần Vương, Yên Thế đến Đông Du, Duy Tân) đều lần lượt thất bại là gì?",
+    "difficulty": "thong-hieu",
+    "question": "Khi nhận xét về xu hướng cải cách dân chủ, dựa vào Pháp để chấn hưng đất nước của cụ Phan Châu Trinh (phong trào Duy Tân), Nguyễn Ái Quốc đã ví chủ trương đó như thế nào?",
     "options": [
-      "Nhân dân Việt Nam chưa có tinh thần yêu nước và không ủng hộ mục tiêu giành độc lập",
-      "Triều đình nhà Nguyễn đã cải cách thành công nên phong trào mất mục tiêu đấu tranh",
-      "Quốc tế Cộng sản phản đối các cuộc đấu tranh vũ trang tại Đông Dương",
-      "Hạn chế về giai cấp (phong kiến, tư sản), đường lối chính trị chưa đúng đắn, hệ thống tổ chức thiếu chặt chẽ, chưa tập hợp rộng rãi lực lượng dân tộc"
+      "“Chẳng khác nào đuổi hổ cửa trước, rước beo cửa sau”",
+      "“Chẳng khác gì đến xin giặc rủ lòng thương”",
+      "“Mang nặng cốt cách phong kiến”",
+      "“Là quả trứng từ đó nở ra con chim non cộng sản”"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 21 chỉ rõ nguyên nhân thất bại của các phong trào yêu nước theo khuynh hướng phong kiến và tư sản: do hạn chế về giai cấp (phong kiến, tư sản), hạn chế về đường lối chính trị, hệ thống tổ chức thiếu chặt chẽ và chưa tập hợp được rộng rãi lực lượng của toàn dân tộc."
+    "correctIndex": 1,
+    "explanation": "Nguyễn Ái Quốc chỉ rõ tính không tưởng của xu hướng cải cách trông chờ vào chính quyền thực dân Pháp trong phong trào Duy Tân là “Chẳng khác gì đến xin giặc rủ lòng thương”."
   },
   {
     "id": "c1_1.1.1_14",
@@ -226,16 +226,84 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.1",
     "sectionTitle": "Bối cảnh lịch sử",
-    "difficulty": "van-dung",
-    "question": "Vì sao thực dân Pháp vừa cai trị trực tiếp vừa duy trì triều đình nhà Nguyễn (các vua Đồng Khánh, Khải Định, Bảo Đại) trong bộ máy thống trị ở Việt Nam?",
+    "difficulty": "thong-hieu",
+    "question": "Đặc điểm chung bao trùm của các phong trào yêu nước theo khuynh hướng phong kiến và dân chủ tư sản cuối thế kỷ XIX đầu thế kỷ XX là gì?",
     "options": [
-      "Để giúp triều đình nhà Nguyễn hiện đại hóa quân đội và xây dựng nền kinh tế độc lập",
-      "Vì Hiệp ước Patơnốt quy định Pháp không có quyền can thiệp vào công việc nội bộ hay đối ngoại",
-      "Để dùng hệ thống chính quyền phong kiến làm tay sai, phục vụ chính sách bóc lột và chia rẽ dân tộc",
-      "Nhằm chuẩn bị trao trả lại hoàn toàn chủ quyền cho các đời vua Nguyễn vào đầu thế kỷ XX"
+      "Tập hợp được rộng rãi mọi tầng lớp lực lượng toàn dân tộc",
+      "Đều hướng tới mục tiêu xây dựng chủ nghĩa xã hội",
+      "Đều hướng tới mục tiêu giành độc lập dân tộc",
+      "Đều kết hợp mục tiêu độc lập dân tộc với chủ nghĩa xã hội"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 10 và Slide 11 phân tích hình thức cai trị của thực dân Pháp: kết hợp cai trị trực tiếp (qua Toàn quyền Pháp như Anbe Xarô) với việc duy trì triều đình và hệ thống chính quyền phong kiến làm tay sai nhằm bóp nghẹt tự do, dễ bề khống chế và bóc lột thuộc địa."
+    "explanation": "Tuy khác nhau về khuynh hướng và phương pháp đấu tranh, điểm chung lớn nhất của các phong trào yêu nước trước khi có Đảng là đều kiên cường hướng tới mục tiêu giành độc lập dân tộc."
+  },
+  {
+    "id": "c1_1.1.1_15",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.1",
+    "sectionTitle": "Bối cảnh lịch sử",
+    "difficulty": "van-dung",
+    "question": "Đâu là nguyên nhân căn bản, sâu xa nhất dẫn đến sự thất bại của các phong trào yêu nước theo khuynh hướng phong kiến và tư sản cuối thế kỷ XIX đầu thế kỷ XX ở nước ta?",
+    "options": [
+      "Thực dân Pháp được sự trợ giúp quân sự trực tiếp của đế quốc Mỹ",
+      "Hạn chế về giai cấp lãnh đạo (phong kiến, tư sản) và thiếu đường lối cứu nước đúng đắn",
+      "Nhân dân Việt Nam chưa có tinh thần yêu nước chống ngoại xâm",
+      "Các cuộc khởi nghĩa đều nổ ra đồng loạt trên phạm vi cả nước cùng một lúc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Các phong trào yêu nước cuối thế kỷ XIX – đầu thế kỷ XX thất bại sâu xa do hạn chế lịch sử của giai cấp lãnh đạo (phong kiến đã lỗi thời, tư sản non yếu) dẫn tới khủng hoảng về đường lối cứu nước đúng đắn."
+  },
+  {
+    "id": "c1_1.1.1_16",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.1",
+    "sectionTitle": "Bối cảnh lịch sử",
+    "difficulty": "thong-hieu",
+    "question": "Đâu là yếu tố thuộc hoàn cảnh trong nước Việt Nam cuối thế kỷ XIX đầu thế kỷ XX trực tiếp dẫn đến sự ra đời của Đảng Cộng sản Việt Nam?",
+    "options": [
+      "Ảnh hưởng của chủ nghĩa Mác – Lênin trên thế giới",
+      "Chủ nghĩa tư bản chuyển từ tự do cạnh tranh sang chủ nghĩa đế quốc",
+      "Tác động của Cách mạng Tháng Mười Nga và Quốc tế Cộng sản",
+      "Chính sách cai trị và khai thác thuộc địa tàn bạo của thực dân Pháp"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chính sách khai thác thuộc địa của thực dân Pháp là nhân tố kinh tế – xã hội trực tiếp bên trong làm phân hóa giai cấp, làm sâu sắc mâu thuẫn dân tộc và thúc đẩy phong trào yêu nước Việt Nam."
+  },
+  {
+    "id": "c1_1.1.1_17",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.1",
+    "sectionTitle": "Bối cảnh lịch sử",
+    "difficulty": "van-dung",
+    "question": "Đâu KHÔNG PHẢI là yếu tố thuộc hoàn cảnh quốc tế cuối thế kỷ XIX đầu thế kỷ XX dẫn đến sự ra đời của Đảng Cộng sản Việt Nam?",
+    "options": [
+      "Ảnh hưởng của chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh",
+      "Tác động của Cách mạng Tháng Mười Nga và Quốc tế Cộng sản",
+      "Chủ nghĩa tư bản chuyển sang giai đoạn độc quyền (chủ nghĩa đế quốc)",
+      "Ảnh hưởng của chủ nghĩa Mác – Lênin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tư tưởng Hồ Chí Minh là nhân tố chủ quan nội sinh của cách mạng Việt Nam, không thuộc yếu tố bối cảnh lịch sử khách quan của thế giới cuối thế kỷ XIX – đầu thế kỷ XX."
+  },
+  {
+    "id": "c1_1.1.1_18",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.1",
+    "sectionTitle": "Bối cảnh lịch sử",
+    "difficulty": "thong-hieu",
+    "question": "Đối với các dân tộc thuộc địa, thắng lợi của Cách mạng Tháng Mười Nga (1917) có ý nghĩa nổi bật nào?",
+    "options": [
+      "Đã nêu tấm gương sáng trong việc tự giải phóng của các dân tộc bị áp bức",
+      "Đã trực tiếp đưa quân đội giải phóng các nước thuộc địa ở Đông Nam Á",
+      "Đã buộc các nước đế quốc phương Tây tự nguyện trao trả độc lập cho thuộc địa",
+      "Đã chấm dứt hoàn toàn sự tồn tại của chủ nghĩa thực dân cũ ngay trong năm 1917"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cách mạng Tháng Mười Nga (1917) nêu tấm gương sáng cổ vũ các dân tộc bị áp bức đứng lên tự giải phóng và mở ra thời đại cách mạng chống đế quốc, giải phóng dân tộc."
   },
   {
     "id": "c1_1.1.2_01",
@@ -244,15 +312,15 @@
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
     "difficulty": "nhan-biet",
-    "question": "Người thanh niên yêu nước Nguyễn Tất Thành rời bến cảng Nhà Rồng ra đi tìm đường cứu nước vào ngày tháng năm nào và trên con tàu nào?",
+    "question": "Ngày 5/6/1911, người thanh niên yêu nước Nguyễn Tất Thành rời bến cảng Nhà Rồng sang phương Tây tìm đường cứu nước trên con tàu buôn nào của Pháp?",
     "options": [
-      "Ngày 2/9/1911 trên tàu chở hàng từ cảng Đà Nẵng sang Liên Xô",
-      "Ngày 19/5/1910 trên chiếc tàu quân sự của Anh đi sang Nhật Bản",
-      "Ngày 3/2/1912 trên tàu thủy từ cảng Hải Phòng sang Quảng Châu",
-      "Ngày 5/6/1911 trên chiếc tàu buôn của Pháp Latútơ Tơrêvin (Amiral Latouche-Tréville)"
+      "Tàu Amiral Latouche-Tréville (Đô đốc La-tút-sơ Tơ-rê-vin)",
+      "Tàu chiến hạm Missouri",
+      "Tàu khu trục Maddox",
+      "Tàu tuần dương hạm Rạng Đông"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 22 nêu rõ: Ngày 5/6/1911 tại bến cảng Nhà Rồng, người thanh niên yêu nước Nguyễn Tất Thành đã lên chiếc tàu buôn của Pháp (Latútơ Tơrêvin) sang phương Tây tìm đường cứu nước."
+    "correctIndex": 0,
+    "explanation": "Ngày 5/6/1911 tại bến cảng Nhà Rồng, Nguyễn Tất Thành lên chiếc tàu buôn của Pháp Amiral Latouche-Tréville sang phương Tây tìm con đường cứu nước mới cho dân tộc."
   },
   {
     "id": "c1_1.1.2_02",
@@ -261,15 +329,15 @@
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
     "difficulty": "nhan-biet",
-    "question": "Ai là người sáng lập Công hội đỏ Sài Gòn và tổ chức cuộc bãi công tiêu biểu của công nhân xưởng đóng tàu Ba Son?",
+    "question": "Nguyễn Ái Quốc chính thức lựa chọn con đường giải phóng dân tộc theo khuynh hướng chính trị vô sản vào năm nào?",
     "options": [
-      "Đồng chí Nguyễn Đức Cảnh",
-      "Đồng chí Ngô Gia Tự",
-      "Đồng chí Lê Hồng Phong",
-      "Đồng chí Tôn Đức Thắng"
+      "Năm 1917",
+      "Năm 1918",
+      "Năm 1919",
+      "Năm 1920"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 24 khẳng định: Đồng chí Tôn Đức Thắng là người sáng lập ra Công hội đỏ Sài Gòn và tổ chức cuộc bãi công của công nhân Ba Son (1925) — mốc quan trọng trong phong trào công nhân Việt Nam."
+    "explanation": "Năm 1920, sau khi đọc Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và thuộc địa của Lênin (7/1920) và bỏ phiếu tán thành Quốc tế Cộng sản tại Đại hội Tua (12/1920), Nguyễn Ái Quốc chính thức lựa chọn con đường cách mạng vô sản."
   },
   {
     "id": "c1_1.1.2_03",
@@ -277,16 +345,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "nhan-biet",
-    "question": "Hội Việt Nam Cách mạng Thanh niên do Nguyễn Ái Quốc sáng lập vào thời gian nào và trên cơ sở tổ chức nòng cốt nào trước đó?",
+    "difficulty": "thong-hieu",
+    "question": "Sự kiện nào vào tháng 8/1925 đánh dấu bước ngoặt mở đầu chuyển phong trào công nhân Việt Nam từ đấu tranh tự phát sang tự giác?",
     "options": [
-      "Tháng 3/1929, trên cơ sở Chi bộ cộng sản đầu tiên tại số 5D Hàm Long",
-      "Tháng 6/1925, trên cơ sở Tâm Tâm Xã (1923) và nhóm nòng cốt Cộng sản đoàn (3/1925)",
-      "Tháng 8/1924, trên cơ sở Hội Tân Việt và Công hội đỏ Sài Gòn",
-      "Tháng 12/1927, trên cơ sở hợp nhất ba tổ chức cộng sản trong nước"
+      "Cuộc biểu tình ngày 1/5/1930 của công nhân khu công nghiệp Bến Thủy",
+      "Cuộc bãi công của công nhân thợ máy xưởng Ba Son do Tôn Đức Thắng tổ chức",
+      "Cuộc bãi công đòi tăng lương của công nhân đồn điền cao su Phú Riềng năm 1930",
+      "Cuộc mít tinh ngày 1/5/1938 tại khu Đấu Xảo Hà Nội"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 27 mô tả tiến trình hình thành: Tâm Tâm Xã (1923) → Cộng sản đoàn (3/1925) → Hội Việt Nam Cách mạng Thanh niên (6/1925) do Nguyễn Ái Quốc sáng lập thời kỳ hoạt động ở Trung Quốc."
+    "explanation": "Tháng 8/1925, cuộc bãi công của công nhân xưởng đóng tàu Ba Son (Sài Gòn) do đồng chí Tôn Đức Thắng và Công hội đỏ tổ chức không chỉ đòi quyền lợi kinh tế mà còn mang mục tiêu chính trị quốc tế, đánh dấu bước chuyển từ tự phát sang tự giác."
   },
   {
     "id": "c1_1.1.2_04",
@@ -295,15 +363,15 @@
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
     "difficulty": "nhan-biet",
-    "question": "Cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên và là tờ báo bí mật đầu tiên của người cách mạng Việt Nam bằng chữ Quốc ngữ là tờ báo nào?",
+    "question": "Tháng 3/1925, tại Quảng Châu (Trung Quốc), Nguyễn Ái Quốc đã lựa chọn những thanh niên tích cực trong tổ chức nào để thành lập nhóm “Cộng sản đoàn” làm nòng cốt?",
     "options": [
-      "Báo Dân Chúng",
-      "Báo Thanh Niên",
-      "Báo Tin Tức",
-      "Báo Cứu Quốc"
+      "Việt Nam Quốc dân Đảng",
+      "Tân Việt Cách mệnh Đảng",
+      "Tâm Tâm Xã",
+      "Công hội đỏ Sài Gòn"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 30 nêu rõ: Báo “Thanh Niên” là cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, là tờ báo bí mật đầu tiên của người cách mạng Việt Nam bằng chữ Quốc ngữ, viết bằng giấy sáp, in bằng bàn in tay, mỗi lần in độ vài trăm tờ."
+    "correctIndex": 2,
+    "explanation": "Từ các thanh niên yêu nước trong tổ chức Tâm Tâm Xã (1923), tháng 3/1925 Nguyễn Ái Quốc lập nhóm Cộng sản đoàn làm nòng cốt để tiến tới thành lập Hội Việt Nam Cách mạng Thanh niên (6/1925)."
   },
   {
     "id": "c1_1.1.2_05",
@@ -311,16 +379,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "nhan-biet",
-    "question": "Ba đồng chí tiêu biểu đứng đầu Hội Việt Nam Cách mạng Thanh niên trong thời kỳ đầu gồm những ai?",
+    "difficulty": "thong-hieu",
+    "question": "Tổ chức nào ra đời tháng 6/1925 đã tích cực truyền bá chủ nghĩa Mác – Lênin, thúc đẩy phong trào công nhân Việt Nam chuyển mạnh từ tự phát sang tự giác?",
     "options": [
-      "Trần Phú, Hà Huy Tập và Nguyễn Văn Cừ",
-      "Nguyễn Ái Quốc, Lê Hồng Sơn và Hồ Tùng Mậu",
-      "Nguyễn Đức Cảnh, Ngô Gia Tự và Trịnh Đình Cửu",
-      "Lê Hồng Phong, Nguyễn Thị Minh Khai và Hoàng Văn Thụ"
+      "Hội Việt Nam Cách mạng Thanh niên",
+      "Việt Nam Quốc dân Đảng",
+      "Đông Dương Cộng sản Liên đoàn",
+      "Mặt trận Dân chủ Đông Dương"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 28 giới thiệu rõ các đồng chí đứng đầu Hội Việt Nam Cách mạng Thanh niên trong thời kỳ đầu gồm: Nguyễn Ái Quốc, Lê Hồng Sơn và Hồ Tùng Mậu."
+    "correctIndex": 0,
+    "explanation": "Hội Việt Nam Cách mạng Thanh niên (thành lập tháng 6/1925) đóng 3 vai trò lớn: truyền bá chủ nghĩa Mác – Lênin, đào tạo cán bộ cách mạng và lãnh đạo phong trào công nhân, yêu nước chuyển mạnh sang tự giác."
   },
   {
     "id": "c1_1.1.2_06",
@@ -328,16 +396,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Điểm khác biệt cơ bản của phong trào công nhân Việt Nam giai đoạn trước năm 1925 so với giai đoạn 1925 – 1929 là gì?",
+    "difficulty": "nhan-biet",
+    "question": "Cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên — đồng thời là tờ báo bí mật đầu tiên bằng chữ Quốc ngữ ra số đầu ngày 21/6/1925 — là tờ báo nào?",
     "options": [
-      "Trước 1925 sử dụng đấu tranh vũ trang; sau 1925 chuyển hẳn sang phương pháp cải cách ôn hòa",
-      "Trước 1925 đã có Đảng Cộng sản lãnh đạo trực tiếp; sau 1925 chuyển sang hoạt động công khai tại nghị trường",
-      "Trước 1925 chỉ diễn ra ở nông thôn miền Bắc; sau 1925 chỉ diễn ra trong các trường học đô thị",
-      "Trước 1925 chủ yếu đấu tranh tự phát đòi quyền lợi kinh tế; sau 1925 chuyển sang bãi công phổ biến, kết hợp mục tiêu kinh tế với chính trị"
+      "Báo Thanh Niên",
+      "Báo Người Lao Động",
+      "Báo Dân Chúng",
+      "Báo Tin Tức"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 23 và Slide 26 (sơ đồ phát triển phong trào công nhân 1918–1929) cho thấy: trước 1925, công nhân đấu tranh mang tính tự phát (bãi công đòi tăng lương, giảm giờ làm); từ 1925 đến 1929, bãi công trở nên phổ biến và nâng cao trình độ kết hợp đấu tranh kinh tế với chính trị."
+    "correctIndex": 0,
+    "explanation": "Báo Thanh Niên (ra số đầu ngày 21/6/1925 tại Quảng Châu) là cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, là tờ báo bí mật đầu tiên bằng chữ Quốc ngữ truyền bá chủ nghĩa Mác – Lênin vào Việt Nam."
   },
   {
     "id": "c1_1.1.2_07",
@@ -346,15 +414,15 @@
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
     "difficulty": "thong-hieu",
-    "question": "Trong giai đoạn 1925 – 1929, Hội Việt Nam Cách mạng Thanh niên đã đóng ba vai trò rất quan trọng nào đối với cách mạng Việt Nam?",
+    "question": "Chủ trương đưa hội viên đi vào các nhà máy, hầm mỏ, đồn điền trong phong trào “Vô sản hóa” (1928 – 1929) nhằm thực hiện nhiệm vụ cốt lõi nào?",
     "options": [
-      "Truyền bá chủ nghĩa Mác - Lênin vào Việt Nam; đào tạo cán bộ cách mạng; lãnh đạo phong trào công nhân và phong trào yêu nước",
-      "Khởi xướng phong trào Cần Vương, thành lập Mặt trận Việt Minh và mở chiến dịch Biên giới",
-      "Đàm phán ngoại giao với Pháp, soạn thảo Hiến pháp 1946 và tổ chức Tổng tuyển cử toàn quốc",
-      "Lập chính quyền Xô viết ở Nghệ Tĩnh, xuất bản báo Dân Chúng và thành lập Quân giải phóng"
+      "Tổ chức đấu tranh nghị trường đòi quyền ứng cử cho công nhân tại các thành phố lớn",
+      "Rèn luyện lập trường vô sản và thúc đẩy truyền bá chủ nghĩa Mác – Lênin vào giai cấp công nhân",
+      "Tích lũy kinh phí kinh doanh để thành lập các xí nghiệp tư bản dân tộc",
+      "Chuẩn bị lực lượng để phát động ngay Tổng khởi nghĩa vũ trang vào cuối năm 1928"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 29 nêu đầy đủ 3 vai trò của Hội Việt Nam Cách mạng Thanh niên (1925–1929): (1) Truyền bá chủ nghĩa Mác - Lênin vào Việt Nam; (2) Đào tạo cán bộ cách mạng; (3) Lãnh đạo phong trào công nhân và phong trào yêu nước Việt Nam."
+    "correctIndex": 1,
+    "explanation": "Phong trào “Vô sản hóa” (1928–1929) do Hội Việt Nam Cách mạng Thanh niên phát động nhằm đưa cán bộ vào lao động trực tiếp cùng công nhân để rèn luyện lập trường giai cấp và truyền bá sâu rộng chủ nghĩa Mác – Lênin."
   },
   {
     "id": "c1_1.1.2_08",
@@ -362,16 +430,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Vì sao Hội Việt Nam Cách mạng Thanh niên được ví “là quả trứng từ đó nở ra con chim non cộng sản”?",
+    "difficulty": "nhan-biet",
+    "question": "Trong phong trào “Vô sản hóa” (1928 – 1929), đồng chí Ngô Gia Tự đã tự nguyện đi làm công việc gì và ở địa bàn nào?",
     "options": [
-      "Vì Hội đã trực tiếp ban hành Cương lĩnh chính trị đầu tiên của Đảng vào năm 1925",
-      "Vì Hội đã lãnh đạo thành công cuộc Tổng khởi nghĩa giành chính quyền ở Nam Kỳ năm 1928",
-      "Vì Hội là tổ chức duy nhất được thực dân Pháp cho phép hoạt động hợp pháp ở cả ba kỳ",
-      "Vì Hội được tổ chức theo nguyên tắc tập trung dân chủ, tự phê bình và phê bình gần giống Đảng Cộng sản, chuẩn bị trực tiếp về tư tưởng, tổ chức và cán bộ cho sự ra đời của Đảng"
+      "Làm công nhân tại cảng và nhà máy xi măng Hải Phòng",
+      "Làm công nhân khai thác tại mỏ than Mạo Khê (Quảng Ninh)",
+      "Làm công nhân cơ khí tại nhà máy xe lửa Trường Thi (Vinh)",
+      "Làm công nhân khuân vác tại các bến bãi, cảng ở Sài Gòn"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 27 và Slide 29 chỉ rõ: Hội Việt Nam Cách mạng Thanh niên hoạt động theo nguyên tắc tập trung, dân chủ, tự phê bình và phê bình gần giống một Đảng Cộng sản, là tổ chức tiền thân chuẩn bị trực tiếp các điều kiện để thành lập Đảng."
+    "explanation": "Slide 31 Chương 1 ghi rõ trong phong trào “Vô sản hóa” (1928–1929): đồng chí Ngô Gia Tự làm công nhân khuân vác ở Sài Gòn; đồng chí Nguyễn Văn Cừ làm ở mỏ than Mạo Khê; đồng chí Nguyễn Đức Cảnh xuống Hải Phòng."
   },
   {
     "id": "c1_1.1.2_09",
@@ -379,67 +447,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.2",
     "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Trong phong trào “Vô sản hóa” (1928 – 1929) do Hội Việt Nam Cách mạng Thanh niên phát động, hoạt động thực tiễn của các đồng chí Nguyễn Văn Cừ, Ngô Gia Tự, Nguyễn Đức Cảnh diễn ra như thế nào?",
+    "difficulty": "nhan-biet",
+    "question": "Trong phong trào “Vô sản hóa” (1928 – 1929), đồng chí Nguyễn Văn Cừ đã trực tiếp đi vào hoạt động thực tiễn để giác ngộ giai cấp công nhân tại địa bàn nào?",
     "options": [
-      "Nguyễn Văn Cừ làm ở mỏ than Mạo Khê; Ngô Gia Tự làm công nhân khuân vác ở Sài Gòn; Nguyễn Đức Cảnh xuống Hải Phòng",
-      "Cùng sang Mátxcơva học tập lý luận tại Trường Đại học Phương Đông trong hai năm liền",
-      "Cả ba đồng chí đều ở lại Quảng Châu để biên tập và in ấn báo Thanh Niên",
-      "Chia nhau đi vận động các nghị sĩ người Pháp tại Pa-ri ủng hộ quyền tự trị Đông Dương"
+      "Nhà máy dệt Nam Định",
+      "Xưởng đóng tàu Ba Son (Sài Gòn)",
+      "Khu công nghiệp Bến Thủy (Nghệ An)",
+      "Mỏ than Mạo Khê (Quảng Ninh)"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 31 ghi rõ các tấm gương tiêu biểu trong phong trào “Vô sản hóa” (1928–1929): Nguyễn Văn Cừ làm ở mỏ than Mạo Khê; Ngô Gia Tự làm công nhân khuân vác ở Sài Gòn; Nguyễn Đức Cảnh xuống Hải Phòng để cùng sống, lao động và giác ngộ giai cấp công nhân."
-  },
-  {
-    "id": "c1_1.1.2_10",
-    "chapter": 1,
-    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
-    "sectionId": "1.1.2",
-    "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Đại hội Kỳ bộ của Hội Việt Nam Cách mạng Thanh niên Nam Kỳ năm 1928 đã diễn ra tại địa điểm nào?",
-    "options": [
-      "Phòng số 5 Khách sạn Tân Hòa đường Bonard (nay là số 88 Lê Lợi, TP. Hồ Chí Minh)",
-      "Ngôi nhà số 312 Khâm Thiên, Hà Nội",
-      "Ngôi nhà số 5D Hàm Long, Hà Nội",
-      "Khu Đấu Xảo Hà Nội (nay là Cung Văn hóa Lao động Hữu Nghị)"
-    ],
-    "correctIndex": 0,
-    "explanation": "Slide 32 cung cấp tư liệu cụ thể: Khách sạn Tân Hòa đường Bonard (nay là số 88 Lê Lợi, TP. HCM), tại phòng số 5 là nơi diễn ra Đại hội Kỳ bộ của Hội Việt Nam Cách mạng Thanh niên Nam Kỳ năm 1928."
-  },
-  {
-    "id": "c1_1.1.2_11",
-    "chapter": 1,
-    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
-    "sectionId": "1.1.2",
-    "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "van-dung",
-    "question": "Phong trào “Vô sản hóa” (1928 – 1929) có ý nghĩa quyết định như thế nào đối với quá trình chuẩn bị thành lập Đảng Cộng sản Việt Nam?",
-    "options": [
-      "Giúp Hội Việt Nam Cách mạng Thanh niên chuyển sang hoạt động công khai hợp pháp trên toàn quốc",
-      "Đưa cán bộ, hội viên vào nhà máy, hầm mỏ, đồn điền để rèn luyện lập trường vô sản và gắn kết chủ nghĩa Mác - Lênin trực tiếp với phong trào công nhân",
-      "Trực tiếp hợp nhất ba tổ chức cộng sản tại Bắc Kỳ, Trung Kỳ và Nam Kỳ ngay trong năm 1928",
-      "Tạo ra sự chia rẽ sâu sắc khiến phong trào công nhân tách rời khỏi phong trào yêu nước"
-    ],
-    "correctIndex": 1,
-    "explanation": "Thông qua phong trào “Vô sản hóa” (1928–1929, Slide 31), các hội viên ưu tú của Hội Việt Nam Cách mạng Thanh niên (như Nguyễn Văn Cừ, Ngô Gia Tự, Nguyễn Đức Cảnh) thâm nhập trực tiếp vào đời sống công nhân tại hầm mỏ, bến cảng, nhà máy, thúc đẩy phong trào công nhân phát triển mạnh mẽ cả về chất và lượng, thúc đẩy trực tiếp sự ra đời của các tổ chức cộng sản năm 1929."
-  },
-  {
-    "id": "c1_1.1.2_12",
-    "chapter": 1,
-    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
-    "sectionId": "1.1.2",
-    "sectionTitle": "Nguyễn Ái Quốc chuẩn bị các điều kiện để thành lập Đảng",
-    "difficulty": "van-dung",
-    "question": "Vì sao hướng đi tìm đường cứu nước của Nguyễn Tất Thành (5/6/1911) mang tính đột phá so với các bậc tiền bối như Phan Bội Châu và Phan Châu Trinh?",
-    "options": [
-      "Người đi thẳng sang phương Tây — nơi sinh ra tư tưởng tự do, bình đẳng, bác ái và cũng là trung tâm của chủ nghĩa đế quốc — để xem xét thực chất rồi mới tìm đường cứu nước đúng đắn",
-      "Người sang Nhật Bản để học tập mô hình quân chủ lập hiến Minh Trị và cầu viện vũ khí",
-      "Người ở lại trong nước liên kết với triều đình nhà Nguyễn để tiến hành cải cách từ bên trên",
-      "Người chủ trương chỉ hoạt động nghị trường tại Đông Dương mà không liên hệ với phong trào quốc tế"
-    ],
-    "correctIndex": 0,
-    "explanation": "Slide 19, 20 và 22 cho thấy sự khác biệt căn bản: trong khi các bậc tiền bối hướng sang Nhật (Đông Du) hoặc trông chờ Pháp cải cách (Duy Tân) và rơi vào bế tắc, Nguyễn Tất Thành đã quyết định sang phương Tây (5/6/1911) để trực tiếp khảo sát thế giới tư bản và tìm thấy con đường cứu nước theo chủ nghĩa Mác - Lênin."
+    "correctIndex": 3,
+    "explanation": "Slide 31 ghi rõ trong phong trào “Vô sản hóa” (1928–1929), đồng chí Nguyễn Văn Cừ đã trực tiếp vào làm công nhân tại mỏ than Mạo Khê (Quảng Ninh) để tuyên truyền cách mạng."
   },
   {
     "id": "c1_1.1.3_01",
@@ -448,15 +465,15 @@
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
     "difficulty": "nhan-biet",
-    "question": "Chi bộ cộng sản đầu tiên ở Việt Nam được thành lập vào thời gian nào và tại địa điểm nào?",
+    "question": "Chi bộ cộng sản đầu tiên ở Việt Nam tại số nhà 5D phố Hàm Long (Hà Nội) được thành lập vào thời gian nào?",
     "options": [
-      "Tháng 8/1929 tại Phong cảnh Khách lầu ở Nam Kỳ",
-      "Ngày 17/6/1929 tại ngôi nhà số 312, phố Khâm Thiên, Hà Nội",
-      "Tháng 3/1929 tại ngôi nhà số 5D, phố Hàm Long, Hà Nội",
-      "Ngày 6/1/1930 tại Hương Cảng, Trung Quốc"
+      "Tháng 3/1929",
+      "Tháng 5/1929",
+      "Tháng 2/1930",
+      "Tháng 6/1929"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 33 ghi rõ: Ngôi nhà số 5D, Hàm Long, Hà Nội là nơi thành lập chi bộ cộng sản đầu tiên của Việt Nam vào tháng 3/1929."
+    "correctIndex": 0,
+    "explanation": "Tháng 3/1929, chi bộ cộng sản đầu tiên ở Việt Nam được thành lập tại ngôi nhà số 5D phố Hàm Long, Hà Nội."
   },
   {
     "id": "c1_1.1.3_02",
@@ -464,16 +481,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "nhan-biet",
-    "question": "Đông Dương Cộng sản Đảng được thành lập ở Bắc Kỳ vào ngày tháng năm nào và tại địa chỉ nào?",
+    "difficulty": "thong-hieu",
+    "question": "Sự kiện chi bộ cộng sản đầu tiên ở Việt Nam được thành lập vào tháng 3/1929 tại số 5D phố Hàm Long (Hà Nội) phản ánh trực tiếp xu thế nào?",
     "options": [
-      "Tháng 3/1929 tại số 5D Hàm Long, Hà Nội",
-      "Tháng 8/1929 tại số 88 Lê Lợi, Sài Gòn",
-      "Ngày 17/6/1929 tại ngôi nhà số 312 Khâm Thiên, Hà Nội",
-      "Tháng 9/1929 tại Trung Kỳ trên cơ sở Tân Việt Cách mệnh Đảng"
+      "Sự hợp nhất thành công của ba tổ chức cộng sản trong cả nước ngay trong năm 1929",
+      "Sự giải thể hoàn toàn của các phong trào yêu nước tại khu vực Nam Kỳ",
+      "Sự phân hóa tất yếu của Hội Việt Nam Cách mạng Thanh niên theo hướng thành lập Đảng Cộng sản",
+      "Sự chuyển hướng sang hoạt động công khai hợp pháp tại nghị trường Bắc Kỳ"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 34 và Slide 37 nêu rõ: Ngôi nhà số 312 Khâm Thiên, Hà Nội là nơi thành lập Đông Dương Cộng sản Đảng ở Bắc Kỳ vào ngày 17/6/1929."
+    "explanation": "Việc lập chi bộ cộng sản đầu tiên tại 5D Hàm Long (3/1929) phản ánh Hội Việt Nam Cách mạng Thanh niên đã hoàn thành sứ mệnh lịch sử và tất yếu phân hóa để tiến tới thành lập chính đảng cộng sản."
   },
   {
     "id": "c1_1.1.3_03",
@@ -482,15 +499,15 @@
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
     "difficulty": "nhan-biet",
-    "question": "Ba tổ chức cộng sản ra đời nối tiếp nhau ở Việt Nam trong năm 1929 theo đúng trình tự thời gian là những tổ chức nào?",
+    "question": "Tổ chức Đông Dương Cộng sản Đảng chính thức được thành lập vào ngày tháng năm nào và tại địa điểm lịch sử nào ở Hà Nội?",
     "options": [
-      "An Nam Cộng sản Đảng (6/1929), Đông Dương Cộng sản Đảng (8/1929), Đông Dương Cộng sản Liên đoàn (9/1929)",
-      "Đông Dương Cộng sản Liên đoàn (6/1929), Đông Dương Cộng sản Đảng (8/1929), An Nam Cộng sản Đảng (9/1929)",
-      "Hội Việt Nam Cách mạng Thanh niên (6/1929), Hội Tân Việt (8/1929), Đảng Cộng sản Việt Nam (9/1929)",
-      "Đông Dương Cộng sản Đảng (6/1929), An Nam Cộng sản Đảng (8/1929), Đông Dương Cộng sản Liên đoàn (9/1929)"
+      "Tháng 8/1929 tại Khách Lầu (Sài Gòn)",
+      "Tháng 3/1929 tại ngôi nhà số 5D phố Hàm Long",
+      "Ngày 17/6/1929 tại ngôi nhà số 312 phố Khâm Thiên",
+      "Ngày 6/1/1930 tại Hương Cảng (Trung Quốc)"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 34–37 trình bày thứ tự hình thành 3 tổ chức cộng sản năm 1929: Đông Dương Cộng sản Đảng (6/1929, từ Hội VNCMTN), An Nam Cộng sản Đảng (8/1929, từ Hội VNCMTN ở Nam Kỳ tại Phong cảnh Khách lầu) và Đông Dương Cộng sản Liên đoàn (9/1929, từ những người giác ngộ cộng sản trong Hội Tân Việt)."
+    "correctIndex": 2,
+    "explanation": "Ngày 17/6/1929, Đông Dương Cộng sản Đảng chính thức được thành lập ở Bắc Kỳ tại ngôi nhà số 312 phố Khâm Thiên, Hà Nội."
   },
   {
     "id": "c1_1.1.3_04",
@@ -499,15 +516,15 @@
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
     "difficulty": "nhan-biet",
-    "question": "Hội nghị thành lập Đảng Cộng sản Việt Nam diễn ra trong khoảng thời gian nào, tại đâu và với thành phần tham dự gồm những ai?",
+    "question": "Tổ chức An Nam Cộng sản Đảng được tuyên bố thành lập vào tháng 8/1929 tại địa điểm lịch sử nào ở Nam Kỳ?",
     "options": [
-      "Từ 3/2 đến 24/2/1930 tại Quảng Châu (Trung Quốc); gồm 2 đại biểu Tân Việt và 2 đại biểu Quốc tế Cộng sản",
-      "Từ 14 đến 30/10/1930 tại Hương Cảng (Trung Quốc); gồm đại biểu của cả ba tổ chức cộng sản và Tổng Bí thư Trần Phú",
-      "Từ 27 đến 31/3/1935 tại Ma Cao (Trung Quốc); gồm 13 đại biểu các đảng bộ trong và ngoài nước",
-      "Từ 6/1 đến 7/2/1930 tại Hương Cảng (Trung Quốc); gồm 1 đại biểu Quốc tế Cộng sản, 2 đại biểu Đông Dương Cộng sản Đảng và 2 đại biểu An Nam Cộng sản Đảng"
+      "Làng Đình Bảng (Từ Sơn, Bắc Ninh)",
+      "Ngôi nhà số 312 phố Khâm Thiên (Hà Nội)",
+      "Ngôi nhà số 5D phố Hàm Long (Hà Nội)",
+      "Phong cảnh Khách Lầu (Sài Gòn)"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 39 nêu chính xác: Hội nghị thành lập Đảng diễn ra từ ngày 6/1 đến 7/2/1930 tại Hương Cảng – Trung Quốc. Thành phần tham dự gồm: 1 đại biểu của Quốc tế Cộng sản (Nguyễn Ái Quốc), 2 đại biểu của Đông Dương Cộng sản Đảng và 2 đại biểu của An Nam Cộng sản Đảng."
+    "explanation": "Tháng 8/1929, các hội viên tiên tiến của Kỳ bộ Hội Việt Nam Cách mạng Thanh niên Nam Kỳ đã thành lập An Nam Cộng sản Đảng tại Phong cảnh Khách Lầu (Sài Gòn)."
   },
   {
     "id": "c1_1.1.3_05",
@@ -516,15 +533,15 @@
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
     "difficulty": "nhan-biet",
-    "question": "Hội nghị thành lập Đảng (đầu năm 1930) đã thảo luận và thống nhất mấy điểm lớn, trong đó quyết định đặt tên Đảng là gì?",
+    "question": "Tổ chức cộng sản nào ra đời vào tháng 9/1929 trên cơ sở giác ngộ và phân hóa của các đảng viên tiến bộ thuộc Tân Việt Cách mệnh Đảng?",
     "options": [
-      "3 điểm lớn; đặt tên Đảng là Đảng Cộng sản Đông Dương",
-      "4 điểm lớn; đặt tên Đảng là Đảng Lao động Việt Nam",
-      "5 điểm lớn; đặt tên Đảng là Đảng Cộng sản Việt Nam",
-      "6 điểm lớn; đặt tên Đảng là Đông Dương Cộng sản Liên đoàn"
+      "An Nam Cộng sản Đảng",
+      "Đông Dương Cộng sản Đảng",
+      "Đông Dương Cộng sản Liên đoàn",
+      "Đảng Cộng sản Đông Dương"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 39 liệt kê 5 điểm lớn được thống nhất tại Hội nghị thành lập Đảng: (1) Bỏ mọi thành kiến xung đột cũ, thành thật hợp tác thống nhất các nhóm cộng sản; (2) Định tên Đảng là Đảng Cộng sản Việt Nam; (3) Thảo Chính cương và Điều lệ sơ lược của Đảng; (4) Định kế hoạch thống nhất trong nước; (5) Cử Ban Trung ương lâm thời gồm 9 người."
+    "explanation": "Đông Dương Cộng sản Liên đoàn ra đời vào tháng 9/1929 trên cơ sở sự phân hóa và giác ngộ cộng sản của những đảng viên tiên tiến trong Tân Việt Cách mệnh Đảng."
   },
   {
     "id": "c1_1.1.3_06",
@@ -533,15 +550,15 @@
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
     "difficulty": "nhan-biet",
-    "question": "Trong Cương lĩnh chính trị đầu tiên của Đảng (2/1930), phương hướng chiến lược của cách mạng Việt Nam được xác định như thế nào?",
+    "question": "Thứ tự ra đời của ba tổ chức cộng sản ở Việt Nam trong năm 1929 là:",
     "options": [
-      "Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản",
-      "Làm cách mạng tư sản dân quyền theo mô hình cộng hòa tư sản phương Tây",
-      "Chỉ tiến hành thổ địa cách mạng trước, sau khi hoàn thành mới giải phóng dân tộc",
-      "Liên minh với chính phủ Pháp để xây dựng nền quân chủ lập hiến tự trị"
+      "An Nam Cộng sản Đảng, Đông Dương Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn",
+      "Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn",
+      "Đông Dương Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn, An Nam Cộng sản Đảng",
+      "Đông Dương Cộng sản Liên đoàn, Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 42 và Slide 44 trích nguyên văn Chánh cương vắn tắt (2/1930): Phương hướng chiến lược là “Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản”."
+    "correctIndex": 1,
+    "explanation": "Tiến trình thành lập 3 tổ chức cộng sản năm 1929 theo đúng trình tự: Đông Dương Cộng sản Đảng (6/1929), An Nam Cộng sản Đảng (8/1929) và Đông Dương Cộng sản Liên đoàn (9/1929)."
   },
   {
     "id": "c1_1.1.3_07",
@@ -549,16 +566,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Nhiệm vụ về phương diện chính trị được xác định trong Chánh cương vắn tắt của Đảng (2/1930) là gì?",
+    "difficulty": "nhan-biet",
+    "question": "Hội nghị thành lập Đảng Cộng sản Việt Nam (đầu năm 1930) được tổ chức ở đâu?",
     "options": [
-      "Đòi thực dân Pháp mở rộng nghị viện, thả tù chính trị và ban bố quyền tự do báo chí",
-      "Hòa hoãn với quân Tưởng ở miền Bắc và tổ chức kháng chiến chống thực dân Pháp ở miền Nam",
-      "Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến, làm cho nước Nam được hoàn toàn độc lập, dựng ra chính phủ công nông binh và tổ chức quân đội công nông",
-      "Thành lập Mặt trận Việt Minh và phát động chiến tranh du kích giải phóng từng vùng"
+      "Ma Cao – Trung Quốc",
+      "Bắc Kinh – Trung Quốc",
+      "Hương Cảng – Trung Quốc",
+      "Thượng Hải – Trung Quốc"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 42 và Slide 44 trích rõ phần B – Về phương diện chính trị của Chánh cương vắn tắt: (a) Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến; (b) Làm cho nước Nam được hoàn toàn độc lập; (c) Dựng ra Chính phủ công nông binh; (d) Tổ chức ra quân đội công nông."
+    "explanation": "Hội nghị hợp nhất thành lập Đảng họp từ ngày 6/1 đến ngày 7/2/1930 tại Cửu Long (Hương Cảng – Trung Quốc) dưới sự chủ trì của đồng chí Nguyễn Ái Quốc."
   },
   {
     "id": "c1_1.1.3_08",
@@ -566,16 +583,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Về kinh tế và văn hóa - xã hội, Cương lĩnh chính trị đầu tiên (2/1930) đề ra chủ trương cơ bản nào?",
+    "difficulty": "van-dung",
+    "question": "Vì sao Nguyễn Ái Quốc lại lựa chọn Hương Cảng (Trung Quốc) để tổ chức Hội nghị thành lập Đảng đầu năm 1930?",
     "options": [
-      "Phát triển kinh tế hàng hóa nhiều thành phần và thực hiện 3 chương trình mục tiêu lớn",
-      "Ưu tiên phát triển công nghiệp nặng quy mô lớn trên cơ sở hợp tác hóa nông nghiệp",
-      "Giảm tô 25%, xóa thuế thân và mở mang Quốc gia ngân hàng theo chế độ tư nhân",
-      "Tịch thu toàn bộ sản nghiệp lớn của bọn đế quốc giao cho chính phủ công nông binh, thu hết ruộng đất của công chia cho dân cày nghèo; dân chúng tự do tổ chức, nam nữ bình quyền, phổ thông giáo dục theo hướng công nông hóa"
+      "Vì chỉ duy nhất tại Hương Cảng mới có chi bộ cộng sản của Việt Nam hoạt động công khai",
+      "Vì Hương Cảng là trụ sở chính của Ban Chấp hành Quốc tế Cộng sản",
+      "Vì đây là nơi thuộc địa của Anh, nằm ngoài thẩm quyền cai trị của Pháp nên có thể tránh sự truy sát trực tiếp của mật thám Pháp",
+      "Vì chính quyền thực dân Pháp cho phép các tổ chức cộng sản Đông Dương hội họp tại đây"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 44 nêu rõ nhiệm vụ của Cương lĩnh 2/1930: Về kinh tế — tịch thu toàn bộ sản nghiệp lớn của bọn đế quốc giao cho chính phủ công nông binh, thu hết ruộng đất của công chia cho dân cày nghèo...; Về văn hóa - xã hội — dân chúng được tự do tổ chức, nam nữ bình quyền, phổ thông giáo dục theo hướng công nông hóa."
+    "correctIndex": 2,
+    "explanation": "Hương Cảng lúc bấy giờ là thuộc địa của Anh, biệt lập về thẩm quyền cai trị với bộ máy an ninh của thực dân Pháp ở Đông Dương, đảm bảo an toàn và thuận lợi cho các đại biểu từ trong nước sang họp."
   },
   {
     "id": "c1_1.1.3_09",
@@ -583,16 +600,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Trong Cương lĩnh chính trị đầu tiên (2/1930), Đảng xác định thái độ và sách lược như thế nào đối với phú nông, trung tiểu địa chủ và tư bản An Nam chưa rõ mặt phản cách mạng?",
+    "difficulty": "nhan-biet",
+    "question": "Hội nghị hợp nhất thành lập Đảng Cộng sản Việt Nam (đầu năm 1930) được tiến hành dưới sự chủ trì của Nguyễn Ái Quốc với tư cách gì?",
     "options": [
-      "Phải lợi dụng, ít lâu mới làm cho họ đứng trung lập; bộ phận nào đã ra mặt phản cách mạng thì phải đánh đổ",
-      "Xem toàn bộ họ là kẻ thù trực tiếp của cách mạng và phải đánh đổ ngay từ đầu",
-      "Đưa họ làm lực lượng nòng cốt lãnh đạo cuộc cách mạng tư sản dân quyền",
-      "Không liên hệ và không đặt vấn đề phân hóa các tầng lớp này trong quá trình cách mạng"
+      "Đại biểu chính thức của An Nam Cộng sản Đảng ở Nam Kỳ",
+      "Tổng Bí thư lâm thời của Đông Dương Cộng sản Đảng",
+      "Phái viên của Quốc tế Cộng sản có đầy đủ quyền quyết định",
+      "Chủ tịch Ủy ban Dân tộc giải phóng Việt Nam"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 45 trích rõ chủ trương về lực lượng cách mạng trong Cương lĩnh đầu tiên: tập hợp đại bộ phận công nhân, nông dân, dựa vào dân cày nghèo; lôi kéo tiểu tư sản, trí thức, trung nông đi về phe vô sản; còn với phú nông, trung tiểu địa chủ và tư bản An Nam chưa rõ mặt phản cách mạng thì phải lợi dụng, ít lâu mới làm cho họ đứng trung lập; bộ phận nào ra mặt phản cách mạng thì phải đánh đổ."
+    "correctIndex": 2,
+    "explanation": "Nguyễn Ái Quốc chủ trì Hội nghị hợp nhất tại Hương Cảng với tư cách là phái viên của Quốc tế Cộng sản có đầy đủ quyền quyết định mọi vấn đề liên quan đến phong trào cách mạng ở Đông Dương."
   },
   {
     "id": "c1_1.1.3_10",
@@ -600,16 +617,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Về vai trò lãnh đạo cách mạng, Cương lĩnh chính trị đầu tiên của Đảng (2/1930) khẳng định điều gì?",
+    "difficulty": "nhan-biet",
+    "question": "Tổ chức cộng sản nào đã KHÔNG kịp cử đại biểu chính thức tham dự Hội nghị thành lập Đảng đầu năm 1930?",
     "options": [
-      "Liên minh trí thức và tư sản dân tộc là lực lượng lãnh đạo phong trào giải phóng dân tộc",
-      "Giai cấp vô sản là lực lượng lãnh đạo, Đảng là đội tiền phong của vô sản giai cấp phải thu phục đại bộ phận giai cấp mình để lãnh đạo dân chúng",
-      "Giai cấp nông dân là lực lượng đông đảo nhất nên giữ vai trò lãnh đạo tuyệt đối",
-      "Quốc tế Cộng sản trực tiếp điều hành mọi tổ chức quần chúng tại Việt Nam thay cho Đảng trong nước"
+      "Đông Dương Cộng sản Liên đoàn",
+      "Đông Dương Cộng sản Đảng",
+      "An Nam Cộng sản Đảng",
+      "Chi bộ cộng sản số 5D Hàm Long"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 46 trích dẫn Cương lĩnh 2/1930 về lãnh đạo cách mạng: “Giai cấp vô sản là lực lượng lãnh đạo, Đảng là đội tiền phong của vô sản giai cấp phải thu phục cho được đại bộ phận giai cấp mình, phải làm cho giai cấp mình lãnh đạo được dân chúng”."
+    "correctIndex": 0,
+    "explanation": "Tại Hội nghị hợp nhất đầu năm 1930 tại Hương Cảng, Đông Dương Cộng sản Liên đoàn chưa kịp cử đại biểu chính thức tham dự (và được kết nạp vào Đảng ngay sau đó vào ngày 24/2/1930)."
   },
   {
     "id": "c1_1.1.3_11",
@@ -617,16 +634,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "thong-hieu",
-    "question": "Về quan hệ với phong trào cách mạng thế giới, Cương lĩnh chính trị đầu tiên (2/1930) xác định cách mạng Việt Nam phải liên kết đặc biệt mật thiết với lực lượng nào?",
+    "difficulty": "nhan-biet",
+    "question": "Tại Hội nghị hợp nhất thành lập Đảng đầu năm 1930, hai đại biểu đại diện cho An Nam Cộng sản Đảng tham dự là những ai?",
     "options": [
-      "Liên kết chặt chẽ với các chính phủ tư sản phương Tây nhằm gây sức ép ngoại giao",
-      "Liên kết với các dân tộc bị áp bức và quần chúng vô sản trên toàn thế giới, nhất là quần chúng vô sản Pháp",
-      "Chỉ dựa hoàn toàn vào sức mình, không đặt vấn đề đoàn kết với phong trào quốc tế",
-      "Liên minh quân sự với các nước đế quốc đối thủ của Pháp tại khu vực châu Á - Thái Bình Dương"
+      "Đồng chí Trần Phú và đồng chí Lê Hồng Phong",
+      "Đồng chí Trịnh Đình Cửu và đồng chí Nguyễn Đức Cảnh",
+      "Đồng chí Châu Văn Liêm và đồng chí Nguyễn Thiệu",
+      "Đồng chí Ngô Gia Tự và đồng chí Nguyễn Văn Cừ"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 47 nêu rõ: Cách mạng Việt Nam là một bộ phận của cách mạng thế giới: “Liên kết với những dân tộc bị áp bức và quần chúng vô sản trên toàn thế giới, nhất là quần chúng vô sản Pháp”."
+    "correctIndex": 2,
+    "explanation": "Hai đại biểu chính thức của An Nam Cộng sản Đảng dự Hội nghị Hương Cảng là đồng chí Châu Văn Liêm và đồng chí Nguyễn Thiệu (phía Đông Dương Cộng sản Đảng là Trịnh Đình Cửu và Nguyễn Đức Cảnh)."
   },
   {
     "id": "c1_1.1.3_12",
@@ -634,16 +651,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "van-dung",
-    "question": "Vì sao tại Hội nghị thành lập Đảng (6/1 – 7/2/1930), điểm đầu tiên được đưa ra bàn thảo là “bỏ mọi thành kiến xung đột cũ, thành thật hợp tác để thống nhất các nhóm cộng sản ở Đông Dương”?",
+    "difficulty": "nhan-biet",
+    "question": "Tại Hội nghị hợp nhất thành lập Đảng (đầu năm 1930), các đại biểu đã nhất trí cử ra cơ quan lãnh đạo đầu tiên nào của Đảng?",
     "options": [
-      "Vì Đông Dương Cộng sản Liên đoàn đã chiếm ưu thế tuyệt đối và bác bỏ hai tổ chức còn lại",
-      "Vì các tổ chức cộng sản năm 1929 đã tự giải tán nên cần thành lập lại từ đầu",
-      "Vì thực dân Pháp yêu cầu các nhóm chính trị phải hợp nhất mới được ra báo công khai",
-      "Vì ba tổ chức cộng sản ra đời năm 1929 hoạt động riêng rẽ, tranh giành ảnh hưởng, đe dọa gây chia rẽ nghiêm trọng phong trào cách mạng trong nước"
+      "Ban Chấp hành Trung ương lâm thời gồm 9 người (trong đó có 2 đại biểu chi bộ cộng sản Trung Quốc ở Đông Dương)",
+      "Ban Chấp hành Trung ương chính thức gồm 15 ủy viên do Trần Phú làm Tổng Bí thư",
+      "Ủy ban Khởi nghĩa toàn quốc gồm 5 ủy viên trực tiếp chỉ huy vũ trang",
+      "Tổng bộ Việt Minh gồm 7 thành viên đại diện ba kỳ"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 37 và Slide 39 cho thấy năm 1929 xuất hiện đồng thời 3 tổ chức cộng sản ở ba miền (Đông Dương CSĐ, An Nam CSĐ, Đông Dương CSLĐ) hoạt động phân tán, xung đột ảnh hưởng. Do đó, yêu cầu cấp bách số 1 tại Hội nghị Hương Cảng là xóa bỏ thành kiến xung đột cũ để hợp nhất thành một chính đảng duy nhất."
+    "correctIndex": 0,
+    "explanation": "Điểm thứ 5 trong 5 điểm lớn của Hội nghị thành lập Đảng (Slide 39) quyết định cử một Ban Trung ương lâm thời gồm 9 người, trong đó có 2 đại biểu chi bộ cộng sản Trung Quốc ở Đông Dương."
   },
   {
     "id": "c1_1.1.3_13",
@@ -651,16 +668,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "van-dung",
-    "question": "Điểm sáng tạo nổi bật trong tư tưởng tập hợp lực lượng cách mạng của Cương lĩnh chính trị đầu tiên (2/1930) là gì?",
+    "difficulty": "nhan-biet",
+    "question": "Theo Điều lệ vắn tắt được thông qua tại Hội nghị thành lập Đảng (đầu năm 1930), thời gian dự bị để kết nạp chính thức vào Đảng đối với giai cấp thợ thuyền (công nhân) là bao lâu?",
     "options": [
-      "Chỉ tập hợp duy nhất hai giai cấp công nhân và nông dân, loại trừ mọi tầng lớp khác",
-      "Biết phân hóa kẻ thù và mở rộng đoàn kết toàn thể dân tộc: lấy công - nông làm gốc, lôi kéo tiểu tư sản, trí thức, trung nông, đồng thời tranh thủ trung lập hóa phú nông, trung tiểu địa chủ và tư bản dân tộc chưa phản cách mạng",
-      "Đặt giai cấp tư sản dân tộc ngang hàng với giai cấp vô sản trong vai trò lãnh đạo Đảng",
-      "Tạm gác hoàn toàn mục tiêu giải phóng dân tộc để tập trung liên minh với nông dân thế giới"
+      "18 tháng",
+      "6 tháng",
+      "12 tháng",
+      "3 tháng"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 45 nhấn mạnh khẩu hiệu tổng quát “TOÀN THỂ DÂN TỘC”: Cương lĩnh 2/1930 không rơi vào biệt phái giai cấp mà biết dựa vào công - nông làm nền tảng, lôi kéo tiểu tư sản, trí thức, trung nông và phân hóa, lợi dụng, trung lập hóa bộ phận phú nông, trung tiểu địa chủ, tư bản An Nam chưa phản cách mạng."
+    "correctIndex": 3,
+    "explanation": "Theo Điều lệ vắn tắt của Đảng Cộng sản Việt Nam (2/1930), thời gian dự bị đối với giai cấp công nhân (thợ thuyền) là 3 tháng để ưu tiên mở rộng thành phần giai cấp tiên phong trong Đảng."
   },
   {
     "id": "c1_1.1.3_14",
@@ -668,16 +685,84 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.3",
     "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
-    "difficulty": "van-dung",
-    "question": "Chi tiết nào sau đây là ĐÚNG về nguồn gốc ra đời của ba tổ chức cộng sản năm 1929 ở Việt Nam?",
+    "difficulty": "nhan-biet",
+    "question": "“Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản” là nội dung cốt lõi trong văn kiện nào của Đảng?",
     "options": [
-      "Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng đều hình thành từ Hội Việt Nam Cách mạng Thanh niên; Đông Dương Cộng sản Liên đoàn hình thành từ Hội Tân Việt",
-      "Cả ba tổ chức cộng sản đều trực tiếp tách ra từ Hội Tân Việt Cách mạng Đảng",
-      "Đông Dương Cộng sản Đảng tách từ Hội Tân Việt; còn An Nam Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn tách từ Tâm Tâm Xã",
-      "Đông Dương Cộng sản Liên đoàn là tổ chức ra đời sớm nhất (3/1929) rồi phân hóa thành hai đảng còn lại"
+      "Luận cương chính trị tháng 10/1930",
+      "Nghị quyết Hội nghị Trung ương tháng 7/1936",
+      "Nghị quyết Hội nghị Trung ương tháng 5/1941",
+      "Cương lĩnh chính trị đầu tiên (tháng 2/1930)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Câu nói trên trích nguyên văn từ bản Chánh cương vắn tắt (thuộc Cương lĩnh chính trị đầu tiên tháng 2/1930) do Nguyễn Ái Quốc soạn thảo tại Hội nghị thành lập Đảng."
+  },
+  {
+    "id": "c1_1.1.3_15",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.3",
+    "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
+    "difficulty": "thong-hieu",
+    "question": "Chính cương vắn tắt và Sách lược vắn tắt do Hội nghị thành lập Đảng thông qua (2/1930) đặt nhiệm vụ chiến lược nào sau đây lên hàng đầu?",
+    "options": [
+      "Chống phong kiến, chia ruộng đất triệt để",
+      "Chống đế quốc, giành độc lập dân tộc",
+      "Chống giai cấp tư sản dân tộc và tiểu tư sản",
+      "Đấu tranh nghị trường đòi quyền tự do báo chí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cương lĩnh chính trị đầu tiên (2/1930) xác định rõ mục tiêu đánh đổ đế quốc Pháp và bọn phong kiến, trong đó đặt nhiệm vụ chống đế quốc, giải phóng dân tộc lên hàng đầu."
+  },
+  {
+    "id": "c1_1.1.3_16",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.3",
+    "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
+    "difficulty": "thong-hieu",
+    "question": "Trong Cương lĩnh chính trị đầu tiên của Đảng (2/1930), lực lượng của cách mạng Việt Nam được xác định bao gồm:",
+    "options": [
+      "Chỉ riêng hai giai cấp công nhân và nông dân",
+      "Công nhân, nông dân và tiểu tư sản",
+      "Công nhân, nông dân và tư sản dân tộc",
+      "Toàn thể dân tộc Việt Nam"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cương lĩnh tháng 2/1930 chủ trương đoàn kết toàn thể dân tộc Việt Nam: liên minh công – nông làm nòng cốt, đồng thời lôi kéo tiểu tư sản, trí thức, trung nông và tranh thủ, trung lập hóa phú nông, trung tiểu địa chủ, tư bản dân tộc chưa phản cách mạng."
+  },
+  {
+    "id": "c1_1.1.3_17",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.3",
+    "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
+    "difficulty": "thong-hieu",
+    "question": "Trong Sách lược vắn tắt (2/1930), Đảng xác định thái độ sách lược đối với phú nông, trung, tiểu địa chủ và tư bản An Nam (khi chưa rõ mặt phản cách mạng) là gì?",
+    "options": [
+      "Không liên hệ và loại bỏ họ khỏi mọi hoạt động xã hội",
+      "Xem toàn bộ là kẻ thù trực tiếp và đánh đổ ngay từ đầu",
+      "Giao cho họ giữ vai trò lực lượng lãnh đạo cách mạng",
+      "Lợi dụng, ít lâu mới làm cho họ đứng trung lập"
+    ],
+    "correctIndex": 3,
+    "explanation": "Slide 45 trích rõ Sách lược vắn tắt (2/1930): đối với phú nông, trung tiểu địa chủ và tư bản An Nam chưa rõ mặt phản cách mạng thì phải lợi dụng, ít lâu mới làm cho họ đứng trung lập; bộ phận nào ra mặt phản cách mạng thì phải đánh đổ."
+  },
+  {
+    "id": "c1_1.1.3_18",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.1.3",
+    "sectionTitle": "Thành lập Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng",
+    "difficulty": "thong-hieu",
+    "question": "Vị trí của Đảng Cộng sản Việt Nam được xác định trong bản Cương lĩnh chính trị đầu tiên (2/1930) là gì?",
+    "options": [
+      "Là đội tiền phong của giai cấp vô sản, giữ vai trò lãnh đạo cách mạng Việt Nam",
+      "Là tổ chức phối hợp ngang hàng với các đảng phái tư sản yêu nước",
+      "Là cơ quan tuyên truyền văn hóa trực thuộc Hội Việt Nam Cách mạng Thanh niên",
+      "Là một bộ phận hành chính nằm trong nghị viện Đông Dương"
     ],
     "correctIndex": 0,
-    "explanation": "Sơ đồ Slide 36 và Slide 37 thể hiện rõ: Từ Hội Việt Nam Cách mạng Thanh niên hình thành Đông Dương Cộng sản Đảng (6/1929) và An Nam Cộng sản Đảng (8/1929); còn từ những người giác ngộ cộng sản trong Hội Tân Việt hình thành Đông Dương Cộng sản Liên đoàn (9/1929)."
+    "explanation": "Cương lĩnh tháng 2/1930 khẳng định vai trò lãnh đạo của Đảng: “Giai cấp vô sản là lực lượng lãnh đạo, Đảng là đội tiền phong của vô sản giai cấp phải thu phục cho được đại bộ phận giai cấp mình, phải làm cho giai cấp mình lãnh đạo được dân chúng”."
   },
   {
     "id": "c1_1.1.4_01",
@@ -686,15 +771,15 @@
     "sectionId": "1.1.4",
     "sectionTitle": "Ý nghĩa lịch sử của việc thành lập Đảng Cộng sản Việt Nam và Cương lĩnh đầu tiên",
     "difficulty": "nhan-biet",
-    "question": "Theo sơ đồ khái quát sự ra đời của Đảng Cộng sản Việt Nam, Đảng ra đời là kết quả của sự kết hợp giữa ba nhân tố nào?",
+    "question": "Điểm sáng tạo nổi bật của Nguyễn Ái Quốc về quy luật ra đời của Đảng Cộng sản Việt Nam là khẳng định Đảng ra đời từ sự kết hợp của ba yếu tố nào?",
     "options": [
-      "Chủ nghĩa Mác - Lênin, phong trào nông dân và triều đình phong kiến cải cách",
-      "Chủ nghĩa Mác - Lênin, phong trào công nhân và phong trào yêu nước Việt Nam",
-      "Quốc tế Cộng sản, phong trào tư sản dân tộc và phong trào Cần Vương",
-      "Phong trào công nhân, phong trào tiểu tư sản trí thức và liên minh quân sự quốc tế"
+      "Chủ nghĩa Mác – Lênin với phong trào công nhân và phong trào yêu nước",
+      "Chủ nghĩa Mác – Lênin với phong trào yêu nước",
+      "Chủ nghĩa Mác – Lênin với phong trào công nhân",
+      "Chủ nghĩa Mác – Lênin với phong trào đấu tranh theo khuynh hướng phong kiến"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 50 khái quát rõ quy luật ra đời đặc thù của Đảng Cộng sản Việt Nam là sự kết hợp của 3 yếu tố: Chủ nghĩa Mác - Lênin + Phong trào công nhân + Phong trào yêu nước."
+    "correctIndex": 0,
+    "explanation": "Đảng Cộng sản Việt Nam ra đời là sản phẩm của sự kết hợp nhuần nhuyễn giữa ba nhân tố: chủ nghĩa Mác – Lênin, phong trào công nhân và phong trào yêu nước Việt Nam."
   },
   {
     "id": "c1_1.1.4_02",
@@ -702,16 +787,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.1.4",
     "sectionTitle": "Ý nghĩa lịch sử của việc thành lập Đảng Cộng sản Việt Nam và Cương lĩnh đầu tiên",
-    "difficulty": "nhan-biet",
-    "question": "Ai là người sáng lập và rèn luyện Đảng Cộng sản Việt Nam, đồng thời trực tiếp chủ trì Hội nghị hợp nhất và soạn thảo Cương lĩnh chính trị đầu tiên?",
+    "difficulty": "thong-hieu",
+    "question": "Ý nghĩa lịch sử lớn nhất của sự ra đời Đảng Cộng sản Việt Nam vào đầu năm 1930 là gì?",
     "options": [
-      "Đồng chí Trần Phú",
-      "Đồng chí Lê Hồng Phong",
-      "Chủ tịch Hồ Chí Minh (Nguyễn Ái Quốc)",
-      "Đồng chí Nguyễn Văn Cừ"
+      "Tạo bước ngoặt vĩ đại, mở ra những bước nhảy vọt cho tiến trình cách mạng Việt Nam",
+      "Chấm dứt ngay lập tức sự thống trị của thực dân Pháp trên toàn cõi Đông Dương",
+      "Hoàn thành triệt để nhiệm vụ cách mạng ruộng đất cho giai cấp nông dân năm 1930",
+      "Đưa Việt Nam thiết lập quan hệ ngoại giao chính thức với các nước phương Tây"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 49 khẳng định: Chủ tịch Hồ Chí Minh (Nguyễn Ái Quốc) là người sáng lập và rèn luyện Đảng ta, người trực tiếp chuẩn bị các điều kiện và chủ trì Hội nghị thành lập Đảng đầu năm 1930."
+    "correctIndex": 0,
+    "explanation": "Sự ra đời của Đảng Cộng sản Việt Nam (2/1930) chấm dứt thời kỳ khủng hoảng về đường lối và giai cấp lãnh đạo, tạo bước ngoặt vĩ đại cho những bước nhảy vọt của cách mạng Việt Nam."
   },
   {
     "id": "c1_1.1.4_03",
@@ -720,66 +805,15 @@
     "sectionId": "1.1.4",
     "sectionTitle": "Ý nghĩa lịch sử của việc thành lập Đảng Cộng sản Việt Nam và Cương lĩnh đầu tiên",
     "difficulty": "thong-hieu",
-    "question": "Ý nghĩa hàng đầu của Cương lĩnh chính trị đầu tiên của Đảng (2/1930) đối với yêu cầu lịch sử của dân tộc Việt Nam là gì?",
+    "question": "Đối với tiến trình lịch sử dân tộc từ năm 1930 trở đi, sự ra đời và lãnh đạo của Đảng Cộng sản Việt Nam có vai trò:",
     "options": [
-      "Đáp ứng được yêu cầu cơ bản và cấp bách của nhân dân ta, phù hợp với xu thế phát triển của thời đại lịch sử mới",
-      "Hoàn thành ngay việc xóa bỏ chế độ phong kiến và phân chia lại ruộng đất trên cả nước",
-      "Thiết lập quan hệ ngoại giao bình đẳng giữa nước Việt Nam mới với các nước phương Tây",
-      "Chấm dứt ngay lập tức sự thống trị của thực dân Pháp tại Bắc Kỳ và Trung Kỳ"
-    ],
-    "correctIndex": 0,
-    "explanation": "Slide 51 tổng kết ý nghĩa thứ nhất của Cương lĩnh đầu tiên: Đáp ứng được yêu cầu cơ bản và cấp bách của nhân dân ta, phù hợp với xu thế phát triển của thời đại lịch sử mới."
-  },
-  {
-    "id": "c1_1.1.4_04",
-    "chapter": 1,
-    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
-    "sectionId": "1.1.4",
-    "sectionTitle": "Ý nghĩa lịch sử của việc thành lập Đảng Cộng sản Việt Nam và Cương lĩnh đầu tiên",
-    "difficulty": "thong-hieu",
-    "question": "Về mặt lý luận và thực tiễn cách mạng, Cương lĩnh chính trị đầu tiên (2/1930) mang lại giá trị nổi bật nào sau đây?",
-    "options": [
-      "Sao chép nguyên xi mô hình cách mạng công nghiệp ở Tây Âu áp dụng cho Việt Nam",
-      "Trở thành ngọn cờ đoàn kết toàn Đảng, toàn dân và thể hiện sự nhận thức, vận dụng đúng đắn chủ nghĩa Mác - Lênin vào thực tiễn cách mạng Việt Nam",
-      "Xác định cuộc đấu tranh nghị trường là con đường duy nhất để giành độc lập dân tộc",
-      "Đặt vấn đề cải tạo xã hội chủ nghĩa lên trước nhiệm vụ giải phóng dân tộc"
+      "Chỉ có ý nghĩa trong giai đoạn đấu tranh chống thực dân Pháp 1930 – 1945",
+      "Là nhân tố hàng đầu quyết định mọi thắng lợi của cách mạng Việt Nam",
+      "Chủ yếu làm nhiệm vụ hỗ trợ phong trào đấu tranh nghị trường ở Đông Dương",
+      "Chỉ giữ vai trò tổ chức phong trào công nhân tại các đô thị lớn"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 51 khẳng định hai ý nghĩa sâu sắc tiếp theo của Cương lĩnh đầu tiên: (2) Trở thành ngọn cờ đoàn kết toàn Đảng, toàn dân; (3) Thể hiện sự nhận thức, vận dụng đúng đắn chủ nghĩa Mác - Lênin vào thực tiễn cách mạng Việt Nam."
-  },
-  {
-    "id": "c1_1.1.4_05",
-    "chapter": 1,
-    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
-    "sectionId": "1.1.4",
-    "sectionTitle": "Ý nghĩa lịch sử của việc thành lập Đảng Cộng sản Việt Nam và Cương lĩnh đầu tiên",
-    "difficulty": "thong-hieu",
-    "question": "Gắn liền với biểu tượng cách mạng của Đảng và dân tộc được giới thiệu trong bài học, Quốc kỳ Việt Nam (cờ đỏ sao vàng) xuất hiện gắn với sự kiện nào và do ai vẽ?",
-    "options": [
-      "Hội nghị Xứ ủy Nam Kỳ (khởi nghĩa Nam Kỳ) do Nguyễn Hữu Tiến vẽ",
-      "Hội nghị thành lập Đảng năm 1930 do Nguyễn Ái Quốc thiết kế",
-      "Đại hội lần thứ nhất của Đảng tại Ma Cao năm 1935 do Lê Hồng Phong vẽ",
-      "Hội nghị toàn quốc tại Tân Trào tháng 8/1945 do Võ Nguyên Giáp vẽ"
-    ],
-    "correctIndex": 0,
-    "explanation": "Slide 49 giới thiệu song song Đảng kỳ và Quốc kỳ, trong đó chú thích rõ: Quốc kỳ gắn với Hội nghị Xứ ủy Nam Kỳ (khởi nghĩa Nam Kỳ) do đồng chí Nguyễn Hữu Tiến vẽ."
-  },
-  {
-    "id": "c1_1.1.4_06",
-    "chapter": 1,
-    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
-    "sectionId": "1.1.4",
-    "sectionTitle": "Ý nghĩa lịch sử của việc thành lập Đảng Cộng sản Việt Nam và Cương lĩnh đầu tiên",
-    "difficulty": "van-dung",
-    "question": "Sự ra đời của Đảng Cộng sản Việt Nam đầu năm 1930 mang điểm đặc thù nào so với quy luật ra đời phổ biến của nhiều Đảng Cộng sản ở các nước tư bản phát triển phương Tây?",
-    "options": [
-      "Ra đời sớm hơn khi giai cấp công nhân chưa hề xuất hiện trong xã hội",
-      "Bên cạnh sự kết hợp chủ nghĩa Mác - Lênin với phong trào công nhân, còn có sự hòa quyện chặt chẽ với phong trào yêu nước sâu rộng của một nước thuộc địa",
-      "Chỉ kết hợp giữa phong trào nông dân và tri thức phong kiến mà không gắn với phong trào công nhân",
-      "Ra đời từ sự chuyển hóa trực tiếp của các đảng phái nghị trường tư sản"
-    ],
-    "correctIndex": 1,
-    "explanation": "Từ Slide 21 và Slide 50, ở các nước tư bản phương Tây, Đảng Cộng sản thường là sự kết hợp giữa chủ nghĩa Mác - Lênin với phong trào công nhân; còn ở nước thuộc địa như Việt Nam, Đảng Cộng sản Việt Nam ra đời là sản phẩm của sự kết hợp 3 nhân tố: chủ nghĩa Mác - Lênin, phong trào công nhân và phong trào yêu nước."
+    "explanation": "Sự ra đời của Đảng chấm dứt khủng hoảng lãnh đạo, và sự lãnh đạo đúng đắn của Đảng trở thành nhân tố hàng đầu quyết định mọi thắng lợi của cách mạng Việt Nam."
   },
   {
     "id": "c1_1.2.1_01",
@@ -787,16 +821,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "nhan-biet",
-    "question": "Cao trào Xô Viết – Nghệ Tĩnh (1930 – 1931) được mở đầu bằng sự kiện nào?",
+    "difficulty": "van-dung",
+    "question": "Nguyên nhân chủ yếu và có ý nghĩa quyết định nhất dẫn đến sự bùng nổ và phát triển của cao trào cách mạng 1930 – 1931 là gì?",
     "options": [
-      "Cuộc tổng bãi công của công nhân xưởng Ba Son Sài Gòn ngày 1/5/1930",
-      "Cuộc khởi nghĩa vũ trang của binh lính tại thành cổ Nghệ An ngày 19/5/1930",
-      "Cuộc mít tinh lớn tại khu Đấu Xảo Hà Nội ngày 1/5/1930",
-      "Cuộc biểu tình ngày 1/5/1930 của công nhân khu công nghiệp Bến Thủy và nông dân 5 xã ven thành phố Vinh"
+      "Tác động tiêu cực của cuộc khủng hoảng kinh tế thế giới 1929 – 1933",
+      "Chính sách khủng bố trắng khốc liệt của thực dân Pháp",
+      "Chính sách tăng cường vơ vét, bóc lột của thực dân Pháp",
+      "Sự lãnh đạo kịp thời, thống nhất của Đảng Cộng sản Việt Nam"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 53 nêu rõ: Phong trào Xô Viết – Nghệ Tĩnh mở đầu bằng cuộc biểu tình ngày 1/5/1930 của công nhân khu công nghiệp Bến Thủy và nông dân 5 xã ven thành phố Vinh, dưới sự lãnh đạo của Xứ ủy Trung Kỳ của Đảng Cộng sản Việt Nam."
+    "explanation": "Khủng hoảng kinh tế và sự đàn áp bóc lột của Pháp là nguyên nhân sâu xa, nhưng sự ra đời và lãnh đạo duy nhất, đúng đắn của Đảng Cộng sản Việt Nam là nguyên nhân chủ quan quyết định nhất làm bùng nổ cao trào 1930–1931."
   },
   {
     "id": "c1_1.2.1_02",
@@ -805,15 +839,15 @@
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
     "difficulty": "nhan-biet",
-    "question": "Ai là người được giao soạn thảo Luận cương chính trị tháng 10/1930 và trở thành Tổng Bí thư đầu tiên của Đảng (1930 – 1931)?",
+    "question": "Sự kiện lịch sử nào được xem là mốc mở đầu cho cao trào cách mạng 1930 – 1931 ở nước ta?",
     "options": [
-      "Đồng chí Lê Hồng Phong",
-      "Đồng chí Hà Huy Tập",
-      "Đồng chí Trần Phú",
-      "Đồng chí Nguyễn Văn Cừ"
+      "Cuộc bãi công của công nhân xưởng Ba Son Sài Gòn tháng 8/1925",
+      "Cuộc biểu tình ngày 1/5/1930 của công nhân khu công nghiệp Bến Thủy và nông dân 5 xã ven thành phố Vinh",
+      "Cuộc mít tinh ngày 1/5/1938 tại khu Đấu Xảo Hà Nội",
+      "Cuộc khởi nghĩa vũ trang của nhân dân Bắc Sơn tháng 9/1940"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 57 và Slide 62 cho biết: Tháng 4/1930, đồng chí Trần Phú từ Mátxcơva về nước, được bầu vào BCH Trung ương lâm thời, được giao soạn thảo Luận cương chính trị tháng 10/1930 và trở thành Tổng Bí thư đầu tiên của Đảng (1930–1931)."
+    "correctIndex": 1,
+    "explanation": "Slide 53 nêu rõ: Cao trào Xô viết – Nghệ Tĩnh mở đầu bằng cuộc biểu tình ngày 1/5/1930 của công nhân khu công nghiệp Bến Thủy và nông dân 5 xã ven thành phố Vinh dưới sự lãnh đạo của Xứ ủy Trung Kỳ."
   },
   {
     "id": "c1_1.2.1_03",
@@ -822,15 +856,15 @@
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
     "difficulty": "nhan-biet",
-    "question": "Tại Hội nghị Trung ương tháng 10/1930, cùng với việc thông qua Luận cương chính trị mới, Đảng ta đã quyết định đổi tên thành gì?",
+    "question": "Mục tiêu đấu tranh trực tiếp trong cao trào cách mạng 1930 – 1931 là gì?",
     "options": [
-      "Đảng Lao động Việt Nam",
-      "Đảng Cộng sản Đông Dương",
-      "Đông Dương Cộng sản Liên đoàn",
-      "Mặt trận Dân chủ Đông Dương"
+      "Chống đế quốc và phát xít Pháp – Nhật, đòi độc lập dân tộc",
+      "Chống bọn phản động thuộc địa và tay sai, đòi tự do, dân chủ, cơm áo, hòa bình",
+      "Chống phát xít, chống chiến tranh đế quốc, bảo vệ hòa bình",
+      "Chống đế quốc và phong kiến, đòi độc lập dân tộc và ruộng đất cho dân cày"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 58 nêu hai nội dung lớn của Hội nghị tháng 10/1930: Thông qua Luận cương chính trị mới và đổi tên Đảng Cộng sản Việt Nam thành Đảng Cộng sản Đông Dương."
+    "correctIndex": 3,
+    "explanation": "Mục tiêu trực tiếp của cao trào 1930–1931 là chống đế quốc và phong kiến tay sai, đấu tranh đòi độc lập cho dân tộc và ruộng đất cho dân cày."
   },
   {
     "id": "c1_1.2.1_04",
@@ -839,15 +873,15 @@
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
     "difficulty": "nhan-biet",
-    "question": "Đại hội lần thứ nhất của Đảng Cộng sản Đông Dương diễn ra vào thời gian nào, ở đâu và bầu ai làm Tổng Bí thư?",
+    "question": "Sự kiện nào đánh dấu đỉnh cao của cao trào cách mạng 1930 – 1931 ở Việt Nam?",
     "options": [
-      "Ngày 27 – 31/3/1935 tại Ma Cao (Trung Quốc); bầu đồng chí Lê Hồng Phong làm Tổng Bí thư",
-      "Ngày 6/1 – 7/2/1930 tại Hương Cảng (Trung Quốc); bầu đồng chí Trần Phú làm Tổng Bí thư",
-      "Tháng 7/1936 tại Thượng Hải (Trung Quốc); bầu đồng chí Hà Huy Tập làm Tổng Bí thư",
-      "Ngày 11 – 19/2/1935 tại Tân Trào (Tuyên Quang); bầu đồng chí Trường Chinh làm Tổng Bí thư"
+      "Cuộc tổng bãi công của công nhân nhà máy xe lửa Trường Thi",
+      "Sự hình thành chính quyền Xô viết tại một số xã, huyện thuộc Nghệ An và Hà Tĩnh",
+      "Sự ra đời của Mặt trận Dân chủ Đông Dương tại Hà Nội",
+      "Hội nghị toàn quốc của Đảng tại Ma Cao (Trung Quốc)"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 66 và Slide 68 nêu rõ: Đại hội lần thứ nhất Đảng Cộng sản Đông Dương họp từ ngày 27 đến 31/3/1935 tại Ma Cao (Trung Quốc), bầu đồng chí Lê Hồng Phong làm Tổng Bí thư (1935–1936) và bầu đoàn đại biểu dự Đại hội VII Quốc tế Cộng sản."
+    "correctIndex": 1,
+    "explanation": "Đỉnh cao của cao trào cách mạng 1930–1931 là sự ra đời của chính quyền cách mạng công – nông đầu tiên theo hình thức Xô viết ở một số xã, huyện thuộc Nghệ An và Hà Tĩnh."
   },
   {
     "id": "c1_1.2.1_05",
@@ -855,16 +889,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "thong-hieu",
-    "question": "Hoàn cảnh lịch sử quốc tế và trong nước nào trực tiếp thúc đẩy bùng nổ phong trào cách mạng 1930 – 1931 ở Việt Nam?",
+    "difficulty": "nhan-biet",
+    "question": "Trong cao trào cách mạng 1930 – 1931, chính quyền cách mạng Xô viết ở Nghệ An và Hà Tĩnh được tổ chức dưới hình thức cơ sở nào của quần chúng?",
     "options": [
-      "Chiến tranh thế giới thứ hai bùng nổ, phát xít Nhật tiến vào Đông Dương bắt tay với Pháp",
-      "Mặt trận Nhân dân Pháp lên cầm quyền và nới lỏng quyền tự do dân chủ ở thuộc địa",
-      "Khủng hoảng kinh tế 1929 – 1933 ở các nước TBCN khiến Pháp tăng cường đàn áp, bóc lột thuộc địa; Liên Xô thắng lợi trong CNH XHCN; Đảng Cộng sản Việt Nam vừa ra đời đã giành được uy tín",
-      "Phát xít Đức đầu hàng Đồng minh vô điều kiện tạo ra khoảng trống quyền lực ở Đông Dương"
+      "Ủy ban Dân tộc giải phóng xã do Mặt trận Việt Minh chỉ đạo",
+      "Xã bộ nông và Thôn bộ nông do tổ chức Nông hội (Nông hội đỏ) lãnh đạo",
+      "Hội đồng nhân dân các cấp bầu qua Tổng tuyển cử phổ thông",
+      "Ủy ban hành động thu thập dân nguyện của Đông Dương Đại hội"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 52 tóm tắt 3 yếu tố hoàn cảnh lịch sử của phong trào 1930–1931: (1) Khủng hoảng kinh tế 1929–1933 ở các nước TBCN khiến đế quốc tăng cường đàn áp, bóc lột thuộc địa; (2) Liên Xô thắng lợi trong công cuộc CNH XHCN; (3) Đảng Cộng sản Việt Nam vừa ra đời đã giành được uy tín lãnh đạo."
+    "correctIndex": 1,
+    "explanation": "Slide 53 và Slide 55 cho biết dưới sự lãnh đạo của chi bộ Đảng, tổ chức nông hội (Xã bộ nông, Thôn bộ nông) đã nắm chính quyền quản lý xã hội theo hình thức Xô viết."
   },
   {
     "id": "c1_1.2.1_06",
@@ -872,16 +906,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "thong-hieu",
-    "question": "Chính quyền Xô Viết thành lập ở một số xã, huyện thuộc Nghệ An và Hà Tĩnh (1930 – 1931) đã thực hiện những cải cách tiến bộ nào trên các lĩnh vực?",
+    "difficulty": "nhan-biet",
+    "question": "Chính quyền cách mạng Xô viết Nghệ – Tĩnh (1930 – 1931) tồn tại và thực thi cải cách trong khoảng thời gian bao lâu trước khi bị thực dân Pháp đàn áp?",
     "options": [
-      "Chỉ tập trung xây dựng nhà máy cơ khí nặng và mở rộng giao thương quốc tế",
-      "Duy trì nguyên bộ máy hương lý cũ và chỉ vận động nhân dân đấu tranh nghị trường",
-      "Ban bố quyền tự do dân chủ, xóa luật lệ bất công; chia lại ruộng đất công, giảm tô, xóa nợ, bãi bỏ thuế vô lý; bài trừ mê tín dị đoan, tổ chức học chữ Quốc ngữ",
-      "Ký hiệp ước hòa hoãn với chính quyền thực dân Pháp để giữ vùng tự trị"
+      "Khoảng 2 đến 3 tuần",
+      "Khoảng 1 đến 2 năm",
+      "Khoảng 4 đến 5 tháng",
+      "Suốt giai đoạn 1930 – 1935"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 54 trình bày chi tiết cải cách của chính quyền Xô Viết trên 3 mặt: Chính trị (ban bố quyền tự do dân chủ, xóa luật lệ bất công); Kinh tế (chia lại ruộng đất công hợp lý, giảm tô, xóa nợ, bỏ thuế vô lý, đắp đê phòng lụt); Văn hóa - xã hội (bài trừ mê tín dị đoan, tệ nạn xã hội, tổ chức học chữ Quốc ngữ, đọc sách báo cách mạng)."
+    "explanation": "Slide 53 ghi rõ các chính quyền Xô viết Nghệ – Tĩnh đã thực hiện nhiều chính sách tiến bộ về chính trị, kinh tế, văn hóa nhưng chỉ tồn tại được khoảng 4 đến 5 tháng trước khi bị thực dân Pháp đàn áp."
   },
   {
     "id": "c1_1.2.1_07",
@@ -889,16 +923,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "thong-hieu",
-    "question": "Ý nghĩa lịch sử to lớn của cao trào cách mạng 1930 – 1931 và Xô Viết – Nghệ Tĩnh đối với tiến trình cách mạng Việt Nam là gì?",
+    "difficulty": "nhan-biet",
+    "question": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng (tháng 10/1930) tại Hương Cảng do ai chủ trì và thông qua quyết định lớn nào?",
     "options": [
-      "Giành chính quyền trên phạm vi toàn quốc và thành lập nước Việt Nam Dân chủ Cộng hòa",
-      "Là cao trào đầu tiên do Đảng lãnh đạo, mang tính dân tộc và giai cấp quyết liệt, lần đầu xuất hiện chính quyền công - nông (Xã bộ nông, Thôn bộ nông) và hình thành khối liên minh công - nông",
-      "Buộc chính quyền thực dân Pháp phải trao trả độc lập cho Trung Kỳ và thả toàn bộ tù chính trị",
-      "Là cuộc tổng diễn tập lần thứ hai trực tiếp đưa Đảng ra hoạt động công khai hợp pháp"
+      "Đồng chí Trần Phú chủ trì; đổi tên Đảng thành Đảng Cộng sản Đông Dương và thông qua Luận cương chính trị",
+      "Đồng chí Nguyễn Ái Quốc chủ trì; thông qua Chánh cương vắn tắt và Sách lược vắn tắt",
+      "Đồng chí Lê Hồng Phong chủ trì; quyết định thành lập Mặt trận Dân chủ Đông Dương",
+      "Đồng chí Trường Chinh chủ trì; quyết định đổi tên Đảng thành Đảng Lao động Việt Nam"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 55 và Slide 113 tổng kết: Cao trào 1930–1931 (tổng diễn tập lần 1) là cao trào đầu tiên do Đảng lãnh đạo, thu hút hàng triệu người với đỉnh cao Xô Viết – Nghệ Tĩnh, lần đầu tiên giải quyết vấn đề giành chính quyền bằng bạo lực, hình thành Xã bộ nông, Thôn bộ nông và khối liên minh công - nông vững chắc."
+    "correctIndex": 0,
+    "explanation": "Hội nghị Trung ương lần thứ nhất (10/1930) tại Hương Cảng do đồng chí Trần Phú chủ trì đã thông qua Luận cương chính trị mới, đổi tên Đảng thành Đảng Cộng sản Đông Dương và bầu đồng chí Trần Phú làm Tổng Bí thư đầu tiên."
   },
   {
     "id": "c1_1.2.1_08",
@@ -906,16 +940,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "thong-hieu",
-    "question": "Trong Luận cương chính trị tháng 10/1930, nhận định nào thể hiện rõ quan điểm nhấn mạnh nhiệm vụ giai cấp của văn kiện này?",
+    "difficulty": "nhan-biet",
+    "question": "Văn kiện nào của Đảng nhấn mạnh luận điểm: “Vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền”?",
     "options": [
-      "“Dân tộc trên hết, Tổ quốc trên hết”",
-      "“Cuộc giải phóng dân tộc không nhất định phải kết chặt với cuộc cách mạng điền địa”",
-      "“Vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền”",
-      "“Tạm gác khẩu hiệu cách mạng ruộng đất để tập trung chống phát xít Nhật”"
+      "Chánh cương vắn tắt, Sách lược vắn tắt (2/1930)",
+      "Chính cương của Đảng Lao động Việt Nam (2/1951)",
+      "Luận cương chính trị tháng 10/1930",
+      "Chung quanh vấn đề chiến sách mới (10/1936)"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 60 trích dẫn nguyên văn Luận cương chính trị tháng 10/1930: “Vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền” — phản ánh việc Luận cương nặng về đấu tranh giai cấp, chưa đặt nhiệm vụ giải phóng dân tộc lên hàng đầu."
+    "explanation": "Luận cương chính trị tháng 10/1930 do đồng chí Trần Phú khởi thảo đã nhấn mạnh “Vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền”."
   },
   {
     "id": "c1_1.2.1_09",
@@ -923,16 +957,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "thong-hieu",
-    "question": "Nghị quyết chính trị của Đại hội lần thứ nhất Đảng Cộng sản Đông Dương (3/1935 tại Ma Cao) đã đề ra ba nhiệm vụ trước mắt nào?",
+    "difficulty": "van-dung",
+    "question": "Cương lĩnh chính trị đầu tiên (2/1930) và Luận cương chính trị (10/1930) khác nhau căn bản ở cách xác định hai vấn đề nào?",
     "options": [
-      "Phát động Tổng khởi nghĩa toàn quốc, thành lập Đội Việt Nam Tuyên truyền Giải phóng quân và bầu Quốc hội",
-      "Đấu tranh công khai trên báo chí; tham gia nghị trường Đông Dương; thành lập Mặt trận Dân chủ",
-      "Thành lập Mặt trận Việt Minh; tạm gác khẩu hiệu cách mạng ruộng đất; chuẩn bị khởi nghĩa vũ trang",
-      "Củng cố và phát triển Đảng; thu phục đông đảo quần chúng; Đảng lãnh đạo phong trào chống chiến tranh đế quốc"
+      "Lực lượng cách mạng và giai cấp lãnh đạo cách mạng",
+      "Nhiệm vụ cách mạng (vị trí chống đế quốc – chống phong kiến) và lực lượng cách mạng",
+      "Phương hướng chiến lược và giai cấp lãnh đạo cách mạng",
+      "Phương pháp bạo lực cách mạng và quan hệ đoàn kết quốc tế"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 68 nêu rõ 3 nhiệm vụ trong Nghị quyết chính trị của Đại hội I (27–31/3/1935 tại Ma Cao): (1) Củng cố và phát triển Đảng; (2) Thu phục đông đảo quần chúng; (3) Đảng lãnh đạo phong trào chống chiến tranh đế quốc."
+    "correctIndex": 1,
+    "explanation": "Cả hai văn kiện đều thống nhất về phương hướng chiến lược tiến lên CNXH, vai trò lãnh đạo của Đảng, bạo lực cách mạng và đoàn kết quốc tế; nhưng khác nhau căn bản ở vị trí nhiệm vụ cách mạng và tập hợp lực lượng."
   },
   {
     "id": "c1_1.2.1_10",
@@ -940,16 +974,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "van-dung",
-    "question": "So sánh Cương lĩnh chính trị đầu tiên (2/1930) và Luận cương chính trị (10/1930), điểm GIỐNG NHAU cơ bản giữa hai văn kiện là gì?",
+    "difficulty": "thong-hieu",
+    "question": "Thiếu sót lớn nhất của Luận cương chính trị tháng 10/1930 so với Cương lĩnh chính trị đầu tiên của Đảng là gì?",
     "options": [
-      "Đều xác định tư sản dân tộc và địa chủ vừa và nhỏ là lực lượng có thể tranh thủ, trung lập hóa",
-      "Đều lấy tên Đảng là Đảng Cộng sản Đông Dương và nhấn mạnh vấn đề thổ địa là cái cốt",
-      "Đều đặt nhiệm vụ giải phóng dân tộc lên vị trí hàng đầu, trên nhiệm vụ cách mạng ruộng đất",
-      "Đều thống nhất về phương hướng chiến lược tiến lên CNXH, mục tiêu chống đế quốc và phong kiến, sử dụng bạo lực cách mạng, giai cấp vô sản thông qua Đảng lãnh đạo và gắn với cách mạng thế giới"
+      "Xác định phương pháp cách mạng là võ trang bạo động",
+      "Chưa coi trọng đúng mức vấn đề dân tộc và chưa đoàn kết rộng rãi các giai cấp, tầng lớp yêu nước",
+      "Chưa xác định cách mạng Đông Dương là bộ phận của cách mạng thế giới",
+      "Chưa xác định con đường tiến lên chủ nghĩa xã hội"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 63 và Slide 64 liệt kê đầy đủ các điểm giống nhau giữa Cương lĩnh 2/1930 và Luận cương 10/1930: phương hướng chiến lược (tư sản dân quyền và thổ địa cách mạng bỏ qua tư bản tiến lên XHCN), mục tiêu chống đế quốc và phong kiến, sử dụng bạo lực cách mạng không thỏa hiệp, giai cấp vô sản qua đội tiên phong là ĐCS lãnh đạo, và cách mạng nước ta là một bộ phận của cách mạng vô sản thế giới."
+    "correctIndex": 1,
+    "explanation": "Thiếu sót lớn của Luận cương 10/1930 là không đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và đánh giá chưa đúng khả năng cách mạng của tiểu tư sản, tư sản dân tộc cùng bộ phận trung – tiểu địa chủ."
   },
   {
     "id": "c1_1.2.1_11",
@@ -957,16 +991,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "van-dung",
-    "question": "Hai hạn chế cốt lõi của Luận cương chính trị tháng 10/1930 khi đặt cạnh Cương lĩnh chính trị đầu tiên tháng 2/1930 là gì?",
+    "difficulty": "thong-hieu",
+    "question": "Ý nghĩa lịch sử nổi bật nhất của Đại hội đại biểu lần thứ nhất của Đảng Cộng sản Đông Dương (3/1935) họp tại Ma Cao (Trung Quốc) là gì?",
     "options": [
-      "Chưa đề cập đến phương pháp bạo lực cách mạng và chưa nêu vai trò đoàn kết quốc tế",
-      "Đánh giá quá cao vai trò của giai cấp tư sản dân tộc và coi nhẹ liên minh công - nông",
-      "Chưa coi trọng đúng mức vấn đề dân tộc (không đặt nhiệm vụ chống đế quốc lên hàng đầu) và chưa đoàn kết rộng rãi các giai cấp, tầng lớp yêu nước khác ngoài công - nông",
-      "Chưa xác định con đường tiến lên chủ nghĩa xã hội và từ bỏ vai trò lãnh đạo của Đảng"
+      "Hoàn chỉnh chủ trương chuyển hướng chiến lược và thành lập Mặt trận Việt Minh",
+      "Quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước",
+      "Khôi phục hệ thống tổ chức của Đảng từ trung ương đến cơ sở và phong trào cách mạng quần chúng",
+      "Thông qua Chính cương Đảng Lao động Việt Nam và đưa Đảng ra hoạt động công khai"
     ],
     "correctIndex": 2,
-    "explanation": "Sơ đồ SmartArt Slide 62 và phân tích tại Slide 60, 65 nêu rõ hai hạn chế lớn của Luận cương 10/1930: (1) Chưa coi trọng vấn đề dân tộc — không nêu rõ mâu thuẫn chủ yếu là giữa DTVN với ĐQ Pháp để đặt nhiệm vụ chống đế quốc lên hàng đầu; (2) Chưa đoàn kết rộng rãi — đánh giá không đúng vai trò cách mạng của tiểu tư sản, mặt yêu nước của tư sản dân tộc và khả năng lôi kéo bộ phận địa chủ vừa và nhỏ."
+    "explanation": "Đại hội I tại Ma Cao (27–31/3/1935) đánh dấu bước thắng lợi căn bản trong công cuộc khôi phục hệ thống tổ chức của Đảng và phong trào cách mạng sau thời kỳ khủng bố trắng 1931–1932."
   },
   {
     "id": "c1_1.2.1_12",
@@ -974,16 +1008,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.1",
     "sectionTitle": "Phong trào cách mạng 1930 - 1931 và khôi phục phong trào 1932 - 1935",
-    "difficulty": "van-dung",
-    "question": "Theo Luận cương chính trị tháng 10/1930, thái độ của các tầng lớp tư sản và tiểu tư sản ở Đông Dương bị đánh giá phiến diện như thế nào?",
+    "difficulty": "nhan-biet",
+    "question": "Nghị quyết chính trị của Đại hội lần thứ nhất Đảng Cộng sản Đông Dương (3/1935 tại Ma Cao) đã đề ra ba nhiệm vụ trọng tâm trước mắt nào?",
     "options": [
-      "Cho rằng tư sản thương nghiệp và công nghiệp đứng về phía đế quốc, tiểu tư sản thủ công do dự, tiểu tư sản thương gia không tán thành cách mạng, tiểu tư sản trí thức có xu hướng cải lương",
-      "Được đánh giá là động lực chủ yếu ngang hàng với giai cấp công nhân trong cách mạng giải phóng dân tộc",
-      "Được xác định là lực lượng trung lập hoàn toàn và luôn ủng hộ cuộc cách mạng ruộng đất triệt để",
-      "Cho rằng chỉ riêng tiểu tư sản trí thức mới có khả năng lãnh đạo giai cấp nông dân khởi nghĩa"
+      "Diệt giặc đói; diệt giặc dốt; diệt giặc ngoại xâm",
+      "Đánh đuổi phát xít Nhật; thành lập Mặt trận Việt Minh; chuẩn bị khởi nghĩa vũ trang",
+      "Củng cố và phát triển Đảng; thu phục đông đảo quần chúng; lãnh đạo phong trào chống chiến tranh đế quốc",
+      "Đấu tranh nghị trường; đấu tranh báo chí; mở chiến dịch du kích cục bộ"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 60 dẫn rõ đánh giá cứng nhắc của Luận cương 10/1930 về các giai cấp khác ngoài công - nông: tư sản thương nghiệp và công nghiệp đứng về phía đế quốc; bộ phận thủ công nghiệp trong tiểu tư sản có thái độ do dự; tiểu tư sản thương gia không tán thành cách mạng; tiểu tư sản trí thức có xu hướng cải lương."
+    "correctIndex": 2,
+    "explanation": "Slide 68 nêu chính xác 3 nhiệm vụ của Đại hội I (3/1935): (1) Củng cố và phát triển Đảng; (2) Thu phục đông đảo quần chúng; (3) Đảng lãnh đạo phong trào chống chiến tranh đế quốc."
   },
   {
     "id": "c1_1.2.2_01",
@@ -992,15 +1026,15 @@
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
     "difficulty": "nhan-biet",
-    "question": "Đại hội lần thứ VII của Quốc tế Cộng sản (tháng 7/1935) đã xác định kẻ thù nguy hiểm trước mắt và nhiệm vụ chính của nhân dân thế giới là gì?",
+    "question": "Trục phát xít hình thành trước và trong Chiến tranh thế giới thứ hai gồm ba quốc gia nào?",
     "options": [
-      "Kẻ thù chính là chủ nghĩa phát xít; nhiệm vụ chính là dân chủ, hòa bình và thành lập Mặt trận Nhân dân",
-      "Kẻ thù chính là giai cấp địa chủ phong kiến; nhiệm vụ chính là cải cách ruộng đất toàn cầu",
-      "Kẻ thù chính là đế quốc Mỹ; nhiệm vụ chính là tiến hành chiến tranh du kích giải phóng từng vùng",
-      "Kẻ thù chính là giai cấp tư sản dân tộc; nhiệm vụ chính là xóa bỏ hoàn toàn kinh tế thị trường"
+      "Đức – Tây Ban Nha – Nhật",
+      "Tây Ban Nha – Ý – Nhật",
+      "Đức – Ý – Tây Ban Nha",
+      "Đức – Ý – Nhật"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 70 nêu rõ nội dung Đại hội VII Quốc tế Cộng sản (7/1935, với sự tham dự của đoàn Việt Nam như Lê Hồng Phong, Nguyễn Thị Minh Khai): xác định kẻ thù chính là chủ nghĩa phát xít; nhiệm vụ chính là dân chủ, hòa bình và chủ trương thành lập Mặt trận Nhân dân."
+    "correctIndex": 3,
+    "explanation": "Trục phát xít hình thành gồm ba cường quốc phát xít Berlin – Roma – Tokyo tương ứng với Đức – Ý – Nhật."
   },
   {
     "id": "c1_1.2.2_02",
@@ -1009,15 +1043,15 @@
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
     "difficulty": "nhan-biet",
-    "question": "Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương tháng 7/1936 đề ra chủ trương đấu tranh dân chủ được tổ chức ở đâu và do ai chủ trì?",
+    "question": "Tại Đại hội lần thứ VII Quốc tế Cộng sản (7/1935), kẻ thù chính nguy hiểm nhất của cách mạng thế giới được xác định là:",
     "options": [
-      "Tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì",
-      "Tại Bà Điểm – Hóc Môn (Gia Định) do đồng chí Nguyễn Văn Cừ chủ trì",
-      "Tại Pác Bó (Cao Bằng) do đồng chí Nguyễn Ái Quốc chủ trì",
-      "Tại Ma Cao (Trung Quốc) do đồng chí Hà Huy Tập chủ trì"
+      "Chế độ phản động thuộc địa",
+      "Chủ nghĩa phát xít",
+      "Chủ nghĩa thực dân kiểu mới",
+      "Giai cấp địa chủ phong kiến"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 72 ghi rõ: Tháng 7/1936, Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương diễn ra tại Thượng Hải – Trung Quốc do đồng chí Lê Hồng Phong chủ trì."
+    "correctIndex": 1,
+    "explanation": "Đại hội VII Quốc tế Cộng sản (7/1935) họp tại Mátxcơva xác định kẻ thù nguy hiểm nhất trước mắt của nhân dân thế giới là chủ nghĩa phát xít, nhiệm vụ là dân chủ, hòa bình và lập Mặt trận Nhân dân."
   },
   {
     "id": "c1_1.2.2_03",
@@ -1026,15 +1060,15 @@
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
     "difficulty": "nhan-biet",
-    "question": "Trong thời kỳ đấu tranh dân chủ 1936 – 1939, tờ báo nào là cơ quan ngôn luận của Đảng Cộng sản Đông Dương lần đầu tiên phát hành công khai tại Sài Gòn (5.000 – 15.000 bản/ngày)?",
+    "question": "Tại Đại hội lần thứ VII của Quốc tế Cộng sản (7/1935) họp tại Mátxcơva, đoàn đại biểu Đảng ta do đồng chí nào dẫn đầu tham dự?",
     "options": [
-      "Báo Thanh Niên",
-      "Báo Búa Liềm",
-      "Báo Việt Nam Độc Lập",
-      "Báo Dân Chúng"
+      "Đồng chí Nguyễn Văn Cừ",
+      "Đồng chí Trần Phú",
+      "Đồng chí Lê Hồng Phong",
+      "Đồng chí Trường Chinh"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 75 giới thiệu: Báo Dân Chúng — cơ quan ngôn luận của Đảng Cộng sản Đông Dương, lần đầu tiên phát hành công khai tại Sài Gòn với số lượng mỗi ngày từ 5.000 đến 15.000 bản (bên cạnh báo Tin Tức là cơ quan ngôn luận của Mặt trận Dân chủ Đông Dương ở Slide 76)."
+    "correctIndex": 2,
+    "explanation": "Sau khi được bầu làm Tổng Bí thư tại Đại hội I (3/1935), đồng chí Lê Hồng Phong dẫn đầu đoàn đại biểu Đảng ta (có đồng chí Nguyễn Thị Minh Khai) tham dự Đại hội VII Quốc tế Cộng sản (7/1935)."
   },
   {
     "id": "c1_1.2.2_04",
@@ -1043,15 +1077,15 @@
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
     "difficulty": "thong-hieu",
-    "question": "Hội nghị Trung ương tháng 7/1936 đã xác định kẻ thù trực tiếp trước mắt, nhiệm vụ trước mắt và hình thức mặt trận ở Đông Dương là gì?",
+    "question": "Điều kiện khách quan trực tiếp mở ra khả năng đấu tranh công khai, hợp pháp cho phong trào dân chủ ở Đông Dương giai đoạn 1936 – 1939 là gì?",
     "options": [
-      "Kẻ thù là bọn phản động thuộc địa và bè lũ tay sai; nhiệm vụ là chống phát xít, chống chiến tranh đế quốc, chống phản động thuộc địa, đòi tự do, dân chủ, cơm áo, hòa bình; thành lập Mặt trận Thống nhất Nhân dân phản đế Đông Dương",
-      "Kẻ thù là phát xít Nhật; nhiệm vụ là đánh đuổi phát xít Nhật; thành lập Mặt trận Việt Minh",
-      "Kẻ thù là toàn thể giai cấp tư sản Pháp; nhiệm vụ là tổng khởi nghĩa vũ trang; lập chính quyền Xô viết",
-      "Kẻ thù là đế quốc Pháp và địa chủ phong kiến; nhiệm vụ là tịch thu toàn bộ ruộng đất chia cho dân cày"
+      "Chiến tranh thế giới thứ hai bùng nổ khiến thực dân Pháp suy yếu tại châu Âu",
+      "Chính phủ Mặt trận Nhân dân Pháp lên nắm quyền (6/1936) và nới lỏng một số quyền dân chủ ở thuộc địa",
+      "Đảng Cộng sản Đông Dương đã hoàn thành khôi phục tổ chức trong nước",
+      "Phát xít Nhật tràn vào Đông Dương làm đảo chính hất cẳng Pháp"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 72 nêu rõ 4 điểm chủ trương của HNTW 7/1936: Kẻ thù là bọn phản động thuộc địa và bè lũ tay sai; Nhiệm vụ trước mắt là chống phát xít, chống chiến tranh đế quốc, chống bọn phản động thuộc địa và tay sai, đòi tự do, dân chủ, cơm áo, hòa bình; Lực lượng là thành lập Mặt trận Thống nhất Nhân dân phản đế Đông Dương; Đoàn kết chặt chẽ với giai cấp công nhân và Đảng Cộng sản Pháp."
+    "correctIndex": 1,
+    "explanation": "Sự kiện Chính phủ Mặt trận Nhân dân Pháp lên cầm quyền (6/1936) và ban hành một số cải cách tiến bộ (thả tù chính trị, nới lỏng báo chí, hội họp) là điều kiện khách quan trực tiếp giúp Đảng phát động phong trào đấu tranh công khai."
   },
   {
     "id": "c1_1.2.2_05",
@@ -1059,16 +1093,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
-    "difficulty": "thong-hieu",
-    "question": "Điểm mới nổi bật về hình thức tổ chức và phương pháp đấu tranh của Đảng trong phong trào dân chủ 1936 – 1939 là gì?",
+    "difficulty": "nhan-biet",
+    "question": "Hội nghị Trung ương tháng 7/1936 do đồng chí Lê Hồng Phong chủ trì tại Thượng Hải đã xác định kẻ thù cụ thể trước mắt của nhân dân Đông Dương là đối tượng nào?",
     "options": [
-      "Chuyển hoàn toàn sang đấu tranh bí mật, bất hợp pháp và xây dựng căn cứ địa miền núi",
-      "Dừng mọi hoạt động quần chúng trong nước để tập trung vận động ngoại giao quốc tế",
-      "Chỉ sử dụng chiến tranh du kích kết hợp tổng bãi công vũ trang ở các khu công nghiệp",
-      "Tận dụng tối đa hình thức đấu tranh công khai, hợp pháp và bán công khai, bán hợp pháp (mít tinh, nghị trường, báo chí)"
+      "Phát xít Nhật và quân đội Tưởng Giới Thạch",
+      "Toàn thể nhân dân và Chính phủ Mặt trận Nhân dân Pháp",
+      "Đế quốc Mỹ và tay sai phong kiến phản động",
+      "Bọn phản động thuộc địa và bè lũ tay sai của chúng"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 73 và bảng tổng hợp Slide 78 trình bày các hình thức đấu tranh phong phú thời kỳ 1936–1939: đấu tranh công khai, hợp pháp và bán công khai, bán hợp pháp trên 3 mặt trận lớn — đấu tranh đòi quyền tự do, dân sinh, dân chủ (hội họp, mít tinh như mít tinh 1/5/1938 tại khu Đấu Xảo Hà Nội), đấu tranh nghị trường và đấu tranh báo chí."
+    "explanation": "Trong giai đoạn 1936–1939, Đảng xác định kẻ thù cụ thể trước mắt không phải thực dân Pháp nói chung mà là bọn phản động thuộc địa và bè lũ tay sai không chịu thi hành chính sách tiến bộ của Mặt trận Nhân dân Pháp."
   },
   {
     "id": "c1_1.2.2_06",
@@ -1077,15 +1111,15 @@
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
     "difficulty": "thong-hieu",
-    "question": "Trong bảng tổng hợp ba mặt trận đấu tranh thời kỳ 1936 – 1939, mục tiêu của hình thức “đấu tranh nghị trường” là gì?",
+    "question": "Nhiệm vụ trước mắt đầy đủ nhất của cách mạng Đông Dương trong giai đoạn 1936 – 1939 được Hội nghị Trung ương tháng 7/1936 xác định là:",
     "options": [
-      "Thỏa hiệp với chính quyền thuộc địa để chia sẻ quyền lực hành chính lâu dài",
-      "Bầu ra Chính phủ lâm thời của nước Việt Nam Dân chủ Cộng hòa ngay trong năm 1938",
-      "Mở rộng lực lượng của Mặt trận, vạch trần chính sách phản động của địch và bênh vực quyền lợi của nhân dân",
-      "Thay thế hoàn toàn vai trò của báo chí cách mạng và các cuộc mít tinh quần chúng"
+      "Chỉ chống bọn phản động thuộc địa và tay sai",
+      "Chỉ chống phát xít và chống chiến tranh đế quốc",
+      "Đánh đổ đế quốc Pháp và phát xít Nhật để thành lập Chính phủ nhân dân",
+      "Chống phát xít, chống chiến tranh đế quốc, chống bọn phản động thuộc địa và tay sai, đòi tự do, dân chủ, cơm áo, hòa bình"
     ],
-    "correctIndex": 2,
-    "explanation": "Bảng Slide 78 nêu rõ về Đấu tranh nghị trường: Hình thức là đưa người của Mặt trận Dân chủ Đông Dương ra ứng cử và dùng báo chí vận động nhân dân ủng hộ; Mục tiêu là mở rộng lực lượng của Mặt trận, vạch trần chính sách phản động của địch và bênh vực quyền lợi của nhân dân."
+    "correctIndex": 3,
+    "explanation": "Slide 72 xác định trọn vẹn nhiệm vụ trước mắt thời kỳ 1936–1939: chống phát xít, chống chiến tranh đế quốc, chống bọn phản động thuộc địa và tay sai, đòi tự do, dân chủ, cơm áo, hòa bình."
   },
   {
     "id": "c1_1.2.2_07",
@@ -1093,16 +1127,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
-    "difficulty": "van-dung",
-    "question": "Văn kiện “Chung quanh vấn đề chiến sách mới” (tháng 10/1936) đánh dấu bước chuyển nhận thức lý luận quan trọng nào của Đảng về mối quan hệ giữa hai nhiệm vụ dân tộc và dân chủ?",
+    "difficulty": "nhan-biet",
+    "question": "Hội nghị Ban Chấp hành Trung ương tháng 7/1936 tại Thượng Hải đã quyết định thành lập mặt trận nào?",
     "options": [
-      "Khẳng định muốn đánh đổ đế quốc nhất thiết phải hoàn thành triệt để cách mạng điền địa trước",
-      "Chủ trương từ bỏ hoàn toàn mục tiêu độc lập dân tộc để theo đuổi chủ nghĩa cải lương",
-      "Chỉ rõ cuộc giải phóng dân tộc không nhất định phải kết chặt với cuộc cách mạng điền địa — bước đầu khắc phục tư duy cứng nhắc của Luận cương 10/1930",
-      "Xác định nhiệm vụ dân chủ hoàn toàn không liên quan đến mục tiêu chiến lược của cách mạng"
+      "Mặt trận Thống nhất dân chủ Đông Dương",
+      "Mặt trận Thống nhất nhân dân phản đế Đông Dương",
+      "Mặt trận Thống nhất dân tộc phản đế Đông Dương",
+      "Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh)"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 73 trích dẫn văn kiện Chung quanh vấn đề chiến sách mới (10/1936): “Cuộc giải phóng dân tộc không nhất định phải kết chặt với cuộc cách mạng điền địa. Nghĩa là không thể nói rằng: muốn đánh đổ Đế quốc cần phải phát triển cách mạng điền địa, muốn giải quyết vấn đề điền địa cần phải đánh đổ đế quốc. Lý thuyết ấy có phần không xác đáng”. Đây là bước phát triển tư duy quan trọng, tháo gỡ sự máy móc của Luận cương 10/1930."
+    "correctIndex": 1,
+    "explanation": "Hội nghị Trung ương tháng 7/1936 quyết định thành lập Mặt trận Thống nhất nhân dân phản đế Đông Dương (đến năm 1938 đổi tên thành Mặt trận Dân chủ Đông Dương)."
   },
   {
     "id": "c1_1.2.2_08",
@@ -1110,16 +1144,152 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.2",
     "sectionTitle": "Phong trào dân chủ 1936 - 1939",
-    "difficulty": "van-dung",
-    "question": "Ý nghĩa cốt lõi của chủ trương mới thời kỳ 1936 – 1939 (được đánh giá là cuộc Tổng diễn tập lần thứ hai chuẩn bị cho Cách mạng Tháng Tám) là gì?",
+    "difficulty": "thong-hieu",
+    "question": "Mặt trận Thống nhất nhân dân phản đế Đông Dương (1936) chủ trương tập hợp những lực lượng nào?",
     "options": [
-      "Buộc thực dân Pháp rút hết quân đội khỏi Đông Dương trước khi Chiến tranh thế giới thứ hai nổ ra",
-      "Xây dựng hoàn chỉnh đội quân chủ lực và hệ thống căn cứ địa giải phóng ở Việt Bắc",
-      "Giải quyết đúng đắn mối quan hệ giữa mục tiêu chiến lược và mục tiêu cụ thể trước mắt, mở rộng khối lực lượng quần chúng rộng rãi và tích lũy kinh nghiệm đấu tranh công khai",
-      "Hợp nhất thành công Mặt trận Việt Minh với các đảng phái thân Nhật ở trong nước"
+      "Chỉ bao gồm trí thức thành thị và các đại biểu nghị trường",
+      "Chỉ riêng hai giai cấp công nhân và nông dân lao khổ",
+      "Tất cả các lực lượng quân sự thuộc chính quyền thực dân Pháp",
+      "Công nhân, nông dân, tiểu tư sản trí thức, tư sản dân tộc và địa chủ yêu nước"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mặt trận Thống nhất nhân dân phản đế Đông Dương tập hợp rộng rãi các giai cấp, tầng lớp tiến bộ yêu nước: công nhân, nông dân, tiểu tư sản trí thức, tư sản dân tộc và cả địa chủ có xu hướng dân chủ, yêu nước."
+  },
+  {
+    "id": "c1_1.2.2_09",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "nhan-biet",
+    "question": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 7/1936 xác định hình thức tổ chức và phương pháp đấu tranh chủ yếu là:",
+    "options": [
+      "Đấu tranh công khai, hợp pháp và bán công khai, bán hợp pháp",
+      "Chỉ đấu tranh công khai và hợp pháp",
+      "Đấu tranh vũ trang kết hợp bãi công tự phát",
+      "Chỉ đấu tranh bí mật và bất hợp pháp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hội nghị Thượng Hải (7/1936) do Lê Hồng Phong chủ trì quyết định kết hợp khéo léo các hình thức đấu tranh công khai, hợp pháp với bán công khai, bán hợp pháp."
+  },
+  {
+    "id": "c1_1.2.2_10",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "van-dung",
+    "question": "Hình thức đấu tranh nào dưới đây KHÔNG xuất hiện trong phong trào cách mạng 1936 – 1939 ở Việt Nam?",
+    "options": [
+      "Đấu tranh báo chí công khai",
+      "Đấu tranh đòi quyền tự do, dân sinh, dân chủ",
+      "Đấu tranh vũ trang giành chính quyền",
+      "Đấu tranh nghị trường"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 78, 79 và 113 tổng kết: Thời kỳ 1936–1939 (Tổng diễn tập lần 2) đã giải quyết đúng đắn mối quan hệ giữa mục tiêu chiến lược lâu dài với mục tiêu cụ thể trước mắt, mở rộng lực lượng cách mạng (công nhân, nông dân, trí thức tiểu tư sản, thợ thủ công, buôn bán nhỏ...), thức tỉnh quần chúng và rèn luyện cho Đảng kinh nghiệm tổ chức đấu tranh công khai."
+    "explanation": "Giai đoạn 1936–1939 là thời kỳ đấu tranh chính trị hòa bình, dân chủ công khai và bán công khai (báo chí, mít tinh, nghị trường), không tổ chức bạo động vũ trang giành chính quyền."
+  },
+  {
+    "id": "c1_1.2.2_11",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "van-dung",
+    "question": "Trong văn kiện “Chung quanh vấn đề chiến sách mới” (10/1936), nhận thức lý luận mới của Đảng về quan hệ giữa nhiệm vụ giải phóng dân tộc và cách mạng điền địa là gì?",
+    "options": [
+      "Đặt nhiệm vụ cách mạng điền địa làm cái cốt cao hơn nhiệm vụ giải phóng dân tộc",
+      "Khẳng định muốn đánh đổ đế quốc nhất thiết phải hoàn thành triệt để cách mạng điền địa trước",
+      "Chủ trương từ bỏ hoàn toàn mục tiêu độc lập dân tộc để theo đuổi cải cách nghị trường",
+      "Khẳng định cuộc giải phóng dân tộc không nhất định phải kết chặt với cuộc cách mạng điền địa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Văn kiện “Chung quanh vấn đề chiến sách mới” (10/1936) bước đầu khắc phục tư duy cứng nhắc của Luận cương 10/1930 khi chỉ rõ cuộc giải phóng dân tộc không nhất định phải kết chặt với cuộc cách mạng điền địa."
+  },
+  {
+    "id": "c1_1.2.2_12",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "nhan-biet",
+    "question": "Phong trào đấu tranh tiêu biểu năm 1936 mà Đảng tổ chức nhân dân họp, lập ủy ban hành động và ký vào các bản “Dân nguyện” gửi phái đoàn Quốc hội Pháp là phong trào nào?",
+    "options": [
+      "Phong trào phá kho thóc của Nhật",
+      "Khởi nghĩa Yên Thế",
+      "Phong trào Đông Dương Đại hội",
+      "Phong trào Xô viết – Nghệ Tĩnh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Phong trào Đông Dương Đại hội (1936) là cuộc vận động dân chủ sâu rộng, tổ chức quần chúng thảo luận và thu thập các bản “Dân nguyện” gửi tới phái đoàn điều tra của Quốc hội Pháp."
+  },
+  {
+    "id": "c1_1.2.2_13",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "nhan-biet",
+    "question": "Tờ báo nào là cơ quan ngôn luận của Đảng Cộng sản Đông Dương lần đầu tiên được xuất bản và phát hành công khai tại Sài Gòn trong giai đoạn 1936 – 1939?",
+    "options": [
+      "Báo Búa Liềm",
+      "Báo Thanh Niên",
+      "Báo Cứu Quốc",
+      "Báo Dân Chúng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Slide 75 nêu rõ: Báo Dân Chúng là cơ quan ngôn luận của Đảng Cộng sản Đông Dương, lần đầu phát hành công khai tại Sài Gòn với số lượng 5.000 – 15.000 bản/ngày."
+  },
+  {
+    "id": "c1_1.2.2_14",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "nhan-biet",
+    "question": "Trong phong trào Dân chủ 1936 – 1939, cuộc mít tinh công khai quy mô lớn nhất (hơn 2,5 vạn người) kỷ niệm ngày Quốc tế Lao động 1/5/1938 diễn ra tại địa điểm nào?",
+    "options": [
+      "Khu Đấu Xảo (Hà Nội)",
+      "Quảng trường Ba Đình (Hà Nội)",
+      "Bến cảng Nhà Rồng (Sài Gòn)",
+      "Ngã ba Bến Thủy (Nghệ An)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Slide 77 ghi rõ: Mít tinh quần chúng quy mô lớn ngày 1/5/1938 diễn ra tại Khu Đấu Xảo Hà Nội (nay là Cung Văn hóa Lao động Hữu Nghị)."
+  },
+  {
+    "id": "c1_1.2.2_15",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "thong-hieu",
+    "question": "Một hình thức đấu tranh hoàn toàn mới được Đảng vận dụng trong thời kỳ 1936 – 1939 nhằm vạch trần chính sách phản động của địch và bênh vực quyền lợi nhân dân là:",
+    "options": [
+      "Chiến tranh du kích cục bộ tại vùng rừng núi trung du",
+      "Đấu tranh nghị trường thông qua việc đưa đại biểu của Mặt trận Dân chủ ra ứng cử",
+      "Khởi nghĩa từng phần giành chính quyền tại các xã vùng sâu",
+      "Phát động tổng bãi công vũ trang trên phạm vi toàn Đông Dương"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bảng tổng hợp Slide 78 chỉ rõ đấu tranh nghị trường là hình thức hoàn toàn mới thời kỳ 1936–1939, đưa đại biểu Mặt trận Dân chủ ra ứng cử để mở rộng ảnh hưởng và bênh vực nhân dân."
+  },
+  {
+    "id": "c1_1.2.2_16",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.2",
+    "sectionTitle": "Phong trào dân chủ 1936 - 1939",
+    "difficulty": "thong-hieu",
+    "question": "Phong trào nào được đánh giá là cuộc “Tổng diễn tập lần thứ hai” của Đảng và quần chúng chuẩn bị cho Cách mạng Tháng Tám năm 1945?",
+    "options": [
+      "Cao trào kháng Nhật cứu nước 1945",
+      "Cao trào Xô viết – Nghệ Tĩnh 1930 – 1931",
+      "Phong trào dân chủ 1936 – 1939",
+      "Phong trào phá kho thóc Nhật giải quyết nạn đói"
+    ],
+    "correctIndex": 2,
+    "explanation": "Slide 113 tổng kết tiến trình 15 năm chuẩn bị cho Cách mạng Tháng Tám: Cao trào 1930–1931 là Tổng diễn tập lần 1; Phong trào dân chủ 1936–1939 là Tổng diễn tập lần 2; thời kỳ 1939–1945 trực tiếp dẫn đến thắng lợi."
   },
   {
     "id": "c1_1.2.3_01",
@@ -1128,15 +1298,15 @@
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
     "difficulty": "nhan-biet",
-    "question": "Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương tháng 11/1939 mở đầu chủ trương chuyển hướng chỉ đạo chiến lược đã họp tại đâu?",
+    "question": "Văn kiện nào của Đảng mở đầu chủ trương chuyển hướng chỉ đạo chiến lược, tạm gác khẩu hiệu “cách mạng ruộng đất” và chuyển sang phương pháp đấu tranh bí mật, bất hợp pháp?",
     "options": [
-      "Tại làng Đình Bảng (Bắc Ninh)",
-      "Tại Tân Trào (Tuyên Quang)",
-      "Tại Bà Điểm – Hóc Môn (Gia Định)",
-      "Tại Pác Bó (Cao Bằng)"
+      "Nghị quyết Hội nghị Ban Chấp hành Trung ương tháng 11/1939 (tại Bà Điểm, Hóc Môn)",
+      "Nghị quyết Đại hội lần thứ nhất của Đảng tháng 3/1935",
+      "Nghị quyết Hội nghị Ban Chấp hành Trung ương tháng 7/1936",
+      "Chỉ thị “Nhật – Pháp bắn nhau và hành động của chúng ta” tháng 3/1945"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 86 ghi rõ: Hội nghị BCH Trung ương Đảng Cộng sản Đông Dương (11/1939) được tổ chức tại Bà Điểm – Hóc Môn – Gia Định, đánh dấu bước chuyển hướng chỉ đạo chiến lược đầu tiên của Đảng trong giai đoạn 1939–1945."
+    "correctIndex": 0,
+    "explanation": "Hội nghị Trung ương tháng 11/1939 (tại Bà Điểm – Hóc Môn, Gia Định) do Tổng Bí thư Nguyễn Văn Cừ chủ trì mở đầu chuyển hướng chiến lược, tạm gác khẩu hiệu cách mạng ruộng đất và rút vào hoạt động bí mật, bất hợp pháp."
   },
   {
     "id": "c1_1.2.3_02",
@@ -1145,15 +1315,15 @@
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
     "difficulty": "nhan-biet",
-    "question": "Việt Nam Độc lập Đồng minh hội (Mặt trận Việt Minh) chính thức thành lập vào ngày tháng năm nào và công bố 10 chính sách lớn vào thời gian nào?",
+    "question": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 11/1939 đã quyết định thành lập mặt trận nào nhằm tập hợp tất cả các dân tộc, giai cấp, đảng phái, cá nhân yêu nước ở Đông Dương?",
     "options": [
-      "Thành lập ngày 11/11/1939; công bố 10 chính sách ngày 23/11/1940",
-      "Thành lập ngày 19/5/1941; công bố 10 chính sách ngày 25/10/1941",
-      "Thành lập ngày 22/12/1944; công bố 10 chính sách ngày 12/3/1945",
-      "Thành lập ngày 13/8/1945; công bố 10 chính sách ngày 16/8/1945"
+      "Mặt trận Thống nhất dân tộc phản đế Đông Dương",
+      "Mặt trận Liên Việt",
+      "Mặt trận Thống nhất nhân dân phản đế Đông Dương",
+      "Mặt trận Việt Minh"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 89 nêu chính xác hai mốc thời gian: Ngày 19/5/1941, Việt Nam Độc lập Đồng minh hội (Mặt trận Việt Minh) thành lập; ngày 25/10/1941 công bố 10 chính sách lớn với mục tiêu “Làm cho nước Việt Nam được hoàn toàn độc lập, dân Việt Nam được sung sướng, tự do”."
+    "correctIndex": 0,
+    "explanation": "Cần phân biệt tên gọi: HNTW 7/1936 lập Mặt trận Thống nhất nhân dân phản đế Đông Dương; còn HNTW 11/1939 lập Mặt trận Thống nhất dân tộc phản đế Đông Dương."
   },
   {
     "id": "c1_1.2.3_03",
@@ -1162,15 +1332,15 @@
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
     "difficulty": "nhan-biet",
-    "question": "Đội Việt Nam Tuyên truyền Giải phóng quân — đội quân chủ lực đầu tiên của Mặt trận Việt Minh — được thành lập vào ngày nào và ban đầu gồm bao nhiêu đội viên?",
+    "question": "Quân đội phát xít Nhật tiến vào xâm lược Đông Dương và bắt tay với thực dân Pháp cùng cai trị nhân dân ta vào thời gian nào?",
     "options": [
-      "Ngày 22/12/1944 với 34 đội viên đầu tiên (5 người dân tộc Kinh, 29 người dân tộc thiểu số)",
-      "Ngày 19/5/1941 với 50 đội viên là nông dân Cao - Bắc - Lạng",
-      "Ngày 9/3/1945 với 34 đội viên tuyển chọn từ đội du kích Ba Tơ",
-      "Ngày 27/9/1940 với 40 đội viên từ khởi nghĩa Bắc Sơn"
+      "Tháng 2/1940",
+      "Tháng 9/1940",
+      "Tháng 10/1940",
+      "Tháng 3/1941"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 95 và Slide 97 nêu rõ: Đội Việt Nam Tuyên truyền Giải phóng quân thành lập ngày 22/12/1944, là đội quân chủ lực của Mặt trận Việt Minh, gồm 34 đồng chí đội viên đầu tiên (5 người dân tộc Kinh và 29 người dân tộc thiểu số)."
+    "correctIndex": 1,
+    "explanation": "Tháng 9/1940, quân đội phát xít Nhật tiến vào Đông Dương và câu kết với thực dân Pháp cùng cai trị, đẩy nhân dân ta vào cảnh “một cổ hai tròng”."
   },
   {
     "id": "c1_1.2.3_04",
@@ -1178,16 +1348,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "nhan-biet",
-    "question": "Chỉ thị lịch sử “Nhật – Pháp bắn nhau và hành động của chúng ta” được Ban Thường vụ Trung ương Đảng ban hành tại Hội nghị mở rộng nào?",
+    "difficulty": "thong-hieu",
+    "question": "Chính sách vơ vét lương thực, bắt nhân dân nhổ lúa trồng đay cực kỳ tàn bạo của Pháp – Nhật đã gây ra hậu quả thảm khốc trực tiếp nào vào cuối năm 1944 đầu năm 1945?",
     "options": [
-      "Hội nghị tháng 11/1939 tại Bà Điểm – Hóc Môn (Gia Định)",
-      "Hội nghị tháng 5/1941 tại Pác Bó (Cao Bằng)",
-      "Hội nghị toàn quốc ngày 14 – 15/8/1945 tại Tân Trào (Tuyên Quang)",
-      "Hội nghị từ ngày 9 đến 12/3/1945 tại làng Đình Bảng (Bắc Ninh)"
+      "Khủng hoảng tài chính ở chính quốc Pháp",
+      "Đình trệ hoạt động thương mại đường biển của Nhật",
+      "Mất cân bằng ngân sách của chính quyền Bảo Đại",
+      "Hơn 2 triệu người dân Việt Nam bị chết đói"
     ],
     "correctIndex": 3,
-    "explanation": "Slide 101 nêu rõ: Từ ngày 9 đến 12/3/1945, Ban Thường vụ Trung ương Đảng họp Hội nghị mở rộng tại làng Đình Bảng (Bắc Ninh), ban hành Chỉ thị “Nhật – Pháp bắn nhau và hành động của chúng ta”, phát động cao trào kháng Nhật cứu nước."
+    "explanation": "Chính sách thu gom lương thực và bắt nhổ lúa trồng đay của phát xít Nhật – thực dân Pháp đã gây ra nạn đói lịch sử làm hơn 2 triệu đồng bào Việt Nam chết đói cuối năm 1944 – đầu năm 1945."
   },
   {
     "id": "c1_1.2.3_05",
@@ -1196,15 +1366,15 @@
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
     "difficulty": "nhan-biet",
-    "question": "Hội nghị toàn quốc của Đảng Cộng sản Đông Dương quyết định phát lệnh Tổng khởi nghĩa trên phạm vi cả nước diễn ra vào thời gian nào và tại đâu?",
+    "question": "Cuộc khởi nghĩa vũ trang nào nổ ra vào tháng 9/1940 đã để lại bài học quý báu về khởi nghĩa vũ trang, chọn thời cơ và dẫn đến sự ra đời một đội du kích cách mạng?",
     "options": [
-      "Ngày 12/8/1945 tại làng Đình Bảng (Bắc Ninh)",
-      "Ngày 28/8/1945 tại chiến khu Cao - Bắc - Lạng",
-      "Ngày 19/8/1945 tại Quảng trường Nhà hát lớn Hà Nội",
-      "Ngày 14 và 15/8/1945 tại Tân Trào (Tuyên Quang)"
+      "Khởi nghĩa Bắc Sơn",
+      "Khởi nghĩa Nam Kỳ",
+      "Khởi nghĩa Ba Tơ",
+      "Khởi nghĩa Yên Thế"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 103 trình bày chuỗi sự kiện quyết định: ngày 12/8/1945 Ủy ban lâm thời khu giải phóng hạ lệnh tổng khởi nghĩa; ngày 13/8/1945 Ủy ban khởi nghĩa thành lập phát lệnh tổng khởi nghĩa; ngày 14 và 15/8/1945 Hội nghị toàn quốc của Đảng họp tại Tân Trào (Tuyên Quang) quyết định phát lệnh tổng khởi nghĩa trên phạm vi cả nước."
+    "correctIndex": 0,
+    "explanation": "Slide 87 nêu rõ: Khởi nghĩa Bắc Sơn (9/1940) tuy bị đàn áp nhưng để lại bài học sâu sắc về khởi nghĩa vũ trang, chọn thời cơ khởi nghĩa và hình thành đội du kích Bắc Sơn."
   },
   {
     "id": "c1_1.2.3_06",
@@ -1213,15 +1383,15 @@
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
     "difficulty": "nhan-biet",
-    "question": "Cuộc Tổng khởi nghĩa Cách mạng Tháng Tám năm 1945 đã giành thắng lợi trên phạm vi cả nước chỉ trong vòng bao nhiêu ngày?",
+    "question": "Lá cờ đỏ sao vàng năm cánh (sau này trở thành Quốc kỳ Việt Nam) xuất hiện lần đầu tiên gắn với sự kiện nào và do ai vẽ?",
     "options": [
-      "Trong vòng 30 ngày (từ 1 đến 30/8/1945)",
-      "Trong vòng 15 ngày (từ 14 đến 28/8/1945)",
-      "Trong vòng 7 ngày (từ 19 đến 25/8/1945)",
-      "Trong vòng 45 ngày (từ 15/7 đến 2/9/1945)"
+      "Cuộc khởi nghĩa Nam Kỳ (11/1940), do đồng chí Nguyễn Hữu Tiến vẽ",
+      "Cuộc khởi nghĩa Bắc Sơn (9/1940), do đồng chí Hoàng Văn Thụ vẽ",
+      "Lễ thành lập Đội VNTTGPQ (12/1944), do đồng chí Võ Nguyên Giáp vẽ",
+      "Hội nghị thành lập Đảng (2/1930), do đồng chí Nguyễn Ái Quốc vẽ"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 105 khẳng định: Chỉ trong vòng 15 ngày (14 – 28/8/1945), cuộc Tổng khởi nghĩa đã thành công trên cả nước, chính quyền về tay nhân dân, dẫn đến ngày 2/9/1945 Bác Hồ đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình."
+    "correctIndex": 0,
+    "explanation": "Slide 49 ghi chú rõ: Quốc kỳ cờ đỏ sao vàng xuất hiện từ Hội nghị Xứ ủy Nam Kỳ (khởi nghĩa Nam Kỳ tháng 11/1940), do đồng chí Nguyễn Hữu Tiến vẽ."
   },
   {
     "id": "c1_1.2.3_07",
@@ -1229,16 +1399,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "thong-hieu",
-    "question": "Chủ trương mới về khẩu hiệu ruộng đất, mặt trận và phương pháp đấu tranh tại Hội nghị Trung ương tháng 11/1939 là gì?",
+    "difficulty": "van-dung",
+    "question": "Văn kiện nào của Đảng được xem là đã khắc phục hoàn toàn những hạn chế của Luận cương chính trị tháng 10/1930 và hoàn chỉnh chủ trương chuyển hướng chỉ đạo chiến lược?",
     "options": [
-      "Xóa bỏ mọi loại thuế; lập Hội Liên Việt; phát động chiến tranh du kích trên toàn quốc",
-      "Thực hiện triệt để cách mạng ruộng đất; lập Mặt trận Dân chủ Đông Dương; đẩy mạnh đấu tranh nghị trường công khai",
-      "Phát động kháng Nhật cứu nước; lập Mặt trận Việt Minh; đánh đuổi riêng phát xít Nhật",
-      "Tạm gác khẩu hiệu “Cách mạng ruộng đất”; thành lập Mặt trận Thống nhất Dân tộc phản đế Đông Dương; chuyển sang đấu tranh bí mật, bất hợp pháp"
+      "Nghị quyết Hội nghị Ban Chấp hành Trung ương tháng 7/1936",
+      "Nghị quyết Hội nghị Ban Chấp hành Trung ương lần thứ 8 tháng 5/1941",
+      "Nghị quyết Đại hội Đảng lần thứ nhất tháng 3/1935",
+      "Nghị quyết Hội nghị Ban Chấp hành Trung ương tháng 11/1939"
     ],
-    "correctIndex": 3,
-    "explanation": "Slide 86 nêu rõ nội dung HNTW 11/1939: Đánh đổ đế quốc Pháp, giải phóng các dân tộc Đông Dương; tạm gác khẩu hiệu “Cách mạng ruộng đất” thay bằng chống địa tô cao, cho vay lãi nặng, tịch thu ruộng đất của đế quốc và địa chủ phản bội dân tộc; thành lập Mặt trận Thống nhất Dân tộc phản đế Đông Dương; chuyển từ đấu tranh công khai hợp pháp sang bí mật, bất hợp pháp."
+    "correctIndex": 1,
+    "explanation": "HNTW 6 (11/1939) mở đầu bước chuyển hướng, đến Hội nghị Trung ương lần thứ 8 (5/1941) do Nguyễn Ái Quốc chủ trì đã hoàn chỉnh chuyển hướng chiến lược, khắc phục hoàn toàn hạn chế của Luận cương 10/1930."
   },
   {
     "id": "c1_1.2.3_08",
@@ -1246,16 +1416,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "thong-hieu",
-    "question": "Cuộc khởi nghĩa Bắc Sơn (9/1940) dù bị đàn áp nhưng đã để lại ý nghĩa và bài học thực tiễn quan trọng nào mở đầu thời kỳ đấu tranh mới?",
+    "difficulty": "nhan-biet",
+    "question": "Mặt trận nào giữ vai trò tập hợp toàn dân tộc, xây dựng lực lượng chính trị, lực lượng vũ trang và chuẩn bị trực tiếp quyết định thắng lợi của Cách mạng Tháng Tám 1945?",
     "options": [
-      "Chứng minh phương pháp đấu tranh nghị trường vẫn có hiệu quả dưới ách phát xít Nhật",
-      "Trực tiếp giải phóng toàn bộ khu vực Việt Bắc và thành lập Ủy ban giải phóng dân tộc",
-      "Để lại bài học về khởi nghĩa vũ trang, bài học chọn thời cơ khởi nghĩa và hình thành đội du kích Bắc Sơn",
-      "Buộc phát xít Nhật phải ký hiệp ước ngừng bắn với lực lượng Việt Minh ở Lạng Sơn"
+      "Mặt trận Thống nhất nhân dân phản đế Đông Dương",
+      "Mặt trận Dân chủ Đông Dương",
+      "Mặt trận Việt Minh",
+      "Mặt trận Thống nhất dân tộc phản đế Đông Dương"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 87 nêu rõ về Khởi nghĩa Bắc Sơn (9/1940): khi Nhật vào Đông Dương đánh vào Lạng Sơn, quân Pháp bỏ chạy qua Bắc Sơn, nhân dân Bắc Sơn nổi dậy đánh Pháp. Tuy bị đàn áp nhưng cuộc khởi nghĩa để lại bài học quý báu về khởi nghĩa vũ trang, chọn thời cơ khởi nghĩa và hình thành đội du kích Bắc Sơn."
+    "explanation": "Mặt trận Việt Minh (thành lập ngày 19/5/1941 theo quyết định của HNTW 8) giữ vai trò đoàn kết rộng rãi toàn dân, xây dựng lực lượng và căn cứ địa chuẩn bị trực tiếp cho Tổng khởi nghĩa Tháng Tám."
   },
   {
     "id": "c1_1.2.3_09",
@@ -1263,16 +1433,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "thong-hieu",
-    "question": "Hội nghị lần thứ tám Ban Chấp hành Trung ương Đảng (tháng 5/1941) đã hoàn chỉnh chủ trương chuyển hướng chỉ đạo chiến lược với ba nội dung lớn nào?",
+    "difficulty": "nhan-biet",
+    "question": "Theo chủ trương của Hội nghị Trung ương lần thứ 8 (5/1941), tên gọi chung của các tổ chức đoàn thể quần chúng trong Mặt trận Việt Minh là gì?",
     "options": [
-      "Đưa nhiệm vụ giải phóng dân tộc lên hàng đầu; thành lập Mặt trận Việt Minh (đổi các hội phản đế thành Hội Cứu quốc); quyết định xúc tiến chuẩn bị khởi nghĩa vũ trang",
-      "Đấu tranh đòi cơm áo hòa bình; thành lập Mặt trận Dân chủ Đông Dương; cử đại biểu tham gia nghị trường",
-      "Đặt vấn đề thổ địa làm cái cốt; đổi tên Đảng thành Đảng Cộng sản Đông Dương; xây dựng Xô viết công nông",
-      "Đàm phán hòa hoãn với Pháp; đổi tên lực lượng vũ trang thành Vệ quốc đoàn; tổ chức Tổng tuyển cử"
+      "Hội Giải phóng",
+      "Hội Phản đế",
+      "Hội Cứu quốc",
+      "Hội Dân chủ"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 88–92 trình bày 3 trụ cột của HNTW 8 (5/1941): Thứ nhất, đưa nhiệm vụ giải phóng dân tộc lên hàng đầu, giải quyết mâu thuẫn với đế quốc, phát xít Pháp - Nhật; Thứ hai, thành lập Mặt trận Việt Minh thay cho Mặt trận Thống nhất Dân tộc phản đế Đông Dương, đổi các hội phản đế thành Hội Cứu quốc; Thứ ba, quyết định xúc tiến chuẩn bị khởi nghĩa vũ trang."
+    "correctIndex": 2,
+    "explanation": "Hội nghị Trung ương 8 (5/1941) quyết định đổi tên các Hội Phản đế thành Hội Cứu quốc (Công nhân cứu quốc, Nông dân cứu quốc, Thanh niên cứu quốc, Phụ nữ cứu quốc...)."
   },
   {
     "id": "c1_1.2.3_10",
@@ -1281,15 +1451,15 @@
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
     "difficulty": "thong-hieu",
-    "question": "Trong Chỉ thị thành lập Đội Việt Nam Tuyên truyền Giải phóng quân (tháng 12/1944), Chủ tịch Hồ Chí Minh giải thích ý nghĩa tên gọi và chiến thuật của đội như thế nào?",
+    "question": "Trong bức thư gửi đồng bào toàn quốc vào tháng 10/1944, Chủ tịch Hồ Chí Minh đã đưa ra dự báo chiến lược quan trọng nào về thời cơ giải phóng dân tộc?",
     "options": [
-      "Quân sự trọng hơn chính trị; áp dụng chiến thuật đánh công kiên quy mô lớn ngay từ đầu",
-      "Chỉ làm nhiệm vụ tuyên truyền bằng báo chí, tuyệt đối không phối hợp với lực lượng vũ trang địa phương",
-      "Chính trị trọng hơn quân sự, là đội quân đàn anh khởi điểm của Giải phóng quân; vận dụng lối đánh du kích bí mật, nhanh chóng, tích cực, “nay đông, mai tây, lai vô ảnh, khứ vô tung”",
-      "Hoạt động độc lập tách rời khỏi nhân dân để giữ tuyệt đối bí mật lực lượng chủ lực"
+      "“Điều kiện tổng khởi nghĩa đã chín muồi, phải đánh chiếm ngay các đô thị lớn trong mùa đông 1944”",
+      "“Giờ quyết định cho vận mệnh dân tộc ta đã đến, toàn quốc đồng bào hãy đứng dậy đem sức ta mà giải phóng cho ta”",
+      "“Cơ hội cho dân tộc ta giải phóng chỉ trong một năm hoặc một năm rưỡi nữa. Thời gian gấp. Ta phải làm cho nhanh”",
+      "“Chúng ta muốn hòa bình, chúng ta phải nhân nhượng”"
     ],
     "correctIndex": 2,
-    "explanation": "Slide 96 trích nguyên văn Chỉ thị của Hồ Chí Minh (12/1944): “Đội Việt Nam Tuyên truyền Giải phóng quân nghĩa là chính trị trọng hơn quân sự. Nó là đội tuyên truyền... là đội quân đàn anh... khởi điểm của Giải phóng quân”; về chiến thuật: “Vận dụng lối đánh du kích, bí mật, nhanh chóng, tích cực, nay đông, mai tây, lai vô ảnh, khứ vô tung”."
+    "explanation": "Slide 98 trích bức thư tháng 10/1944 của Hồ Chí Minh gửi đồng bào toàn quốc: “Cơ hội cho dân tộc ta giải phóng chỉ trong một năm hoặc một năm rưỡi nữa. Thời gian gấp. Ta phải làm cho nhanh” — dự báo thiên tài đúng sát Cách mạng Tháng Tám 1945."
   },
   {
     "id": "c1_1.2.3_11",
@@ -1297,16 +1467,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "thong-hieu",
-    "question": "Sau cuộc đảo chính Nhật – Pháp (9/3/1945), Chỉ thị “Nhật – Pháp bắn nhau và hành động của chúng ta” đã điều chỉnh kẻ thù chính, khẩu hiệu và dự báo thời cơ khởi nghĩa như thế nào?",
+    "difficulty": "nhan-biet",
+    "question": "Đội quân chủ lực đầu tiên của Mặt trận Việt Minh được thành lập ngày 22/12/1944 là tổ chức nào?",
     "options": [
-      "Xác định kẻ thù chính là phát xít Nhật; thay khẩu hiệu thành “Đánh đuổi phát xít Nhật”; nhận định điều kiện tổng khởi nghĩa chưa chín muồi, thời cơ là khi quân Đồng minh vào Đông Dương đánh Nhật hoặc khi cách mạng Nhật bùng nổ",
-      "Xác định kẻ thù chính là thực dân Pháp; giữ nguyên khẩu hiệu “Đánh đuổi phát xít Nhật - Pháp” và tổng khởi nghĩa ngay lập tức",
-      "Xác định điều kiện tổng khởi nghĩa đã chín muồi ngay trong tháng 3/1945 nên phát lệnh đánh chiếm Hà Nội",
-      "Chủ trương liên minh với quân Pháp đang rút chạy để lập chính phủ liên hiệp chống Nhật"
+      "Đội du kích Củ Chi",
+      "Đội Việt Nam Tuyên truyền Giải phóng quân",
+      "Đội du kích Bắc Sơn",
+      "Đội du kích Ba Tơ"
     ],
-    "correctIndex": 0,
-    "explanation": "Slide 102 nêu chính xác nội dung Chỉ thị 12/3/1945: Điều kiện tổng khởi nghĩa chưa chín muồi; kẻ thù cụ thể trước mắt duy nhất là phát xít Nhật; đổi khẩu hiệu “Đánh đuổi phát xít Nhật - Pháp” thành “Đánh đuổi phát xít Nhật”; phương châm phát động chiến tranh du kích giải phóng từng vùng, mở rộng căn cứ địa; thời cơ là khi quân Đồng minh vào Đông Dương đánh Nhật hoặc cách mạng Nhật bùng nổ."
+    "correctIndex": 1,
+    "explanation": "Đội Việt Nam Tuyên truyền Giải phóng quân thành lập ngày 22/12/1944 là đội quân chủ lực đầu tiên của Mặt trận Việt Minh, tiền thân của Quân đội nhân dân Việt Nam."
   },
   {
     "id": "c1_1.2.3_12",
@@ -1314,16 +1484,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "thong-hieu",
-    "question": "Khẩu hiệu đấu tranh được Hội nghị toàn quốc của Đảng tại Tân Trào (14 – 15/8/1945) xác định lúc phát lệnh Tổng khởi nghĩa là gì?",
+    "difficulty": "nhan-biet",
+    "question": "Ngày 22/12/1944, Đội Việt Nam Tuyên truyền Giải phóng quân thành lập tại Cao Bằng gồm bao nhiêu đội viên đầu tiên và cơ cấu dân tộc ra sao?",
     "options": [
-      "“Đánh đuổi phát xít Nhật - Pháp! Tịch thu ruộng đất chia cho dân cày!”",
-      "“Phản đối xâm lược! Hoàn toàn độc lập! Chính quyền nhân dân!”",
-      "“Tự do, dân chủ, cơm áo, hòa bình!”",
-      "“Kháng chiến toàn dân, toàn diện, lâu dài, tự lực cánh sinh!”"
+      "34 đội viên (29 người dân tộc Kinh và 5 người dân tộc thiểu số), do đồng chí Hoàng Văn Thụ chỉ huy",
+      "50 đội viên (25 người dân tộc Kinh và 25 người dân tộc thiểu số), do đồng chí Trường Chinh chỉ huy",
+      "34 đội viên (5 người dân tộc Kinh và 29 người dân tộc thiểu số), do đồng chí Võ Nguyên Giáp chỉ huy",
+      "40 đội viên (10 người dân tộc Kinh và 30 người dân tộc thiểu số), do đồng chí Phạm Văn Đồng chỉ huy"
     ],
-    "correctIndex": 1,
-    "explanation": "Slide 103 ghi rõ: Hội nghị toàn quốc của Đảng họp tại Tân Trào ngày 14–15/8/1945 quyết định phát lệnh Tổng khởi nghĩa trên phạm vi cả nước với khẩu hiệu đấu tranh: “Phản đối xâm lược! Hoàn toàn độc lập! Chính quyền nhân dân!”, đồng thời thông qua 10 chính sách của Mặt trận Việt Minh và thành lập Ủy ban Giải phóng dân tộc Việt Nam do Hồ Chí Minh làm Chủ tịch."
+    "correctIndex": 2,
+    "explanation": "Slide 97 nêu rõ Đội Việt Nam Tuyên truyền Giải phóng quân thành lập ngày 22/12/1944 gồm 34 đội viên đầu tiên (5 người dân tộc Kinh, 29 người dân tộc thiểu số), do đồng chí Võ Nguyên Giáp trực tiếp chỉ huy."
   },
   {
     "id": "c1_1.2.3_13",
@@ -1331,16 +1501,16 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "van-dung",
-    "question": "Sự kiện nào đánh dấu bước ngoặt giúp Hội nghị Trung ương tháng 11/1939 và đặc biệt là Hội nghị Trung ương 8 (5/1941) khắc phục hoàn toàn hạn chế của Luận cương tháng 10/1930, trở về với tinh thần đúng đắn của Cương lĩnh đầu tiên (2/1930)?",
+    "difficulty": "thong-hieu",
+    "question": "Theo tư tưởng chỉ đạo của Hồ Chí Minh trong Chỉ thị thành lập Đội Việt Nam Tuyên truyền Giải phóng quân (12/1944), nguyên tắc hàng đầu trong tên gọi của đội là gì?",
     "options": [
-      "Chuyển toàn bộ hoạt động của Đảng sang đấu tranh nghị trường và báo chí công khai ở đô thị",
-      "Xác định vấn đề thổ địa là cái cốt và đẩy mạnh đấu tranh giai cấp quyết liệt trong nội bộ dân tộc",
-      "Đưa nhiệm vụ giải phóng dân tộc lên hàng đầu, tạm gác khẩu hiệu cách mạng ruộng đất và xây dựng khối đại đoàn kết toàn dân tộc rộng rãi trong Mặt trận Việt Minh",
-      "Đổi tên Đảng thành Đảng Cộng sản Đông Dương và tách rời cách mạng ba nước Đông Dương"
+      "Quân sự trọng hơn chính trị",
+      "Chính trị trọng hơn quân sự",
+      "Tác chiến hiệp đồng binh chủng quy mô lớn",
+      "Hoạt động tách biệt khỏi các đội vũ trang địa phương"
     ],
-    "correctIndex": 2,
-    "explanation": "Slide 86, 88 và 99 phân tích sâu ý nghĩa lý luận của quá trình chuyển hướng chỉ đạo chiến lược 1939–1941: bằng việc đặt nhiệm vụ giải phóng dân tộc lên hàng đầu, tạm gác khẩu hiệu cách mạng ruộng đất và quy tụ mọi giai cấp, tầng lớp yêu nước trong Mặt trận Việt Minh, Đảng đã khắc phục triệt để hạn chế tả khuynh của Luận cương 10/1930 và trở về với tính đúng đắn, sáng tạo của Cương lĩnh 2/1930."
+    "correctIndex": 1,
+    "explanation": "Slide 96 trích Chỉ thị tháng 12/1944 của Hồ Chí Minh: “Tên: Đội Việt Nam Tuyên truyền Giải phóng quân nghĩa là chính trị trọng hơn quân sự. Nó là đội tuyên truyền”."
   },
   {
     "id": "c1_1.2.3_14",
@@ -1348,15 +1518,321 @@
     "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
     "sectionId": "1.2.3",
     "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
-    "difficulty": "van-dung",
-    "question": "Vì sao thắng lợi của Cách mạng Tháng Tám năm 1945 không phải là sự “ăn may” từ yếu tố khách quan mà là kết quả tất yếu của nguyên nhân chủ quan kết hợp nắm bắt thời cơ?",
+    "difficulty": "thong-hieu",
+    "question": "Trong Chỉ thị thành lập Đội Việt Nam Tuyên truyền Giải phóng quân (12/1944), Chủ tịch Hồ Chí Minh chỉ rõ phương châm chiến thuật tác chiến là gì?",
     "options": [
-      "Vì quân Đồng minh đã trực tiếp đổ bộ vào Việt Nam tiêu diệt toàn bộ quân Nhật trước ngày 14/8/1945",
-      "Vì đó là kết quả và đỉnh cao của 15 năm chuẩn bị và đấu tranh liên tục dưới sự lãnh đạo của Đảng (qua hai cuộc tổng diễn tập 1930–1931, 1936–1939 và trực tiếp 1939–1945), nhờ đó kịp thời chớp đúng thời cơ “ngàn năm có một” khi Nhật đầu hàng Đồng minh (14/8/1945)",
-      "Vì thực dân Pháp đã chủ động trao trả chính quyền cho Mặt trận Việt Minh ngay sau khi Đức đầu hàng (9/5/1945)",
-      "Vì Nhật hoàng Hirohito đã ký văn bản công nhận nền độc lập của nước Việt Nam Dân chủ Cộng hòa tại Tân Trào"
+      "“Đánh nhanh, thắng nhanh, tập trung toàn bộ lực lượng công phá trực diện các đô thị lớn”",
+      "“Vận dụng lối đánh du kích, bí mật, nhanh chóng, tích cực, nay đông, mai tây, lai vô ảnh, khứ vô tung”",
+      "“Cố thủ phòng ngự dài ngày trong công sự kiên cố, tuyệt đối không di chuyển địa bàn”",
+      "“Chỉ đấu tranh chính trị hòa bình, tránh mọi cuộc đụng độ vũ trang với quân Nhật”"
     ],
     "correctIndex": 1,
-    "explanation": "Slide 109–116 phân tích chặt chẽ nguyên nhân thắng lợi và bài học kinh nghiệm của Cách mạng Tháng Tám: yếu tố khách quan (Liên Xô và Đồng minh đánh bại phát xít Đức 5/1945, Mỹ ném bom nguyên tử 6/8 và 9/8, Nhật đầu hàng 14/8/1945) tạo ra thời cơ thuận lợi, nhưng nhân tố quyết định là nguyên nhân chủ quan — 15 năm chuẩn bị, rèn luyện qua các cao trào 1930–1931, 1936–1939, 1939–1945 dưới sự lãnh đạo sáng suốt của Đảng và nghệ thuật chớp thời cơ khởi nghĩa."
+    "explanation": "Slide 96 trích nguyên văn mục 3 Về chiến thuật trong Chỉ thị tháng 12/1944: “Vận dụng lối đánh du kích, bí mật, nhanh chóng, tích cực, nay đông, mai tây, lai vô ảnh, khứ vô tung”."
+  },
+  {
+    "id": "c1_1.2.3_15",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "van-dung",
+    "question": "Vì sao phát xít Nhật bất ngờ làm cuộc đảo chính hất cẳng thực dân Pháp ra khỏi Đông Dương vào đêm 9/3/1945?",
+    "options": [
+      "Để trừ hậu họa khi quân Đồng minh vào Đông Dương, Pháp sẽ dựa vào Đồng minh đánh úp sau lưng Nhật",
+      "Nhật muốn trao trả độc lập thực sự cho các dân tộc Đông Dương",
+      "Thực dân Pháp tự nguyện rút quân khỏi Đông Dương nên Nhật vào thay thế",
+      "Nhật đã hoàn toàn đầu hàng phe Đồng minh ở mặt trận Thái Bình Dương"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đêm 9/3/1945, khi cục diện chiến tranh bất lợi, Nhật đảo chính Pháp nhằm loại trừ nguy cơ quân Pháp câu kết với quân Đồng minh đánh úp sau lưng Nhật khi Đồng minh đổ bộ vào Đông Dương."
+  },
+  {
+    "id": "c1_1.2.3_16",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Chỉ thị lịch sử “Nhật – Pháp bắn nhau và hành động của chúng ta” được Ban Thường vụ Trung ương Đảng ban hành vào ngày nào và tại địa phương nào?",
+    "options": [
+      "Ngày 13/8/1945 tại Tân Trào (Tuyên Quang)",
+      "Ngày 9/3/1945 tại Bà Điểm – Hóc Môn (Gia Định)",
+      "Ngày 22/3/1945 tại Pác Bó (Cao Bằng)",
+      "Ngày 12/3/1945 tại làng Đình Bảng (Từ Sơn, Bắc Ninh)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Slide 101 ghi rõ: Hội nghị Ban Thường vụ Trung ương mở rộng họp từ ngày 9 đến 12/3/1945 tại làng Đình Bảng (Từ Sơn, Bắc Ninh) đã ra Chỉ thị “Nhật – Pháp bắn nhau và hành động của chúng ta” ngày 12/3/1945."
+  },
+  {
+    "id": "c1_1.2.3_17",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Chỉ thị “Nhật – Pháp bắn nhau và hành động của chúng ta” (12/3/1945) xác định kẻ thù cụ thể trước mắt và khẩu hiệu đấu tranh mới là gì?",
+    "options": [
+      "Kẻ thù là bọn phản động thuộc địa; đề ra khẩu hiệu “Tự do, cơm áo, hòa bình”",
+      "Kẻ thù là cả Pháp và Nhật; giữ nguyên khẩu hiệu “Đánh đuổi phát xít Nhật – Pháp”",
+      "Kẻ thù là thực dân Pháp; đề ra khẩu hiệu “Chống nhổ lúa trồng đay”",
+      "Kẻ thù là phát xít Nhật; thay khẩu hiệu thành “Đánh đuổi phát xít Nhật”"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sau đảo chính 9/3/1945, Chỉ thị ngày 12/3/1945 xác định kẻ thù cụ thể trước mắt duy nhất là phát xít Nhật và thay khẩu hiệu “Đánh đuổi phát xít Nhật – Pháp” thành “Đánh đuổi phát xít Nhật”."
+  },
+  {
+    "id": "c1_1.2.3_18",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "thong-hieu",
+    "question": "Khẩu hiệu kinh tế – xã hội cấp bách nào được Mặt trận Việt Minh phát động trong cao trào kháng Nhật cứu nước (1945), lôi cuốn hàng triệu quần chúng vùng lên?",
+    "options": [
+      "“Tăng gia sản xuất ngay! Tăng gia sản xuất nữa!”",
+      "“Người cày có ruộng, xóa bỏ chế độ phong kiến”",
+      "“Tuần lễ vàng, hũ gạo tiết kiệm”",
+      "“Phá kho thóc Nhật, giải quyết nạn đói”"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trước nạn đói khủng khiếp đầu năm 1945, khẩu hiệu “Phá kho thóc Nhật, giải quyết nạn đói” đã đánh trúng nguyện vọng sống còn của hàng triệu nông dân, tạo nên làn sóng đấu tranh sôi sục tiền khởi nghĩa."
+  },
+  {
+    "id": "c1_1.2.3_19",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "thong-hieu",
+    "question": "Trong Cao trào kháng Nhật cứu nước (từ 3/1945), phương châm đấu tranh quân sự chủ yếu tại vùng rừng núi và trung du Bắc Kỳ là hình thức nào?",
+    "options": [
+      "Đấu tranh báo chí công khai",
+      "Chiến tranh du kích cục bộ, giải phóng từng vùng và mở rộng căn cứ địa",
+      "Đấu tranh nghị trường hòa bình",
+      "Tổng tiến công đồng loạt bằng quân chính quy vào tất cả các thành phố lớn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chỉ thị 12/3/1945 đề ra phương châm phát động chiến tranh du kích cục bộ, giải phóng từng vùng và mở rộng căn cứ địa cách mạng ở vùng rừng núi và trung du Bắc Kỳ."
+  },
+  {
+    "id": "c1_1.2.3_20",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Ngay khi có tin Nhật hoàng chuẩn bị đầu hàng Đồng minh, cơ quan nào được thành lập đêm 13/8/1945 tại Tân Trào để ban bố Quân lệnh số 1 phát động Tổng khởi nghĩa toàn quốc?",
+    "options": [
+      "Hội đồng Chính phủ lâm thời",
+      "Chính phủ Liên hiệp kháng chiến",
+      "Ủy ban Khởi nghĩa toàn quốc",
+      "Ủy ban Quân quản Hà Nội"
+    ],
+    "correctIndex": 2,
+    "explanation": "Slide 103 ghi rõ: Ngày 13/8/1945, Ủy ban Khởi nghĩa toàn quốc được thành lập và lập tức phát đi Quân lệnh số 1 hạ lệnh Tổng khởi nghĩa trên cả nước."
+  },
+  {
+    "id": "c1_1.2.3_21",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Hội nghị toàn quốc của Đảng họp tại Tân Trào (ngày 14 và 15/8/1945) phát lệnh Tổng khởi nghĩa đã đề ra khẩu hiệu đấu tranh nào?",
+    "options": [
+      "“Tự do, dân chủ, cơm áo, hòa bình!”",
+      "“Đánh đuổi phát xít Nhật – Pháp! Tịch thu ruộng đất chia cho dân cày!”",
+      "“Phản đối xâm lược! Hoàn toàn độc lập! Chính quyền nhân dân!”",
+      "“Dân tộc trên hết, Tổ quốc trên hết!”"
+    ],
+    "correctIndex": 2,
+    "explanation": "Slide 103 nêu rõ khẩu hiệu đấu tranh tại Hội nghị toàn quốc của Đảng (14–15/8/1945 tại Tân Trào): “Phản đối xâm lược! Hoàn toàn độc lập! Chính quyền nhân dân!”."
+  },
+  {
+    "id": "c1_1.2.3_22",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Đại hội nào họp ngày 16 – 17/8/1945 tại Tân Trào (Tuyên Quang) đã tán thành chủ trương Tổng khởi nghĩa, thông qua 10 chính sách của Việt Minh và bầu Ủy ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch?",
+    "options": [
+      "Quốc dân Đại hội Tân Trào",
+      "Đại hội đại biểu toàn quốc lần thứ nhất của Đảng",
+      "Đại hội đại biểu toàn quốc lần thứ hai của Đảng",
+      "Kỳ họp thứ nhất Quốc hội khóa I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quốc dân Đại hội Tân Trào (16–17/8/1945) thể hiện ý chí thống nhất của toàn dân tộc, tán thành lệnh Tổng khởi nghĩa, thông qua 10 chính sách lớn của Việt Minh và lập Ủy ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch."
+  },
+  {
+    "id": "c1_1.2.3_23",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "thong-hieu",
+    "question": "Chính sách đối ngoại trong 10 chính sách lớn của Mặt trận Việt Minh được xác định như thế nào?",
+    "options": [
+      "Chỉ thiết lập quan hệ ngoại giao với các nước phương Tây có thuộc địa ở châu Á",
+      "Đóng cửa ngoại giao để tập trung tuyệt đối vào xây dựng lực lượng trong nước",
+      "Liên minh quân sự chặt chẽ với các nước thuộc phe trục phát xít",
+      "Thân thiện và giao hảo với các nước Đồng minh và các dân tộc nhược tiểu để giành sự đồng tình, ủng hộ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chính sách thứ 10 trong 10 chính sách lớn của Mặt trận Việt Minh (Slide 104): “Thân thiện và giao hảo với các nước Đồng minh và các nước nhược tiểu dân tộc để giành lấy sự đồng tình và sức ủng hộ của họ”."
+  },
+  {
+    "id": "c1_1.2.3_24",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Cuộc Tổng khởi nghĩa Cách mạng Tháng Tám năm 1945 đã giành thắng lợi trên phạm vi cả nước trong khoảng thời gian mau lẹ nào?",
+    "options": [
+      "Trong vòng 2 tháng, từ tháng 7 đến tháng 9/1945",
+      "Trong vòng 30 ngày, từ ngày 1/8 đến ngày 30/8/1945",
+      "Trong vòng 7 ngày, từ ngày 19/8 đến ngày 25/8/1945",
+      "Trong vòng 15 ngày, từ ngày 14/8 đến ngày 28/8/1945"
+    ],
+    "correctIndex": 3,
+    "explanation": "Slide 105 khẳng định: Chỉ trong vòng 15 ngày (14 – 28/8/1945), cuộc Tổng khởi nghĩa đã giành thắng lợi hoàn toàn trên cả nước, chính quyền về tay nhân dân."
+  },
+  {
+    "id": "c1_1.2.3_25",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Ngày 30/8/1945 ghi dấu sự kiện lịch sử nào tại Ngọ Môn (Huế), chấm dứt hoàn toàn chế độ quân chủ phong kiến hàng nghìn năm ở Việt Nam?",
+    "options": [
+      "Tổng khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn",
+      "Vua Bảo Đại tuyên bố thoái vị và trao nộp ấn kiếm cho đại diện chính quyền cách mạng",
+      "Tổng khởi nghĩa giành chính quyền thắng lợi ở Hà Nội",
+      "Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chiều ngày 30/8/1945 tại Ngọ Môn (Huế), vua Bảo Đại tuyên bố thoái vị, trao nộp ấn kiếm cho phái đoàn chính quyền cách mạng, chấm dứt vĩnh viễn chế độ quân chủ phong kiến ở Việt Nam."
+  },
+  {
+    "id": "c1_1.2.3_26",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Ngay sau ngày tuyên bố độc lập (2/9/1945), Chính phủ lâm thời đã xác định ba nhiệm vụ cấp bách cần giải quyết là gì?",
+    "options": [
+      "Chỉ tập trung xóa bỏ tàn dư phong kiến và cải cách ruộng đất",
+      "Chỉ tập trung chống giặc ngoại xâm ở miền Nam",
+      "Diệt giặc đói, diệt giặc dốt và diệt giặc ngoại xâm",
+      "Chỉ tập trung xây dựng nền công nghiệp nặng hiện đại"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ngay sau ngày Tuyên ngôn Độc lập 2/9/1945, Chủ tịch Hồ Chí Minh và Chính phủ lâm thời đã xác định ba nhiệm vụ cấp bách trước mắt là: diệt giặc đói, diệt giặc dốt và diệt giặc ngoại xâm."
+  },
+  {
+    "id": "c1_1.2.3_27",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "nhan-biet",
+    "question": "Từ khi Đảng ra đời (1930) đến năm 1945, sự kiện nào được coi là kết quả và đỉnh cao của 15 năm đấu tranh của toàn dân tộc dưới sự lãnh đạo của Đảng?",
+    "options": [
+      "Thắng lợi của Cách mạng Tháng Tám năm 1945",
+      "Thắng lợi của cao trào Xô viết – Nghệ Tĩnh 1930 – 1931",
+      "Thành công của Đại hội I của Đảng tại Ma Cao năm 1935",
+      "Thắng lợi của phong trào đấu tranh đòi quyền dân chủ 1936 – 1939"
+    ],
+    "correctIndex": 0,
+    "explanation": "Slide 113 khẳng định: Cách mạng Tháng Tám là kết quả và đỉnh cao của 15 năm đấu tranh liên tục của toàn dân tộc dưới sự lãnh đạo của Đảng (1930–1945)."
+  },
+  {
+    "id": "c1_1.2.3_28",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "van-dung",
+    "question": "Vì sao thắng lợi của Cách mạng Tháng Tám năm 1945 được xem là một cuộc cách mạng giải phóng dân tộc điển hình mang tầm vóc quốc tế?",
+    "options": [
+      "Vì có sự tham chiến trực tiếp của quân đội Đồng minh trên khắp các tỉnh thành Việt Nam",
+      "Vì đây là lần đầu tiên một nước thuộc địa giành độc lập bằng con đường thương lượng hòa bình không khởi nghĩa",
+      "Vì đã làm sụp đổ hoàn toàn hệ thống tư bản chủ nghĩa ở Tây Âu",
+      "Vì lần đầu tiên cách mạng giải phóng dân tộc theo con đường cách mạng vô sản đã giành thắng lợi trọn vẹn ở một nước thuộc địa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Slide 108 nhấn mạnh: Cách mạng Tháng Tám mang tính điển hình vì lần đầu tiên một cuộc cách mạng giải phóng dân tộc theo quỹ đạo cách mạng vô sản đã giành thắng lợi trọn vẹn ở một nước thuộc địa."
+  },
+  {
+    "id": "c1_1.2.3_29",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "van-dung",
+    "question": "Nguyên nhân nào dưới đây là nguyên nhân quyết định nhất đưa Cách mạng Tháng Tám năm 1945 đi đến thắng lợi hoàn toàn?",
+    "options": [
+      "Sự lãnh đạo đúng đắn, sáng suốt và kịp thời của Đảng Cộng sản Đông Dương",
+      "Dân tộc Việt Nam có truyền thống yêu nước chống ngoại xâm",
+      "Phát xít Nhật bị phe Đồng minh đánh bại và đầu hàng vô điều kiện",
+      "Thực dân Pháp bị phát xít Nhật đảo chính loại khỏi Đông Dương"
+    ],
+    "correctIndex": 0,
+    "explanation": "Các yếu tố khách quan tạo thời cơ thuận lợi, nhưng sự lãnh đạo sáng suốt, đường lối đúng đắn và nhạy bén của Đảng Cộng sản Đông Dương (đứng đầu là Chủ tịch Hồ Chí Minh) là nhân tố chủ quan quyết định nhất."
+  },
+  {
+    "id": "c1_1.2.3_30",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "van-dung",
+    "question": "Yếu tố nào dưới đây đã tác động trực tiếp làm cho Cách mạng Tháng Tám năm 1945 nổ ra và giành thắng lợi nhanh chóng, ít đổ máu?",
+    "options": [
+      "Quân đội Nhật chủ động bàn giao toàn bộ vũ khí cho Mặt trận Việt Minh",
+      "Thời cơ khách quan thuận lợi (phát xít Nhật đầu hàng Đồng minh, chính quyền bù nhìn tan rã)",
+      "Chính phủ Pháp công nhận độc lập của Việt Nam từ tháng 5/1945",
+      "Quân Đồng minh đã giải phóng sẵn Hà Nội, Huế và Sài Gòn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sự kiện Nhật hoàng tuyên bố đầu hàng Đồng minh (14/8/1945) khiến kẻ thù trực tiếp tê liệt, tạo nên thời cơ khách quan “ngàn năm có một” giúp ta giành chính quyền nhanh chóng và ít đổ máu."
+  },
+  {
+    "id": "c1_1.2.3_31",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "thong-hieu",
+    "question": "Bài học kinh nghiệm hàng đầu được Đảng rút ra từ thắng lợi của Cách mạng Tháng Tám năm 1945 là gì?",
+    "options": [
+      "Xây dựng lực lượng vũ trang chính quy hiện đại là nhiệm vụ duy nhất",
+      "Giương cao ngọn cờ độc lập dân tộc, kết hợp đúng đắn hai nhiệm vụ chống đế quốc và chống phong kiến",
+      "Tăng cường liên minh quân sự thường trực với các cường quốc phương Tây",
+      "Chú trọng đấu tranh nghị trường là con đường căn bản giành chính quyền"
+    ],
+    "correctIndex": 1,
+    "explanation": "Slide 116 đặt bài học số 1 của Cách mạng Tháng Tám là: Giương cao ngọn cờ độc lập dân tộc, kết hợp đúng đắn hai nhiệm vụ chống đế quốc và chống phong kiến."
+  },
+  {
+    "id": "c1_1.2.3_32",
+    "chapter": 1,
+    "chapterTitle": "Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945)",
+    "sectionId": "1.2.3",
+    "sectionTitle": "Chủ trương đấu tranh từ năm 1939 đến năm 1945",
+    "difficulty": "van-dung",
+    "question": "Bài học kinh nghiệm nghệ thuật chỉ đạo nổi bật nhất quyết định việc Cách mạng Tháng Tám năm 1945 thành công nhanh chóng trong vòng 15 ngày là gì?",
+    "options": [
+      "Phát động chiến tranh quy ước dài ngày ở vùng đồng bằng trước khi tiến vào đô thị",
+      "Tập trung phát triển kinh tế hàng hóa nhiều thành phần ngay trước khi khởi nghĩa",
+      "Ký kết hiệp định ngoại giao với phát xít Nhật để chuyển giao quyền lực hòa bình",
+      "Nắm vững nghệ thuật khởi nghĩa và chớp đúng thời cơ cách mạng “ngàn năm có một”"
+    ],
+    "correctIndex": 3,
+    "explanation": "Slide 116 nhấn mạnh bài học “Nắm vững nghệ thuật khởi nghĩa, nghệ thuật chọn thời cơ”: phát lệnh Tổng khởi nghĩa đúng lúc Nhật vừa đầu hàng Đồng minh nhưng quân Đồng minh chưa kịp kéo vào Đông Dương."
   }
 ]
